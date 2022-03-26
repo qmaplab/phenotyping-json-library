@@ -1,0 +1,2 @@
+# phenotyping-json-library
+This provides a public repository of JSON files for a range of standardised questionnaires or clinical scales. Please note - These are the JSON files only, to help create BIDS compliant datasets, and should not be considered as copies of the questionnaires themselves. Users should always check the licensing requirements for each scale prior to use.Please feel free to add to, or use, as required.
