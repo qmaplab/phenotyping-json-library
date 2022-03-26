@@ -1,0 +1,106 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Functional Activities Questionnaire",
+    "TermURL": "https://www.alz.org/careplanning/downloads/functional-activities-questionnaire.pdf"
+  },
+  "faq_q01": {
+    "LongName": "FAQ Q01: Finance",
+    "Description": "Writing checks, paying bills, balancing checkbook",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  },
+  "faq_q02": {
+    "LongName": "FAQ Q02: Business",
+    "Description": "Assembling tax records, business affairs, or papers",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  },
+  "faq_q03": {
+    "LongName": "FAQ Q03: Shopping",
+    "Description": "Shopping alone for clothes, household necessities, or groceries",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  },
+  "faq_q04": {
+    "LongName": "FAQ Q04: Hobby",
+    "Description": "Playing a game of skill, working on a hobby",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  },
+  "faq_q05": {
+    "LongName": "FAQ Q05: Hot drink",
+    "Description": "Heating water, making a cup of coffee, turning off stove after use",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  },
+  "faq_q06": {
+    "LongName": "FAQ Q06: Meals",
+    "Description": "Preparing a balanced meal",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  },
+  "faq_q07": {
+    "LongName": "FAQ Q07: Current events",
+    "Description": "Keeping track of current events",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  },
+  "faq_q08": {
+    "LongName": "FAQ Q08: Attention",
+    "Description": "Paying attention to, understanding, discussing TV, book, magazine",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  },
+  "faq_q09": {
+    "LongName": "FAQ Q09: Time-keeping",
+    "Description": "Remembering appointments, family occasions, holidays, medications",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  },
+  "faq_q10": {
+    "LongName": "FAQ Q10: Travel",
+    "Description": "Traveling out of neighborhood, driving, arranging to take buses",
+    "Levels": {
+      "0": "Normal or Never did [the activity] but could do now",
+      "1": "Has difficulty but does by self or Never did and would have difficulty now",
+      "2": "Requires assistance",
+      "3": "Dependent"
+    }
+  }
+}

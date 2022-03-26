@@ -1,0 +1,114 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "REM sleep behavior disorder screening questionnaire (RBDQ)",
+    "TermURL": "https://eprovide.mapi-trust.org/instruments/rem-sleep-behavior-disorder-screening-questionnaire"
+  },
+  "rbdsq_01": {
+    "LongName": "rbdsq Q01",
+    "Description": "I sometimes have very vivid dreams",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_02": {
+    "LongName": "rbdsq Q02",
+    "Description": "My dreams frequently have an aggressive or action-packed content",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_03": {
+    "LongName": "rbdsq Q03",
+    "Description": "The dream contents mostly match my nocturnal behaviour (e.g. if you run in the dream do your feet move in bed?)",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_04": {
+    "LongName": "rbdsq Q04",
+    "Description": "I know that my arms or legs move when I sleep",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_05": {
+    "LongName": "rbdsq Q05",
+    "Description": "It thereby happened that I (almost) hurt my bed partner or myself",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_06a": {
+    "LongName": "rbdsq Q06a",
+    "Description": "During my dreams, I have or previously had: speaking, shouting, swearing, laughing loudly",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_06b": {
+    "LongName": "rbdsq Q06b",
+    "Description": "During my dreams, I have or previously had: sudden limb movements, \"fights\"",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_06c": {
+    "LongName": "rbdsq Q06c",
+    "Description": "During my dreams, I have or previously had: gestures, complex movements, that are useless during sleep, e.g., to wave, to salute, to frighten mosquitoes",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_06d": {
+    "LongName": "rbdsq Q06d",
+    "Description": "During my dreams, I have or previously had: Things that fell down around the bed, e.g., bedside lamp, book, glasses?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_07": {
+    "LongName": "rbdsq Q07",
+    "Description": "It happens that my movements awake me?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_08": {
+    "LongName": "rbdsq Q08",
+    "Description": "After awakening I mostly remember the content of my dreams well",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_09": {
+    "LongName": "rbdsq Q09",
+    "Description": "My sleep is frequently disturbed?",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_10": {
+    "LongName": "rbdsq Q10",
+    "Description": "I have/had a disease of the nervous system (e.g., stroke, head trauma, parkinsonism)",
+    "Levels": {
+      "0": "No",
+      "1": "Yes"
+    }
+  },
+  "rbdsq_score_total": {
+    "LongName": "Total RBDSQ score",
+    "Description": "Total RBDSQ Score: Sum of questions 1-10"
+  }
+}

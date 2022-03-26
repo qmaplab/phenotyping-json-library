@@ -1,0 +1,262 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Mirror movement scale (MMS)",
+    "TermURL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1739373/pdf/v076p01355.pdf"
+  },
+  "mm_a_finger_right": {
+    "LongName": "MM: Right finger amplitude",
+    "Description": "Mirror movements: Right finger amplitude",
+    "Levels": {
+      "00": "None",
+      "01": "Barely discernible but repetitive movement",
+      "02": "Clear movement with excursion of finger, wrist or ankle of less than 2 cm. Movement is either slight but sustained or stronger but briefer",
+      "03": "Excursion of finger, wrist, or ankle greater than 2 cm and movement readily distinguished as mirroring (strong and sustained movement)",
+      "04": "Pronounced mirroring, with amplitude approaching or matching the requested task in the opposite limb"
+    }
+  },
+  "mm_d_finger_right": {
+    "LongName": "MM: Right finger distribution",
+    "Description": "Mirror movements: Right finger distribution",
+    "Levels": {
+      "00": "None",
+      "01": "Less than mirrored task (fewer fingers for instance)",
+      "02": "Mirroring that involves the same areas as intended task",
+      "03": "Mirroring spreads beyond the intended task areas"
+    }
+  },
+  "mm_p_finger_right": {
+    "LongName": "MM: Right finger proportion",
+    "Description": "Mirror movements: Right finger proportion",
+    "Levels": {
+      "00": "None",
+      "01": "Mirroring occurs in less than 1/3 of the task intended cycles",
+      "02": "Mirroring occurs in between 1/3 and 2/3 of the task cycles",
+      "03": "Mirroring occurs for most of the task cycles (>2/3 of the task cycles)"
+    }
+  },
+  "mm_a_finger_left": {
+    "LongName": "MM: Left finger amplitude",
+    "Description": "Mirror movements: Left finger amplitude",
+    "Levels": {
+      "00": "None",
+      "01": "Barely discernible but repetitive movement",
+      "02": "Clear movement with excursion of finger, wrist or ankle of less than 2 cm. Movement is either slight but sustained or stronger but briefer",
+      "03": "Excursion of finger, wrist, or ankle greater than 2 cm and movement readily distinguished as mirroring (strong and sustained movement)",
+      "04": "Pronounced mirroring, with amplitude approaching or matching the requested task in the opposite limb"
+    }
+  },
+  "mm_d_finger_left": {
+    "LongName": "MM: Left finger distribution",
+    "Description": "Mirror movements: Left finger distribution",
+    "Levels": {
+      "00": "None",
+      "01": "Less than mirrored task (fewer fingers for instance)",
+      "02": "Mirroring that involves the same areas as intended task",
+      "03": "Mirroring spreads beyond the intended task areas"
+    }
+  },
+  "mm_p_finger_left": {
+    "LongName": "MM: Left finger proportion",
+    "Description": "Mirror movements: Left finger proportion",
+    "Levels": {
+      "00": "None",
+      "01": "Mirroring occurs in less than 1/3 of the task intended cycles",
+      "02": "Mirroring occurs in between 1/3 and 2/3 of the task cycles",
+      "03": "Mirroring occurs for most of the task cycles (>2/3 of the task cycles)"
+    }
+  },
+  "mm_a_hand_right": {
+    "LongName": "MM: Right hand amplitude",
+    "Description": "Mirror movements: Right hand amplitude",
+    "Levels": {
+      "00": "None",
+      "01": "Barely discernible but repetitive movement",
+      "02": "Clear movement with excursion of finger, wrist or ankle of less than 2 cm. Movement is either slight but sustained or stronger but briefer",
+      "03": "Excursion of hand, wrist, or ankle greater than 2 cm and movement readily distinguished as mirroring (strong and sustained movement)",
+      "04": "Pronounced mirroring, with amplitude approaching or matching the requested task in the opposite limb"
+    }
+  },
+  "mm_d_hand_right": {
+    "LongName": "MM: Right hand distribution",
+    "Description": "Mirror movements: Right hand distribution",
+    "Levels": {
+      "00": "None",
+      "01": "Less than mirrored task (fewer fingers for instance)",
+      "02": "Mirroring that involves the same areas as intended task",
+      "03": "Mirroring spreads beyond the intended task areas"
+    }
+  },
+  "mm_p_hand_right": {
+    "LongName": "MM: Right hand proportion",
+    "Description": "Mirror movements: Right hand proportion",
+    "Levels": {
+      "00": "None",
+      "01": "Mirroring occurs in less than 1/3 of the task intended cycles",
+      "02": "Mirroring occurs in between 1/3 and 2/3 of the task cycles",
+      "03": "Mirroring occurs for most of the task cycles (>2/3 of the task cycles)"
+    }
+  },
+  "mm_a_hand_left": {
+    "LongName": "MM: Left hand amplitude",
+    "Description": "Mirror movements: Left hand amplitude",
+    "Levels": {
+      "00": "None",
+      "01": "Barely discernible but repetitive movement",
+      "02": "Clear movement with excursion of finger, wrist or ankle of less than 2 cm. Movement is either slight but sustained or stronger but briefer",
+      "03": "Excursion of hand, wrist, or ankle greater than 2 cm and movement readily distinguished as mirroring (strong and sustained movement)",
+      "04": "Pronounced mirroring, with amplitude approaching or matching the requested task in the opposite limb"
+    }
+  },
+  "mm_d_hand_left": {
+    "LongName": "MM: Left hand distribution",
+    "Description": "Mirror movements: Left hand distribution",
+    "Levels": {
+      "00": "None",
+      "01": "Less than mirrored task (fewer fingers for instance)",
+      "02": "Mirroring that involves the same areas as intended task",
+      "03": "Mirroring spreads beyond the intended task areas"
+    }
+  },
+  "mm_p_hand_left": {
+    "LongName": "MM: Left hand proportion",
+    "Description": "Mirror movements: Left hand proportion",
+    "Levels": {
+      "00": "None",
+      "01": "Mirroring occurs in less than 1/3 of the task intended cycles",
+      "02": "Mirroring occurs in between 1/3 and 2/3 of the task cycles",
+      "03": "Mirroring occurs for most of the task cycles (>2/3 of the task cycles)"
+    }
+  },
+  "mm_a_pronation_right": {
+    "LongName": "MM: Right pronation amplitude",
+    "Description": "Mirror movements: Right pronation amplitude",
+    "Levels": {
+      "00": "None",
+      "01": "Barely discernible but repetitive movement",
+      "02": "Clear movement with excursion of finger, wrist or ankle of less than 2 cm. Movement is either slight but sustained or stronger but briefer",
+      "03": "Excursion of finger, wrist, or ankle greater than 2 cm and movement readily distinguished as mirroring (strong and sustained movement)",
+      "04": "Pronounced mirroring, with amplitude approaching or matching the requested task in the opposite limb"
+    }
+  },
+  "mm_d_pronation_right": {
+    "LongName": "MM: Right pronation distribution",
+    "Description": "Mirror movements: Right pronation distribution",
+    "Levels": {
+      "00": "None",
+      "01": "Less than mirrored task (fewer fingers for instance)",
+      "02": "Mirroring that involves the same areas as intended task",
+      "03": "Mirroring spreads beyond the intended task areas"
+    }
+  },
+  "mm_p_pronation_right": {
+    "LongName": "MM: Right pronation proportion",
+    "Description": "Mirror movements: Right pronation proportion",
+    "Levels": {
+      "00": "None",
+      "01": "Mirroring occurs in less than 1/3 of the task intended cycles",
+      "02": "Mirroring occurs in between 1/3 and 2/3 of the task cycles",
+      "03": "Mirroring occurs for most of the task cycles (>2/3 of the task cycles)"
+    }
+  },
+  "mm_a_pronation_left": {
+    "LongName": "MM: Left pronation amplitude",
+    "Description": "Mirror movements: Left pronation amplitude",
+    "Levels": {
+      "00": "None",
+      "01": "Barely discernible but repetitive movement",
+      "02": "Clear movement with excursion of finger, wrist or ankle of less than 2 cm. Movement is either slight but sustained or stronger but briefer",
+      "03": "Excursion of finger, wrist, or ankle greater than 2 cm and movement readily distinguished as mirroring (strong and sustained movement)",
+      "04": "Pronounced mirroring, with amplitude approaching or matching the requested task in the opposite limb"
+    }
+  },
+  "mm_d_pronation_left": {
+    "LongName": "MM: Left pronation distribution",
+    "Description": "Mirror movements: Left pronation distribution",
+    "Levels": {
+      "00": "None",
+      "01": "Less than mirrored task (fewer fingers for instance)",
+      "02": "Mirroring that involves the same areas as intended task",
+      "03": "Mirroring spreads beyond the intended task areas"
+    }
+  },
+  "mm_p_pronation_left": {
+    "LongName": "MM: Left pronation proportion",
+    "Description": "Mirror movements: Left pronation proportion",
+    "Levels": {
+      "00": "None",
+      "01": "Mirroring occurs in less than 1/3 of the task intended cycles",
+      "02": "Mirroring occurs in between 1/3 and 2/3 of the task cycles",
+      "03": "Mirroring occurs for most of the task cycles (>2/3 of the task cycles)"
+    }
+  },
+  "mm_a_foot_right": {
+    "LongName": "MM: Right foot amplitude",
+    "Description": "Mirror movements: Right foot amplitude",
+    "Levels": {
+      "00": "None",
+      "01": "Barely discernible but repetitive movement",
+      "02": "Clear movement with excursion of finger, wrist or ankle of less than 2 cm. Movement is either slight but sustained or stronger but briefer",
+      "03": "Excursion of finger, wrist, or ankle greater than 2 cm and movement readily distinguished as mirroring (strong and sustained movement)",
+      "04": "Pronounced mirroring, with amplitude approaching or matching the requested task in the opposite limb"
+    }
+  },
+  "mm_d_foot_right": {
+    "LongName": "MM: Right foot distribution",
+    "Description": "Mirror movements: Right foot distribution",
+    "Levels": {
+      "00": "None",
+      "01": "Less than mirrored task (fewer fingers for instance)",
+      "02": "Mirroring that involves the same areas as intended task",
+      "03": "Mirroring spreads beyond the intended task areas"
+    }
+  },
+  "mm_p_foot_right": {
+    "LongName": "MM: Right foot proportion",
+    "Description": "Mirror movements: Right foot proportion",
+    "Levels": {
+      "00": "None",
+      "01": "Mirroring occurs in less than 1/3 of the task intended cycles",
+      "02": "Mirroring occurs in between 1/3 and 2/3 of the task cycles",
+      "03": "Mirroring occurs for most of the task cycles (>2/3 of the task cycles)"
+    }
+  },
+  "mm_a_foot_left": {
+    "LongName": "MM: Left foot amplitude",
+    "Description": "Mirror movements: Left foot amplitude",
+    "Levels": {
+      "00": "None",
+      "01": "Barely discernible but repetitive movement",
+      "02": "Clear movement with excursion of finger, wrist or ankle of less than 2 cm. Movement is either slight but sustained or stronger but briefer",
+      "03": "Excursion of finger, wrist, or ankle greater than 2 cm and movement readily distinguished as mirroring (strong and sustained movement)",
+      "04": "Pronounced mirroring, with amplitude approaching or matching the requested task in the opposite limb"
+    }
+  },
+  "mm_d_foot_left": {
+    "LongName": "MM: Left foot distribution",
+    "Description": "Mirror movements: Left foot distribution",
+    "Levels": {
+      "00": "None",
+      "01": "Less than mirrored task (fewer fingers for instance)",
+      "02": "Mirroring that involves the same areas as intended task",
+      "03": "Mirroring spreads beyond the intended task areas"
+    }
+  },
+  "mm_p_foot_left": {
+    "LongName": "MM: Left foot proportion",
+    "Description": "Mirror movements: Left foot proportion",
+    "Levels": {
+      "00": "None",
+      "01": "Mirroring occurs in less than 1/3 of the task intended cycles",
+      "02": "Mirroring occurs in between 1/3 and 2/3 of the task cycles",
+      "03": "Mirroring occurs for most of the task cycles (>2/3 of the task cycles)"
+    }
+  },
+  "mm_total_right": {
+    "LongName": "MM: Right total",
+    "Description": "Mirror movements: Right total"
+  },
+  "mm_total_left": {
+    "LongName": "MM: left total",
+    "Description": "Mirror movements: left total"
+  }
+}

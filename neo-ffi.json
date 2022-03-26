@@ -1,0 +1,646 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Neuroticism-Extraversion-Openness Five Factor Inventory (NEO-FFI)",
+    "TermURL": "https://en.wikipedia.org/wiki/Revised_NEO_Personality_Inventory"
+  },
+  "neo_ffi_01": {
+    "LongName": "NEO-FFI Q01: Sometimes I`m not as dependable or reliable as I should be",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_02": {
+    "LongName": "NEO-FFI Q02: I work hard to accomplish my goals",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_03": {
+    "LongName": "NEO-FFI Q03: I keep my belongings neat and clean",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_04": {
+    "LongName": "NEO-FFI Q04: I dont get much pleasure from chatting with people",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_05": {
+    "LongName": "NEO-FFI Q05: I enjoy playing with theories or abstract ideas",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_06": {
+    "LongName": "NEO-FFI Q06: I often feel helpless and want someone else to solve my problems",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_07": {
+    "LongName": "NEO-FFI Q07: I shy away from crowds of people",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_08": {
+    "LongName": "NEO-FFI Q08: I am a productive person who always gets the job done",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_09": {
+    "LongName": "NEO-FFI Q09: I seldom notice the moods or feelings that different environments produce",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_10": {
+    "LongName": "NEO-FFI Q10: Some people think I am selfish and egotistical",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_11": {
+    "LongName": "NEO-FFI Q11: When I`m under a great deal of stress, sometimes I feel like I am going to pieces",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_12": {
+    "LongName": "NEO-FFI Q12: I am pretty good about pacing myself so as to get things done on time",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_13": {
+    "LongName": "NEO-FFI Q13: I am not a worrier",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_14": {
+    "LongName": "NEO-FFI Q14: If someone starts a fight, I`m ready to fight back",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_15": {
+    "LongName": "NEO-FFI Q15: I have no sympathy for beggers",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_16": {
+    "LongName": "NEO-FFI Q16: I would rather go my own way than be the leader of others",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_17": {
+    "LongName": "NEO-FFI Q17: I rarely feel lonely of blue",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_18": {
+    "LongName": "NEO-FFI Q18: I enjoy concentrating on a fantasy or daydream and exploring all its possibilities, letting it grow and develop",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_19": {
+    "LongName": "NEO-FFI Q19: I like to be where the action is",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_20": {
+    "LongName": "NEO-FFI Q20: I am better than most people, and I know it",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_21": {
+    "LongName": "NEO-FFI Q21: I waste a lot of time before settling down to work",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_22": {
+    "LongName": "NEO-FFI Q22: I would have difficulty letting my mind wander without control or guidance",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_23": {
+    "LongName": "NEO-FFI Q23: I laugh easily",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_24": {
+    "LongName": "NEO-FFI Q24: I have a lot of intellectual curiosity",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_25": {
+    "LongName": "NEO-FFI Q25: I tend to assume the best about people",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_26": {
+    "LongName": "NEO-FFI Q26: I am a very active person",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_27": {
+    "LongName": "NEO-FFI Q27: I am intrigued by the patterns I find in art and nature",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_28": {
+    "LongName": "NEO-FFI Q28: When I have been insulted, I just try to forgive and forget",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_29": {
+    "LongName": "NEO-FFI Q29: I often come into situations without being fully prepared",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_30": {
+    "LongName": "NEO-FFI Q30: I really enjoy talking to people",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_31": {
+    "LongName": "NEO-FFI Q31: I am a cheerful, high spirited person",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_32": {
+    "LongName": "NEO-FFI Q32: Some people think of me as cold and calculating",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_33": {
+    "LongName": "NEO-FFI Q33: My life is fast-paced",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_34": {
+    "LongName": "NEO-FFI Q34: I never seem to be able to get organised",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_35": {
+    "LongName": "NEO-FFI Q35: I have little interest in speculating on the nature of the universe or the human condition",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_36": {
+    "LongName": "NEO-FFI Q36: Sometimes I feel completely worthless",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_37": {
+    "LongName": "NEO-FFI Q37: Sometimes when I am reading poetry or looking at a work of art, I feel a chill or wave of excitement",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_38": {
+    "LongName": "NEO-FFI Q38: I try to perform all the tasks assigned to me conscientiously",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_39": {
+    "LongName": "NEO-FFI Q39: At times I have felt bitter and resentful",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_40": {
+    "LongName": "NEO-FFI Q40: When I make a commitment, I can always be counted to follow through",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_41": {
+    "LongName": "NEO-FFI Q41: Poetry has little or no effect on me",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_42": {
+    "LongName": "NEO-FFI Q42: At times I bully or flatter people into doing what I want them to do",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_43": {
+    "LongName": "NEO-FFI Q43: I prefer jobs that let me work alone without being bothered by strangers",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_44": {
+    "LongName": "NEO-FFI Q44: If necessary, I am willing to manipulate people to get what I want",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_45": {
+    "LongName": "NEO-FFI Q45: If I dont like people, I let them know it",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_46": {
+    "LongName": "NEO-FFI Q46: I strive for excellence in everything I do",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_47": {
+    "LongName": "NEO-FFI Q47: Too often, when things go wrong, I get discouraged and feel like giving up",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_48": {
+    "LongName": "NEO-FFI Q48: I am seldom sad or depressed",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_49": {
+    "LongName": "NEO-FFI Q49: I think it is interesting to learn and develop new hobbies",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_50": {
+    "LongName": "NEO-FFI Q50: I try to be courteous to everyone I meet",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_51": {
+    "LongName": "NEO-FFI Q51: I have a clear set of goals and work toward them in an orderly fashion",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_52": {
+    "LongName": "NEO-FFI Q52: I rarely feel fearful or anxious",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_53": {
+    "LongName": "NEO-FFI Q53: I generally try to be thoughtful and considerate",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_54": {
+    "LongName": "NEO-FFI Q54: I believe letting students hear contraversial speakers can only confuse and mislead them",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Agree",
+      "2": "Agree",
+      "4": "Disagree",
+      "5": "Strongly Disagree"
+    }
+  },
+  "neo_ffi_55": {
+    "LongName": "NEO-FFI Q55: I often feel tense and jittery",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_56": {
+    "LongName": "NEO-FFI Q56: I like to have a lot of people around me",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_57": {
+    "LongName": "NEO-FFI Q57: I experience a wide range of emotions or feelings",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_58": {
+    "LongName": "NEO-FFI Q58: I often feel as if I`m bursting with energy",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_59": {
+    "LongName": "NEO-FFI Q59: At times I have been so ashamed that I just wanted to hide",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_60": {
+    "LongName": "NEO-FFI Q60: I often get angry at the way people treat me",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Strongly Disagree",
+      "2": "Disagree",
+      "4": "Agree",
+      "5": "Strongly Agree"
+    }
+  },
+  "neo_ffi_neuroticism_raw": {
+    "LongName": "NEO-FFI: Neuroticism (raw)",
+    "Description": "NEO-FFI: Neuroticism (raw): sum(Q6,Q11,Q13,Q17,Q36,Q39,Q47,Q48,Q52,Q55,Q59,Q60)"
+  },
+  "neo_ffi_extraversion_raw": {
+    "LongName": "NEO-FFI: Extraversion (raw)",
+    "Description": "NEO-FFI: Extraversion (raw): sum(Q4,Q7,Q16,Q19,Q23,Q26,Q30,Q31,Q33,Q43,Q56,Q58)"
+  },
+  "neo_ffi_openness_raw": {
+    "LongName": "NEO-FFI: Openness (raw)",
+    "Description": "NEO-FFI: Openness (raw): sum(Q5,Q9,Q18,Q22,Q24,Q27,Q35,Q37,Q41,Q49,Q54,Q57)"
+  },
+  "neo_ffi_agreeableness_raw": {
+    "LongName": "NEO-FFI: Agreeableness (raw)",
+    "Description": "NEO-FFI: Agreeableness (raw): sum(Q10,Q14,Q15,Q20,Q25,Q28,Q32,Q42,Q44,Q45,Q50,Q53)"
+  },
+  "neo_ffi_conscientiousness_raw": {
+    "LongName": "NEO-FFI: Conscientiousness (T-score)",
+    "Description": "NEO-FFI: Conscientiousness (T-score): sum(Q1,Q2,Q3,Q8,Q12,Q21,Q29,Q34,Q38,Q40,Q46,Q51)"
+  },
+  "neo_ffi_neuroticism_tscore": {
+    "LongName": "NEO-FFI: Neuroticism (T-score)",
+    "Description": "NEO-FFI: Neuroticism (T-score): 50+(10*((neo_ffi_neuroticism_tscore-20.8)/7.7))"
+  },
+  "neo_ffi_extraversion_tscore": {
+    "LongName": "NEO-FFI: Extraversion (T-score)",
+    "Description": "NEO-FFI: Extraversion (T-score): 50+(10*((neo_ffi_extraversion_tscore-28.2)/6.2))"
+  },
+  "neo_ffi_openness_tscore": {
+    "LongName": "NEO-FFI: Openness (T-score)",
+    "Description": "NEO-FFI: Openness (T-score): 50+(10*((neo_ffi_openness_tscore-28.4)/6.3))"
+  },
+  "neo_ffi_agreeableness_tscore": {
+    "LongName": "NEO-FFI: Agreeableness (T-score)",
+    "Description": "NEO-FFI: Agreeableness (T-score): 50+(10*((neo_ffi_agreeableness_tscore-32.1)/6))"
+  },
+  "neo_ffi_conscientiousness_tscore": {
+    "LongName": "NEO-FFI: Conscientiousness (T-score)",
+    "Description": "NEO-FFI: Conscientiousness (T-score): 50+(10*((neo_ffi_conscientiousness_tscore-32.5)/6.3))"
+  }
+}

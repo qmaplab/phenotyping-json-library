@@ -1,0 +1,250 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Non-Motor Symptoms Questionnaire (NMSQ) ",
+    "TermURL": "https://www.movementdisorders.org/MDS/MDS-Rating-Scales/Non-Motor-Symptoms-Questionnaire.htm"
+  },
+  "nmsq_01": {
+    "LongName": "NMSQ Q01: Siallorhoea",
+    "Description": "In the past month, have you experienced: Dribbling of saliva during the daytime?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_02": {
+    "LongName": "NMSQ Q02: Olfaction",
+    "Description": "In the past month, have you experienced: Loss or change in your ability to taste or smell",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_03": {
+    "LongName": "NMSQ Q03: Swallow",
+    "Description": "In the past month, have you experienced:  Difficulty swallowing food or drink or problems with choking?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_04": {
+    "LongName": "NMSQ Q04: Nausea",
+    "Description": "In the past month, have you experienced: Vomiting or feelings of sickness (nausea)?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_05": {
+    "LongName": "NMSQ Q05: Constipation",
+    "Description": "In the past month, have you experienced: Constipation (less than 3 bowel movements a week) or having to strain to pass a stool (faeces)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_06": {
+    "LongName": "NMSQ Q06: Faecal incontinence",
+    "Description": "In the past month, have you experienced: Bowel (fecal) incontinence",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_07": {
+    "LongName": "NMSQ Q07: Tenasmus",
+    "Description": "In the past month, have you experienced: Feeling that your bowel emptying is incomplete after having been to the toilet",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_08": {
+    "LongName": "NMSQ Q08: Urinary urgency",
+    "Description": "In the past month, have you experienced: A sense of urgency to pass urine makes you rush to the toilet",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_09": {
+    "LongName": "NMSQ Q09: Nocturia",
+    "Description": "In the past month, have you experienced: Getting up regularly at night to pass urine?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_10": {
+    "LongName": "NMSQ Q10: Pain",
+    "Description": "In the past month, have you experienced: Unexplained pains (not due to known conditions such as arthritis)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_11": {
+    "LongName": "NMSQ Q11: Weight",
+    "Description": "In the past month, have you experienced:  Unexplained change in weight (not due to change in diet)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_12": {
+    "LongName": "NMSQ Q12: Cognitive",
+    "Description": "In the past month, have you experienced: Problems remembering things that have happened recently or forgetting to do things?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_13": {
+    "LongName": "NMSQ Q13: Apathy",
+    "Description": "In the past month, have you experienced:  Loss of interest in what is happening around you or doing things?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_14": {
+    "LongName": "NMSQ Q14: Hallucinations",
+    "Description": "In the past month, have you experienced: Seeing or hearing things that you know or are told are not there?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_15": {
+    "LongName": "NMSQ Q15: Concentration",
+    "Description": "In the past month, have you experienced: Difficulty concentrating or staying focussed?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_16": {
+    "LongName": "NMSQ Q16: Depression",
+    "Description": "In the past month, have you experienced: Feeling sad, ?low? or ?blue??",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_17": {
+    "LongName": "NMSQ Q17: Anxiety",
+    "Description": "In the past month, have you experienced: Feeling anxious, frightened or panicky?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_18": {
+    "LongName": "NMSQ Q18: Libido",
+    "Description": "In the past month, have you experienced:  Feeling less interested in sex or more interested in sex?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_19": {
+    "LongName": "NMSQ Q19: Sexual dysfunction",
+    "Description": "In the past month, have you experienced: Finding it difficult to have sex when you try?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_20": {
+    "LongName": "NMSQ Q20: Orthostatic",
+    "Description": "In the past month, have you experienced: Feeling light headed, dizzy or weak standing from sitting or lying?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_21": {
+    "LongName": "NMSQ Q21: Falls",
+    "Description": "In the past month, have you experienced: Falling?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_22": {
+    "LongName": "NMSQ Q22: Sleepiness",
+    "Description": "In the past month, have you experienced: Finding it difficult to stay awake during activities such as working, driving or eating?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_23": {
+    "LongName": "NMSQ Q23: Insomnia",
+    "Description": "In the past month, have you experienced: Difficulty getting to sleep at night or staying asleep at night?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_24": {
+    "LongName": "NMSQ Q24: Dreams",
+    "Description": "In the past month, have you experienced: Intense, vivid dreams or frightening dreams?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_25": {
+    "LongName": "NMSQ Q25: RBD",
+    "Description": "In the past month, have you experienced: Talking or moving about in your sleep as if you are acting out a dream?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_26": {
+    "LongName": "NMSQ Q26: RLS",
+    "Description": "In the past month, have you experienced: Unpleasant sensations in your legs at night or while resting, and a feeling that you need to move",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_27": {
+    "LongName": "NMSQ Q27: Leg swelling",
+    "Description": "In the past month, have you experienced: Swelling of your legs?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_28": {
+    "LongName": "NMSQ Q28: Sweating",
+    "Description": "In the past month, have you experienced: Excessive sweating?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_29": {
+    "LongName": "NMSQ Q29: Diplopia",
+    "Description": "In the past month, have you experienced: Double vision?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_30": {
+    "LongName": "NMSQ Q30: Delusions",
+    "Description": "In the past month, have you experienced: Believing things are happening to you that other people say are not true?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "nmsq_score_total": {
+    "LongName": "NMSQ: Total Score",
+    "Description": "NMSQ: Summative score"
+  }
+}

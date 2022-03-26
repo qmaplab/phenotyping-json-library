@@ -1,0 +1,10 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Psychosis and Hallucinations Questionnaire (PsyH-Q",
+    "TermURL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/mdc3.12139"
+  },
+  "psychq_score_total": {
+    "LongName": "Total Psych-Q Score",
+    "Description": "Sum of Q1-20 (max 80)"
+  }
+}

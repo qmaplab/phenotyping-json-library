@@ -1,0 +1,346 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Questionnaire for Impulsive-Compulsive Disorders in Parkinsons Disease?Rating Scale (QUIP-RS)",
+    "TermURL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3537263/"
+  },
+  "quip_gambling_01": {
+    "LongName": "QUIP-RS: Q1 Thinking about Gambling",
+    "Description": "QUIP-RS: Q1 Gambling - How much do you think about the following behavior (such as having trouble keeping thoughts out of your mind or feeling guilty)",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_sex_01": {
+    "LongName": "QUIP-RS: Q1 Thinking about Sex",
+    "Description": "QUIP-RS: Q1 Sex - How much do you think about the following behavior (such as having trouble keeping thoughts out of your mind or feeling guilty)",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_buying_01": {
+    "LongName": "QUIP-RS: Q1 Thinking about Buying",
+    "Description": "QUIP-RS: Q1 Buying - How much do you think about the following behavior (such as having trouble keeping thoughts out of your mind or feeling guilty)",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_eating_01": {
+    "LongName": "QUIP-RS: Q1 Thinking about Eating",
+    "Description": "QUIP-RS: Q1 Eating - How much do you think about the following behavior (such as having trouble keeping thoughts out of your mind or feeling guilty)",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_task_01": {
+    "LongName": "QUIP-RS: Q1 Thinking about performing tasks or hobbies",
+    "Description": "QUIP-RS: Q1 Performing tasks or hobbies - How much do you think about the following behavior (such as having trouble keeping thoughts out of your mind or feeling guilty)",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_repetative_01": {
+    "LongName": "QUIP-RS: Q1 Repeating simple activities",
+    "Description": "QUIP-RS: Q1 Repeating simple activities - How much do you think about the following behavior (such as having trouble keeping thoughts out of your mind or feeling guilty)",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_med_01": {
+    "LongName": "QUIP-RS: Q1 Taking your PD medications",
+    "Description": "QUIP-RS: Q1 Taking your PD medications - How much do you think about the following behavior (such as having trouble keeping thoughts out of your mind or feeling guilty)",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_gambling_02": {
+    "LongName": "QUIP-RS: Q2 Thinking about Gambling",
+    "Description": "QUIP-RS: Q2 Gambling - Do you have urges or desires for the following behaviors that you feel are excessive or cause you distress (including becoming restless or irritable when unable to participate in them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_sex_02": {
+    "LongName": "QUIP-RS: Q2 Thinking about Sex",
+    "Description": "QUIP-RS: Q2 Sex - Do you have urges or desires for the following behaviors that you feel are excessive or cause you distress (including becoming restless or irritable when unable to participate in them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_buying_02": {
+    "LongName": "QUIP-RS: Q2 Thinking about Buying",
+    "Description": "QUIP-RS: Q2 Buying - Do you have urges or desires for the following behaviors that you feel are excessive or cause you distress (including becoming restless or irritable when unable to participate in them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_eating_02": {
+    "LongName": "QUIP-RS: Q2 Thinking about Eating",
+    "Description": "QUIP-RS: Q2 Eating - Do you have urges or desires for the following behaviors that you feel are excessive or cause you distress (including becoming restless or irritable when unable to participate in them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_task_02": {
+    "LongName": "QUIP-RS: Q2 Thinking about performing tasks or hobbies",
+    "Description": "QUIP-RS: Q2 Performing tasks or hobbies - Do you have urges or desires for the following behaviors that you feel are excessive or cause you distress (including becoming restless or irritable when unable to participate in them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_repetative_02": {
+    "LongName": "QUIP-RS: Q2 Repeating simple activities",
+    "Description": "QUIP-RS: Q2 Repeating simple activities - Do you have urges or desires for the following behaviors that you feel are excessive or cause you distress (including becoming restless or irritable when unable to participate in them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_med_02": {
+    "LongName": "QUIP-RS: Q2 Taking your PD medications",
+    "Description": "QUIP-RS: Q2 Taking your PD medications - Do you have urges or desires for the following behaviors that you feel are excessive or cause you distress (including becoming restless or irritable when unable to participate in them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_gambling_03": {
+    "LongName": "QUIP-RS: Q3 Thinking about Gambling",
+    "Description": "QUIP-RS: Q3 Gambling - Do you have difficulty controlling the following behaviors down or stopping them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_sex_03": {
+    "LongName": "QUIP-RS: Q3 Thinking about Sex",
+    "Description": "QUIP-RS: Q3 Sex - Do you have difficulty controlling the following behaviors down or stopping them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_buying_03": {
+    "LongName": "QUIP-RS: Q3 Thinking about Buying",
+    "Description": "QUIP-RS: Q3 Buying - Do you have difficulty controlling the following behaviors down or stopping them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_eating_03": {
+    "LongName": "QUIP-RS: Q3 Thinking about Eating",
+    "Description": "QUIP-RS: Q3 Eating - Do you have difficulty controlling the following behaviors down or stopping them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_task_03": {
+    "LongName": "QUIP-RS: Q3 Thinking about performing tasks or hobbies",
+    "Description": "QUIP-RS: Q3 Performing tasks or hobbies - Do you have difficulty controlling the following behaviors down or stopping them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_repetative_03": {
+    "LongName": "QUIP-RS: Q3 Repeating simple activities",
+    "Description": "QUIP-RS: Q3 Repeating simple activities - Do you have difficulty controlling the following behaviors down or stopping them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_med_03": {
+    "LongName": "QUIP-RS: Q3 Taking your PD medications",
+    "Description": "QUIP-RS: Q3 Taking your PD medications - Do you have difficulty controlling the following behaviors down or stopping them)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_gambling_04": {
+    "LongName": "QUIP-RS: Q4 Thinking about Gambling",
+    "Description": "QUIP-RS: Q4 Gambling - Do you engage in activities specifically to continue the following behaviors (such as hiding what you are doing, lying, hoarding things, borrowing from others, accumulating debt, stealing, or being involved in illegal acts)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_sex_04": {
+    "LongName": "QUIP-RS: Q4 Thinking about Sex",
+    "Description": "QUIP-RS: Q4 Sex - Do you engage in activities specifically to continue the following behaviors (such as hiding what you are doing, lying, hoarding things, borrowing from others, accumulating debt, stealing, or being involved in illegal acts)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_buying_04": {
+    "LongName": "QUIP-RS: Q4 Thinking about Buying",
+    "Description": "QUIP-RS: Q4 Buying - Do you engage in activities specifically to continue the following behaviors (such as hiding what you are doing, lying, hoarding things, borrowing from others, accumulating debt, stealing, or being involved in illegal acts)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_eating_04": {
+    "LongName": "QUIP-RS: Q4 Thinking about Eating",
+    "Description": "QUIP-RS: Q4 Eating - Do you engage in activities specifically to continue the following behaviors (such as hiding what you are doing, lying, hoarding things, borrowing from others, accumulating debt, stealing, or being involved in illegal acts)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_task_04": {
+    "LongName": "QUIP-RS: Q4 Thinking about performing tasks or hobbies",
+    "Description": "QUIP-RS: Q4 Performing tasks or hobbies - Do you engage in activities specifically to continue the following behaviors (such as hiding what you are doing, lying, hoarding things, borrowing from others, accumulating debt, stealing, or being involved in illegal acts)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_repetative_04": {
+    "LongName": "QUIP-RS: Q4 Repeating simple activities",
+    "Description": "QUIP-RS: Q4 Repeating simple activities - Do you engage in activities specifically to continue the following behaviors (such as hiding what you are doing, lying, hoarding things, borrowing from others, accumulating debt, stealing, or being involved in illegal acts)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_med_04": {
+    "LongName": "QUIP-RS: Q4 Taking your PD medications",
+    "Description": "QUIP-RS: Q4 Taking your PD medications - Do you engage in activities specifically to continue the following behaviors (such as hiding what you are doing, lying, hoarding things, borrowing from others, accumulating debt, stealing, or being involved in illegal acts)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Very often"
+    }
+  },
+  "quip_gambling_total": {
+    "LongName": "QUIP-RS: Gambling Total",
+    "Description": "QUIP-RS A. Gambling Total (0-16): quip_gambling_01 + quip_gambling_02 +  quip_gambling_03 + quip_gambling_04"
+  },
+  "quip_sex_total": {
+    "LongName": "QUIP-RS: Sex Total",
+    "Description": "QUIP-RS B. Sex Total (0-16): quip_sex_01 + quip_sex_02 +  quip_sex_03 + quip_sex_04"
+  },
+  "quip_buying_total": {
+    "LongName": "QUIP-RS: Buying Total",
+    "Description": "QUIP-RS C. Buying Total (0-16): quip_buying_01 + quip_buying_02 +  quip_buying_03 + quip_buying_04"
+  },
+  "quip_eating_total": {
+    "LongName": "QUIP-RS: Eating Total",
+    "Description": "QUIP-RS D. Eating Total (0-16): quip_eating_01 + quip_eating_02 +  quip_eating_03 + quip_eating_04"
+  },
+  "quip_punding_total": {
+    "LongName": "QUIP-RS: Hobbyism-Punding Total",
+    "Description": "QUIP-RS . Hobbyism-Punding Total (0-32): quip_task_01 + quip_task_02 +  quip_task_03 + quip_task_04 + quip_repetative_01 + quip_repetative_02 +  quip_repetative_03 + quip_repetative_04"
+  },
+  "quip_med_total": {
+    "LongName": "QUIP-RS: PD Medication Use Total",
+    "Description": "QUIP-RS F. PD Medication Use Total (0-16): quip_med_01 + quip_med_02 +  quip_med_03 + quip_med_04"
+  },
+  "quip_icd_total": {
+    "LongName": "QUIP-RS: ICD Score Total",
+    "Description": "QUIP-RS Impulse Control Disorder Total (0-64): quip_gambling_total + quip_sex_total + quip_buying_total + quip_eating_total"
+  },
+  "quip_rs_total": {
+    "LongName": "QUIP-RS Total",
+    "Description": "QUIP-RS Total (0-112): quip_gambling_total + quip_sex_total + quip_buying_total + quip_eating_total + quip_punding_total + quip_md_total"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Farnsworth-Munsell 100 HueColor Vision Test (FM15)",
+    "TermURL": "TBC"
+  },
+  "cog_fm15_correct": {
+    "LongName": "FM15: All correct?",
+    "Description": "Farnsworth-Munsell 15 hue test: All correct?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "cog_fm15_order": {
+    "LongName": "FM15: Order (if incorrect)",
+    "Description": "Farnsworth-Munsell 15 hue test: Incorrect hue order in csv format",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "cog_fm15_axis": {
+    "LongName": "FM15: Axis of confusion?",
+    "Description": "Farnsworth-Munsell 15 hue test: Axis of confusion (if impaired). None, Protane (RED - blue green), Deutane (GREEN - red purple) or Tritane (VIOLET - yellow green)",
+    "Levels": {
+      "0": "None",
+      "1": "Protane (RED - blue green)",
+      "2": "Deutane (GREEN - red purple)",
+      "3": "Tritane (VIOLET - yellow green)"
+    }
+  }
+}

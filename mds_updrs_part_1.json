@@ -1,0 +1,153 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "MDS-Unified Parkinsons Disease Rating Scale: Part 1 (MDS-UPDRS: Part 1)",
+    "TermURL": "https://www.movementdisorders.org/MDS/MDS-Rating-Scales/MDS-Unified-Parkinsons-Disease-Rating-Scale-MDS-UPDRS"
+  },
+  "updrs1_01": {
+    "LongName": "UPDRS 1.1: Cognitive Impairment",
+    "Description": "Over the past week have you had problems remembering things, following conversations, paying attention, thinking clearly, or finding your way around the house or in town?",
+    "Levels": {
+      "0": "Normal: No cognitive impairment",
+      "1": "Slight: Impairment appreciated by patient or caregiver with no concrete interference with the patient?s ability to carry out normal activities and social interactions",
+      "2": "Mild: Clinically evident cognitive dysfunction, but only minimal interference with the patient?s ability to carry out normal activities and social interaction",
+      "3": "Moderate: Cognitive deficits interfere with but do not preclude the patient?s ability to carry out normal activities and social interactions",
+      "4": "Severe: Cognitive dysfunction precludes the patient?s ability to carry out normal activities and social interactions"
+    }
+  },
+  "updrs1_02": {
+    "LongName": "UPDRS 1.2: Hallucinations and Psychosis",
+    "Description": "Over the past week have you seen, heard, smelled, or felt things that were not really there?",
+    "Levels": {
+      "0": "Normal: No hallucinations or psychotic behavior",
+      "1": "Slight: Illusions or non-formed hallucinations, but patient recognizes them without loss of insight",
+      "2": "Mild: Formed hallucinations independent of environmental stimuli. No loss of insight",
+      "3": "Moderate: Formed hallucinations with loss of insight",
+      "4": "Severe: Patient has delusions or paranoia"
+    }
+  },
+  "updrs1_03": {
+    "LongName": "UPDRS 1.3: Depressed Mood",
+    "Description": "Over the past week have you felt low, sad, hopeless, or unable to enjoy things? If yes, was this feeling for longer than one day at a time? Did it make it difficult for you carry out your usual activities or to be with people?",
+    "Levels": {
+      "0": "Normal: No depressed mood",
+      "1": "Slight: Episodes of depressed mood that are not sustained for more than one day at a time. No interference with patient?s ability to carry out normal activities and social interactions",
+      "2": "Mild: Depressed mood that is sustained over days, but without interference with normal activities and social interactions",
+      "3": "Moderate: Depressed mood that interferes with, but does not preclude the patient?s ability to carry out normal activities and social interactions",
+      "4": "Severe: Depressed mood precludes patient?s ability to carry out normal activities and social interactions"
+    }
+  },
+  "updrs1_04": {
+    "LongName": "UPDRS 1.4: Anxious Mood",
+    "Description": "Over the past week have you felt nervous, worried, or tense? If yes, was this feeling for longer than one day at a time? Did it make it difficult for you to follow your usual activities or to be with other people?",
+    "Levels": {
+      "0": "Normal: No anxious feelings",
+      "1": "Slight: Anxious feelings present but not sustained for more than one day at a time. No interference with patient?s ability to carry out normal activities and social interactions",
+      "2": "Mild: Anxious feelings are sustained over more than one day at a time, but without interference with patient?s ability to carry out normal activities and social interactions",
+      "3": "Moderate: Anxious feelings interfere with, but do not preclude, the patient?s ability to carry out normal activities and social interactions",
+      "4": "Severe: Anxious feelings preclude patient?s ability to carry out normal activities and social interactions"
+    }
+  },
+  "updrs1_05": {
+    "LongName": "UPDRS 1.5: Apathy",
+    "Description": "Over the past week, have you felt indifferent to doing activities or being with people?",
+    "Levels": {
+      "0": "Normal: No apathy",
+      "1": "Slight: Apathy appreciated by patient and/or caregiver, but no interference with daily activities and social interactions",
+      "2": "Mild: Apathy interferes with isolated activities and social interactions",
+      "3": "Moderate: Apathy interferes with most activities and social interactions",
+      "4": "Severe: Passive and withdrawn, complete loss of initiative"
+    }
+  },
+  "updrs1_06": {
+    "LongName": "UPDRS 1.6: Features of Dopamine Dysregulation Syndrome",
+    "Description": "Over the past week, have you had unusually strong urges that are hard to control? Do you feel driven to do or think about something and find it hard to stop?",
+    "Levels": {
+      "0": "Normal: No problems present",
+      "1": "Slight: Problems are present but usually do not cause any difficulties for the patient or family/caregiver",
+      "2": "Mild: Problems are present and usually cause a few difficulties in the patient?s personal and family life",
+      "3": "Moderate: Problems are present and usually cause a lot of difficulties in the patient?s personal and family life",
+      "4": "Severe: Problems are present and preclude the patient?s ability to carry out normal activities or social interactions or to maintain previous standards in personal and family life"
+    }
+  },
+  "updrs1_07": {
+    "LongName": "UPDRS 1.7: Sleep Problems",
+    "Description": "Over the past week, have you had trouble going to sleep at night or staying asleep through the night?",
+    "Levels": {
+      "0": "Normal: No problems",
+      "1": "Slight: Sleep problems are present but usually do not cause trouble getting a full night of sleep",
+      "2": "Mild: Sleep problems usually cause some difficulties getting a full night of sleep",
+      "3": "Moderate: Sleep problems cause a lot of difficulties getting a full night of sleep, but I still usually sleep for more than half the night",
+      "4": "Severe: I usually do not sleep for most of the night"
+    }
+  },
+  "updrs1_08": {
+    "LongName": "UPDRS 1.8: Daytime Sleepiness",
+    "Description": "Over the past week, have you had trouble staying awake during the daytime?",
+    "Levels": {
+      "0": "Normal: No daytime sleepiness",
+      "1": "Slight: Daytime sleepiness occurs, but I can resist and I stay awake",
+      "2": "Mild: Sometimes I fall asleep when alone and relaxing. For example, while reading or watching TV",
+      "3": "Moderate: I sometimes fall asleep when I should not. For example, while eating or talking with other people",
+      "4": "Severe: I often fall asleep when I should not. For example, while eating or talking with other people"
+    }
+  },
+  "updrs1_09": {
+    "LongName": "UPDRS 1.9: Pain and other sensations",
+    "Description": "Over the past week, have you had uncomfortable feelings in your body like pain, aches, tingling, or cramps?",
+    "Levels": {
+      "0": "Normal: No uncomfortable feelings",
+      "1": "Slight: I have these feelings. However, I can do things and be with other people without difficulty",
+      "2": "Mild: These feelings cause some problems when I do things or am with other people",
+      "3": "Moderate: These feelings cause a lot of problems, but they do not stop me from doing things or being with other people",
+      "4": "Severe: These feelings stop me from doing things or being with other people"
+    }
+  },
+  "updrs1_10": {
+    "LongName": "UPDRS 1.10: Urinary Problems",
+    "Description": "Over the past week, have you had trouble with urine control? For example, an urgent need to urinate, a need to urinate too often, or urine accidents?",
+    "Levels": {
+      "0": "Normal: No urine control problems",
+      "1": "Slight: I need to urinate often or urgently. However, these problems do not cause difficulties with my daily activities",
+      "2": "Mild: Urine problems cause some difficulties with my daily activities. However, I do not have urine accidents",
+      "3": "Moderate: Urine problems cause a lot of difficulties with my daily activities, including urine accidents",
+      "4": "Severe: I cannot control my urine and use a protective garment or have a bladder tube"
+    }
+  },
+  "updrs1_11": {
+    "LongName": "UPDRS 1.11: Constipation Problems",
+    "Description": "Over the past week have you had constipation troubles that cause you difficulty moving your bowels?",
+    "Levels": {
+      "0": "Normal: No constipation",
+      "1": "Slight: I have been constipated. I use extra effort to move my bowels. However, this problem does not disturb my activities or my being comfortable",
+      "2": "Mild: Constipation causes me to have some troubles doing things or being comfortable",
+      "3": "Moderate: Constipation causes me to have a lot of trouble doing things or being comfortable. However, it does not stop me from doing anything",
+      "4": "Severe: I usually need physical help from someone else to empty my bowels"
+    }
+  },
+  "updrs1_12": {
+    "LongName": "UPDRS 1.12: Light Headiness on Standing",
+    "Description": "Over the past week, have you felt faint, dizzy, or foggy when you stand up after sitting or lying down?",
+    "Levels": {
+      "0": "Normal: No dizzy or foggy feelings",
+      "1": "Slight: Dizzy or foggy feelings occur. However, they do not cause me troubles doing things",
+      "2": "Mild: Dizzy or foggy feelings cause me to hold on to something, but I do not need to sit or lie back down",
+      "3": "Moderate: Dizzy or foggy feelings cause me to sit or lie down to avoid fainting or falling",
+      "4": "Severe: Dizzy or foggy feelings cause me to fall or faint"
+    }
+  },
+  "updrs1_13": {
+    "LongName": "UPDRS 1.13: Fatigue",
+    "Description": "Over the past week, have you usually felt fatigued?",
+    "Levels": {
+      "0": "Normal: No fatigue",
+      "1": "Slight: Fatigue occurs. However it does not cause me troubles doing things or being with people",
+      "2": "Mild: Fatigue causes me some troubles doing things or being with people",
+      "3": "Moderate: Fatigue causes me a lot of troubles doing things or being with people. However, it does not stop me from doing anything",
+      "4": "Severe: Fatigue stops me from doing things or being with people"
+    }
+  },
+  "updrs1_score_total": {
+    "LongName": "MDS-UPDRS 1: Total Score",
+    "Description": "MDS-UPDRS Part 1: Summative score"
+  }
+}

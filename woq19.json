@@ -1,0 +1,329 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Wearing-Off Questionairre 19 (WoQ-19) for Parkinson`s disease",
+    "TermURL": "https://pubmed.ncbi.nlm.nih.gov/16897594/"
+  },
+  "woq19_01_present_tremor": {
+    "LongName": "WoQ-19 Q01: Tremor present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_01_improves_tremor": {
+    "LongName": "WoQ-19 Q01: Tremor - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_02_present_speech": {
+    "LongName": "WoQ-19 Q02: Difficulty in speech present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_02_improves_speech": {
+    "LongName": "WoQ-19 Q02: Difficulty in speech - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_03_present_anxiety": {
+    "LongName": "WoQ-19 Q03: Anxiety present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_03_improves_anxiety": {
+    "LongName": "WoQ-19 Q03: Anxiety - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_04_present_sweat": {
+    "LongName": "WoQ-19 Q04: Sweating present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_04_improves_sweat": {
+    "LongName": "WoQ-19 Q04: Sweating - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_05_present_mood": {
+    "LongName": "WoQ-19 Q05: Mood changes present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_05_improves_mood": {
+    "LongName": "WoQ-19 Q05: Mood changes - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_06_present_weakness": {
+    "LongName": "WoQ-19 Q06: Weakness present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_06_improves_weakness": {
+    "LongName": "WoQ-19 Q06: Weakness - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_07_present_balance": {
+    "LongName": "WoQ-19 Q07: Problems with balance present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_07_improves_balance": {
+    "LongName": "WoQ-19 Q07: Problems with balance - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_08_present_slowness": {
+    "LongName": "WoQ-19 Q08: Slowness of movement present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_08_improves_slowness": {
+    "LongName": "WoQ-19 Q08: Slowness of movement - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_09_present_dexterity": {
+    "LongName": "WoQ-19 Q09: Reduced dexterity present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_09_improves_dexterity": {
+    "LongName": "WoQ-19 Q09: Reduced dexterity - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_10_present_numbness": {
+    "LongName": "WoQ-19 Q10: Numbness present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_10_improves_numbness": {
+    "LongName": "WoQ-19 Q10: Numbness - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_11_present_stiffness": {
+    "LongName": "WoQ-19 Q11: General stiffness present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_11_improves_stiffness": {
+    "LongName": "WoQ-19 Q11: General stiffness - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_12_present_panic": {
+    "LongName": "WoQ-19 Q12: Panic attacks present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_12_improves_panic": {
+    "LongName": "WoQ-19 Q12: Panic attacks - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_13_present_thinking": {
+    "LongName": "WoQ-19 Q13: Cloudy mind/dullness thinking present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_13_improves_thinking": {
+    "LongName": "WoQ-19 Q13: Cloudy mind/dullness thinking - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_14_present_abdo": {
+    "LongName": "WoQ-19 Q14: Abdominal discomfort present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_14_improves_abdo": {
+    "LongName": "WoQ-19 Q14: Abdominal discomfort - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_15_present_cramp": {
+    "LongName": "WoQ-19 Q15: Muscle cramping present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_15_improves_cramp": {
+    "LongName": "WoQ-19 Q15: Muscle cramping - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_16_present_chair": {
+    "LongName": "WoQ-19 Q16: Difficulty getting out of chair present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_16_improves_chair": {
+    "LongName": "WoQ-19 Q16: Difficulty getting out of chair - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_17_present_temp": {
+    "LongName": "WoQ-19 Q17: Experience hot and cold present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_17_improves_temp": {
+    "LongName": "WoQ-19 Q17: Experience hot and cold - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_18_present_pain": {
+    "LongName": "WoQ-19 Q18: Pain present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_18_improves_pain": {
+    "LongName": "WoQ-19 Q18: Pain - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_19_present_ache": {
+    "LongName": "WoQ-19 Q19: Aching present?",
+    "Description": "Symptoms that you currently experience during your normal day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "woq19_19_improves_ache": {
+    "LongName": "WoQ-19 Q19: Aching - Usually improves after next dose",
+    "Description": "If the symptom is present, does it usually improves or disappears after you take a dose of your Parkinson?s medication",
+    "Levels": {
+      "0": "N/A (Absent)",
+      "1": "No",
+      "2": "Yes"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Sialorrhea Clinical Scale for PD (SCS-PD)",
+    "TermURL": "https://pubmed.ncbi.nlm.nih.gov/17089393/"
+  },
+  "scs_01": {
+    "LongName": "SCS-PD Q01",
+    "Description": "During the past week: During the day, when do you feel there is more saliva in your mouth?",
+    "Levels": {
+      "0": "Never",
+      "1": "At meal times",
+      "2": "Throughout the day, not related to meals",
+      "3": "All the time, even when I am asleep"
+    }
+  },
+  "scs_02": {
+    "LongName": "SCS-PD Q02",
+    "Description": "During the past week: When you are asleep, how much saliva is there in your mouth?",
+    "Levels": {
+      "0": "I don?t notice an increase in saliva",
+      "1": "I notice increased amounts of saliva in my mouth, but my pillow doesn?t get wet",
+      "2": "My pillow gets wet",
+      "3": "My pillow and other bedclothes get wet"
+    }
+  },
+  "scs_03": {
+    "LongName": "SCS-PD Q03",
+    "Description": "During the past week: While you are awake:",
+    "Levels": {
+      "0": "I don?t drool",
+      "1": "Saliva wets my lips",
+      "2": "Saliva accumulates on my lips, but I don?t drool",
+      "3": "I drool"
+    }
+  },
+  "scs_04": {
+    "LongName": "SCS-PD Q04",
+    "Description": "During the past week: Does accumulation of saliva in your mouth impair your speech?",
+    "Levels": {
+      "0": "No",
+      "1": "I must swallow frequently to avoid difficulties",
+      "2": "I have trouble speaking",
+      "3": "I can?t speak at all"
+    }
+  },
+  "scs_05": {
+    "LongName": "SCS-PD Q05",
+    "Description": "During the past week: Does accumulation of saliva in your mouth impair your eating ability?",
+    "Levels": {
+      "0": "No",
+      "1": "I must swallow frequently to avoid difficulties",
+      "2": "I have trouble eating",
+      "3": "I can?t eat at all"
+    }
+  },
+  "scs_06": {
+    "LongName": "SCS-PD Q06",
+    "Description": "During the past week: How many times do you drool during the daytime?",
+    "Levels": {
+      "0": "Never",
+      "1": "Not more than 3 times",
+      "2": "Often. I have to carry a handkerchief with me all the time",
+      "3": "Permanently"
+    }
+  },
+  "scs_07": {
+    "LongName": "SCS-PD Q07",
+    "Description": "During the past week: When you go out or on social occasions, does saliva accumulation bother you?",
+    "Levels": {
+      "0": "No",
+      "1": "I notice an accumulation, but it does not bother me",
+      "2": "I realize other people notice it, but I can control the situation (for example, with a handkerchief)",
+      "3": "I have stopped attending social meetings"
+    }
+  },
+  "scs_score_total": {
+    "LongName": "scs: Total Score",
+    "Description": "scs: Summative score"
+  }
+}

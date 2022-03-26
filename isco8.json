@@ -1,0 +1,22 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "International Standard Classification of Occupations (ISCO-8)",
+    "TermURL": "https://en.wikipedia.org/wiki/International_Standard_Classification_of_Occupations"
+  },
+  "profession_category": {
+    "LongName": "ISCO-8 occupation category",
+    "Description": "Occupation classification according to International Standard Classification of Occupations (ISCO-8)",
+    "Levels": {
+      "01": "Managers",
+      "02": "Professional",
+      "03": "Technicians and associate professionals",
+      "04": "Clerical support workers",
+      "05": "Service and sales workers",
+      "06": "Skilled agricultural,forestry and fishery workers",
+      "07": "Craft and related trades workers",
+      "08": "Plant and machine operators, and assemblers",
+      "09": "Elementary occupations",
+      "10": "Armed forces occupations"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Fatigue Severity Scale (FSS)",
+    "TermURL": "https://www.sralab.org/rehabilitation-measures/fatigue-severity-scale"
+  },
+  "fss_01": {
+    "LongName": "FSS_Q01",
+    "Description": "My motivation is lower when I am fatigued",
+    "Levels": {
+      "0": "Strongly disagree",
+      "1": "Disagree",
+      "2": "Slightly disagree",
+      "3": "Neutral",
+      "4": "Slightly agree",
+      "5": "Agree",
+      "6": "Strongly agree"
+    }
+  },
+  "fss_02": {
+    "LongName": "FSS_Q02",
+    "Description": "Exercise brings on my fatigue",
+    "Levels": {
+      "0": "Strongly disagree",
+      "1": "Disagree",
+      "2": "Slightly disagree",
+      "3": "Neutral",
+      "4": "Slightly agree",
+      "5": "Agree",
+      "6": "Strongly agree"
+    }
+  },
+  "fss_03": {
+    "LongName": "FSS_Q03",
+    "Description": "I am easily fatigued",
+    "Levels": {
+      "0": "Strongly disagree",
+      "1": "Disagree",
+      "2": "Slightly disagree",
+      "3": "Neutral",
+      "4": "Slightly agree",
+      "5": "Agree",
+      "6": "Strongly agree"
+    }
+  },
+  "fss_04": {
+    "LongName": "FSS_Q04",
+    "Description": "Fatigue interferes with my physical functioning",
+    "Levels": {
+      "0": "Strongly disagree",
+      "1": "Disagree",
+      "2": "Slightly disagree",
+      "3": "Neutral",
+      "4": "Slightly agree",
+      "5": "Agree",
+      "6": "Strongly agree"
+    }
+  },
+  "fss_05": {
+    "LongName": "FSS_Q05",
+    "Description": "Fatigue causes frequent problems for me",
+    "Levels": {
+      "0": "Strongly disagree",
+      "1": "Disagree",
+      "2": "Slightly disagree",
+      "3": "Neutral",
+      "4": "Slightly agree",
+      "5": "Agree",
+      "6": "Strongly agree"
+    }
+  },
+  "fss_06": {
+    "LongName": "FSS_Q06",
+    "Description": "My fatigue prevents sustained physical functioning",
+    "Levels": {
+      "0": "Strongly disagree",
+      "1": "Disagree",
+      "2": "Slightly disagree",
+      "3": "Neutral",
+      "4": "Slightly agree",
+      "5": "Agree",
+      "6": "Strongly agree"
+    }
+  },
+  "fss_07": {
+    "LongName": "FSS_Q07",
+    "Description": "Fatigue interferes with carrying out certain duties and responsibilities",
+    "Levels": {
+      "0": "Strongly disagree",
+      "1": "Disagree",
+      "2": "Slightly disagree",
+      "3": "Neutral",
+      "4": "Slightly agree",
+      "5": "Agree",
+      "6": "Strongly agree"
+    }
+  },
+  "fss_08": {
+    "LongName": "FSS_Q08",
+    "Description": "Fatigue is among my most disabling symptoms",
+    "Levels": {
+      "0": "Strongly disagree",
+      "1": "Disagree",
+      "2": "Slightly disagree",
+      "3": "Neutral",
+      "4": "Slightly agree",
+      "5": "Agree",
+      "6": "Strongly agree"
+    }
+  },
+  "fss_09": {
+    "LongName": "FSS_Q09",
+    "Description": "Fatigue interferes with my work, family, or social life",
+    "Levels": {
+      "0": "Strongly disagree",
+      "1": "Disagree",
+      "2": "Slightly disagree",
+      "3": "Neutral",
+      "4": "Slightly agree",
+      "5": "Agree",
+      "6": "Strongly agree"
+    }
+  },
+  "fss_score_total": {
+    "LongName": "FSS Average Score",
+    "Description": "FSS Average score: Cut-off score of 4 or more considered indicative of problematic fatigue. Note FSS levels only label score 1 and 7, BIDS struct needs fields to include so added as placeholders"
+  },
+  "fss_vas_total": {
+    "LongName": "FSS Visual Analogue Scale",
+    "Description": "FAS: Visual analogue scale (0 severe, 10 normal)"
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Barratt Impulsiveness Scale 11  (BIS-11)",
+    "TermURL": "www.impulsivity.org/measurement/bis11"
+  },
+  "bis_01": {
+    "LongName": "BIS Q01: I plan tasks carefully.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_02": {
+    "LongName": "BIS Q02: I do things without thinking.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_03": {
+    "LongName": "BIS Q03: I make-up my mind quickly.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_04": {
+    "LongName": "BIS Q04: I am happy-go-lucky.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_05": {
+    "LongName": "BIS Q05: I dont pay attention.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_06": {
+    "LongName": "BIS Q06: I have racing thoughts.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_07": {
+    "LongName": "BIS Q07: I plan trips well ahead of time.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_08": {
+    "LongName": "BIS Q08: I am self controlled.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_09": {
+    "LongName": "BIS Q09: I concentrate easily.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_10": {
+    "LongName": "BIS Q10: I save regularly.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_11": {
+    "LongName": "BIS Q11: I squirm at plays or lectures.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_12": {
+    "LongName": "BIS Q12: I am a careful thinker.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_13": {
+    "LongName": "BIS Q13: I plan for job security.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_14": {
+    "LongName": "BIS Q14: I say things without thinking.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_15": {
+    "LongName": "BIS Q15: I like to think about complex problems.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_16": {
+    "LongName": "BIS Q16: I change jobs.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_17": {
+    "LongName": "BIS Q17: I act on impulse",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_18": {
+    "LongName": "BIS Q18: I get easily bored when solving thought problems.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_19": {
+    "LongName": "BIS Q19: I act on the spur of the moment.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_20": {
+    "LongName": "BIS Q20: I am a steady thinker.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_21": {
+    "LongName": "BIS Q21: I change residences.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_22": {
+    "LongName": "BIS Q22: I buy things on impulse.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_23": {
+    "LongName": "BIS Q23: I can only think about one thing at a time.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_24": {
+    "LongName": "BIS Q24: I change hobbies.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_25": {
+    "LongName": "BIS Q25: I spend or charge more than I earn.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_26": {
+    "LongName": "BIS Q26: I often have extraneous thoughts when thinking.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_27": {
+    "LongName": "BIS Q27: I am more interested in the present than the future.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_28": {
+    "LongName": "BIS Q28: I am restless at the theater or lectures.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_29": {
+    "LongName": "BIS Q29: I like puzzles.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_30": {
+    "LongName": "BIS Q30: I am future oriented.",
+    "Description": "People differ in the ways they act and think in different situations. This is a test to measure some of the ways in which you act and think. Read each statement and select the appropriate response. Do not spend too much time on any statement. Answer quickly and honestly",
+    "Levels": {
+      "1": "Rarely/Never",
+      "2": "Occasionally",
+      "4": "Almost Always/Always"
+    }
+  },
+  "bis_fof_attention": {
+    "LongName": "BIS - First Order Factor: Attention",
+    "Description": "BIS - First Order Factor: Attention = sum(Q5,Q9*,Q11,Q20*,Q28)"
+  },
+  "bis_fof_coginstability": {
+    "LongName": "BIS - First Order Factor: Cognitive Instability",
+    "Description": "BIS - First Order Factor: Cognitive Instability = sum(Q6,Q24,Q26)"
+  },
+  "bis_fof_motor": {
+    "LongName": "BIS - First Order Factor: Motor",
+    "Description": "BIS - First Order Factor: Motor = sum(Q2,Q3,Q4,Q17,Q19,Q22,Q25)"
+  },
+  "bis_fof_perseverance": {
+    "LongName": "BIS - First Order Factor: Perseverance",
+    "Description": "BIS - First Order Factor: Perseverance = sum(Q16,Q21,Q23,Q30*)"
+  },
+  "bis_fof_selfcontrol": {
+    "LongName": "BIS - First Order Factor: Self-Control",
+    "Description": "BIS - First Order Factor: Self-Control = sum(Q1*,Q7*,Q8*,Q12*,Q13*,Q14)"
+  },
+  "bis_fof_cogcomplexity": {
+    "LongName": "BIS - First Order Factor: Cognitive Complexity",
+    "Description": "BIS - First Order Factor: Cognitive Complexity = sum(Q1*,Q7*,Q8*,Q12*,Q13*,Q14)"
+  },
+  "bis_sof_attentional": {
+    "LongName": "BIS - Second Order Factor: Attentional",
+    "Description": "BIS - Second Order Factor: Attentional = bis_fof_attention + bis_fof_coginstability"
+  },
+  "bis_sof_motor": {
+    "LongName": "BIS - Second Order Factor: Motor",
+    "Description": "BIS - Second Order Factor: Motor = bis_fof_motor + bis_fof_perseverance"
+  },
+  "bis_sof_nonplanning": {
+    "LongName": "BIS - Second Order Factor: Non-Planning",
+    "Description": "BIS - Second Order Factor: Non-Planning = bis_fof_selfcontrol + bis_fof_cogcomplexity"
+  },
+  "bis_score_total": {
+    "LongName": "BIS - Score: Total",
+    "Description": "BIS - Score: Total = sum(Q1:Q30)"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "One day Fluctuation Assessment Scale",
+    "TermURL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3551BCD9A7C1039BF7170CC63ADE5F5D/S000712500015576Xa.pdf/clinician_assessment_of_fluctuation_and_the_one_day_fluctuation_assessment_scale.pdf"
+  },
+  "fas_01_a": {
+    "LongName": "FAS Q01a: Falls?",
+    "Description": "Has the patient fallen today?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "fas_01_b": {
+    "LongName": "FAS Q01b: Near falls?",
+    "Description": "Has the patient fallen today?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "fas_02_a": {
+    "LongName": "FAS Q02a: Fluctuations?",
+    "Description": "Has the patient had a period or periods today when he/she seemed to be confused and muddled and then a period or periods when he/she seemed to be improved and functioning better?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "fas_02_b": {
+    "LongName": "FAS Q02b: Fluctuation duration",
+    "Description": "If yes, how much of the day was he/she confused?",
+    "Levels": {
+      "0": "N/A",
+      "1": "25% of the day or less",
+      "2": "25% - 75% of the day",
+      "3": "75% of the day or more"
+    }
+  },
+  "fas_02_c": {
+    "LongName": "FAS Q02c: Fluctuation variation",
+    "Description": "(If yes) How great was the difference today between the worst period of function and the best period of function?",
+    "Levels": {
+      "0": "N/A",
+      "1": "A slight degree of variation",
+      "2": "A moderate degree of variation which had a clear effect on his/her ability to function at the same level throughout the day",
+      "3": "A marked degree of variation which had a large effect on his/her ability to function at the same level throughout the day"
+    }
+  },
+  "fas_02_worst": {
+    "LongName": "FAS Q02: Example of worst function",
+    "Description": "(If yes) Describe example of worst period of function"
+  },
+  "fas_02_best": {
+    "LongName": "FAS Q02: Example of best function",
+    "Description": "(If yes) Describe example of best period of function"
+  },
+  "fas_03_a": {
+    "LongName": "FAS Q03a: Drowsiness?",
+    "Description": "Has the patient been excessively drowsy today?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "fas_03_b": {
+    "LongName": "FAS Q03b: Drowsiness duration",
+    "Description": "If yes, how much of the day was he/she sleeping?",
+    "Levels": {
+      "0": "N/A",
+      "1": "25% of the day or less",
+      "2": "25% - 75% of the day",
+      "3": "75% of the day or more"
+    }
+  },
+  "fas_03_c": {
+    "LongName": "FAS Q03c: Unrousable?",
+    "Description": "Were there any periods when he/she was unarousable (blackouts) today?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "fas_04": {
+    "LongName": "FAS Q04: Attention",
+    "Description": "Did the patient have difficulty focusing attention for example, was he/she easily distractible, or did he/ she have difficulty keeping track of what was being said) throughout the day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "fas_05": {
+    "LongName": "FAS Q05: Disorganised thinking",
+    "Description": "Was the patient`s thinking disorganised or incoherent, for example, with rambling or irrelevant conversation, unclear or illogical flow of ideas, or unpredictable switching from subject to subject) throughout the day?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "fas_06": {
+    "LongName": "FAS Q06: Altered level of consciousness",
+    "Description": "Overall, how would you rate this patient`s level of consciousness today?",
+    "Levels": {
+      "0": "Alert (normal)",
+      "1": "Lethargic (drowsy, easily aroused)",
+      "2": "Stuporous (difficult to arouse)"
+    }
+  },
+  "fas_07_a": {
+    "LongName": "FAS Q07a: Comprehension",
+    "Description": "How well does the patient understand what you communicate to him/her (you may use speaking, writing or gesturing)?",
+    "Levels": {
+      "0": "Understands almost everything you communicate",
+      "1": "Understands some of what you communicate",
+      "2": "Understands almost nothing of what you communicate"
+    }
+  },
+  "fas_07_b": {
+    "LongName": "FAS Q07b: Communication",
+    "Description": "How well does the patient communicate (using speaking, writing or gesturing)?",
+    "Levels": {
+      "0": "Well enough to make him/herself easily understood at all times throughout the day",
+      "1": "Can be understood sometimes or with some difficulty",
+      "2": "Can rarely or never be understood for whatever reason"
+    }
+  },
+  "fas_score_total": {
+    "LongName": "FAS: Total score",
+    "Description": "Sum of sub-components. Note where applicable No = 0, Yes = 1 (i.e. when scoring 1a, 1b, 2a, 3a, 3c, 4, 5)"
+  },
+  "fas_fluctuations": {
+    "LongName": "FAS: Diagnosis fluctuations",
+    "Description": "fas_score_total>5"
+  }
+}

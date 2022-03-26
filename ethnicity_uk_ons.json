@@ -1,0 +1,28 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "UK Office for National Statistics ethnic categories",
+    "TermURL": "https://www.ons.gov.uk/methodology/classificationsandstandards/measuringequality/ethnicgroupnationalidentityandreligion"
+  },
+  "ethnicity": {
+    "LongName": "UK ONS ethnicity category",
+    "Description": "Self-identified ethnic classification using 2018 recommended practice from UK Office for National Statistics (Guidelines last updated: 18 January 2016)",
+    "Levels": {
+      "01": "White British",
+      "02": "White Irish",
+      "03": "White Other",
+      "04": "White and Black Caribbean",
+      "05": "White and Black African",
+      "06": "White and Asian",
+      "07": "Other mixed background",
+      "08": "Indian",
+      "09": "Pakistani",
+      "10": "Bangladeshi",
+      "11": "Other Asian background",
+      "12": "Caribbean",
+      "13": "African",
+      "14": "Black other",
+      "15": "Chinese",
+      "16": "Other"
+    }
+  }
+}

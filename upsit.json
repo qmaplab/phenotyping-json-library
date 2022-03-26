@@ -1,0 +1,406 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "The University of Pennsylvania Smell Identification Test (UPSIT - English Version)",
+    "TermURL": "https://sensonics.com/product/smell-identification-test/"
+  },
+  "upsit_q01": {
+    "LongName": "UPSIT Q1",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Petrol",
+      "02": "Pizza",
+      "03": "Peanuts",
+      "04": "Lilac"
+    }
+  },
+  "upsit_q02": {
+    "LongName": "UPSIT Q2",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Chutney",
+      "02": "Bubblegum",
+      "03": "Liniment",
+      "04": "Watermelon"
+    }
+  },
+  "upsit_q03": {
+    "LongName": "UPSIT Q3",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Tomato",
+      "02": "Baby Powder",
+      "03": "Strawberry",
+      "04": "Menthol"
+    }
+  },
+  "upsit_q04": {
+    "LongName": "UPSIT Q4",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Whiskey",
+      "02": "Honey",
+      "03": "Lime",
+      "04": "Cherry"
+    }
+  },
+  "upsit_q05": {
+    "LongName": "UPSIT Q5",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Grass",
+      "02": "Pizza",
+      "03": "Motor Oil",
+      "04": "Pineapple"
+    }
+  },
+  "upsit_q06": {
+    "LongName": "UPSIT Q6",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Dog",
+      "02": "Mint",
+      "03": "Peach",
+      "04": "Cola"
+    }
+  },
+  "upsit_q07": {
+    "LongName": "UPSIT Q7",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Banana",
+      "02": "Garlic",
+      "03": "Cherry",
+      "04": "Motor Oil"
+    }
+  },
+  "upsit_q08": {
+    "LongName": "UPSIT Q8",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Baby Powder",
+      "02": "Clove",
+      "03": "Spaghetti",
+      "04": "Banana"
+    }
+  },
+  "upsit_q09": {
+    "LongName": "UPSIT Q9",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Clove",
+      "02": "Lilac",
+      "03": "Leather",
+      "04": "Apple"
+    }
+  },
+  "upsit_q10": {
+    "LongName": "UPSIT Q10",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Dog",
+      "02": "Coconut",
+      "03": "Cedar",
+      "04": "Honey"
+    }
+  },
+  "upsit_q11": {
+    "LongName": "UPSIT Q11",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Chocolate",
+      "02": "Banana",
+      "03": "Onion",
+      "04": "Peach"
+    }
+  },
+  "upsit_q12": {
+    "LongName": "UPSIT Q12",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Soap",
+      "02": "Grapefruit",
+      "03": "Menthol",
+      "04": "Nutmeg"
+    }
+  },
+  "upsit_q13": {
+    "LongName": "UPSIT Q13",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Baby Powder",
+      "02": "Pineapple",
+      "03": "Cheddar Cheese",
+      "04": "Cherry"
+    }
+  },
+  "upsit_q14": {
+    "LongName": "UPSIT Q14",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Paint Thinner",
+      "02": "Cherry",
+      "03": "Coconut",
+      "04": "Coffee"
+    }
+  },
+  "upsit_q15": {
+    "LongName": "UPSIT Q15",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Cola",
+      "02": "Cinnamon",
+      "03": "Pine",
+      "04": "Coconut"
+    }
+  },
+  "upsit_q16": {
+    "LongName": "UPSIT Q16",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Rose",
+      "02": "Lemon",
+      "03": "Peach",
+      "04": "Petrol"
+    }
+  },
+  "upsit_q17": {
+    "LongName": "UPSIT Q17",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Strawberry",
+      "02": "Chutney",
+      "03": "Chocolate",
+      "04": "Cedar"
+    }
+  },
+  "upsit_q18": {
+    "LongName": "UPSIT Q18",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Cedar",
+      "02": "Petrol",
+      "03": "Lemon",
+      "04": "Liquorice"
+    }
+  },
+  "upsit_q19": {
+    "LongName": "UPSIT Q19",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Lemon",
+      "02": "Chocolate",
+      "03": "Liquorice",
+      "04": "Black Pepper"
+    }
+  },
+  "upsit_q20": {
+    "LongName": "UPSIT Q20",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Menthol",
+      "02": "Gingerbread",
+      "03": "Apple",
+      "04": "Cheddar Cheese"
+    }
+  },
+  "upsit_q21": {
+    "LongName": "UPSIT Q21",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Lilac",
+      "02": "Spaghetti",
+      "03": "Coconut",
+      "04": "Whiskey"
+    }
+  },
+  "upsit_q22": {
+    "LongName": "UPSIT Q22",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Turpentine",
+      "02": "Soap",
+      "03": "Dog",
+      "04": "Spaghetti"
+    }
+  },
+  "upsit_q23": {
+    "LongName": "UPSIT Q23",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Chocolate",
+      "02": "Peach",
+      "03": "Leather",
+      "04": "Pizza"
+    }
+  },
+  "upsit_q24": {
+    "LongName": "UPSIT Q24",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Liquorice",
+      "02": "Watermelon",
+      "03": "Banana",
+      "04": "Smoke"
+    }
+  },
+  "upsit_q25": {
+    "LongName": "UPSIT Q25",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Pineapple",
+      "02": "Chutney",
+      "03": "Liquorice",
+      "04": "Rose"
+    }
+  },
+  "upsit_q26": {
+    "LongName": "UPSIT Q26",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Smoke",
+      "02": "Whiskey",
+      "03": "Pineapple",
+      "04": "Onion"
+    }
+  },
+  "upsit_q27": {
+    "LongName": "UPSIT Q27",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Musk",
+      "02": "Garlic",
+      "03": "Turpentine",
+      "04": "Lime"
+    }
+  },
+  "upsit_q28": {
+    "LongName": "UPSIT Q28",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Cheddar Cheese",
+      "02": "Orange",
+      "03": "Bubble Gum",
+      "04": "Turpentine"
+    }
+  },
+  "upsit_q29": {
+    "LongName": "UPSIT Q29",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Lime",
+      "02": "Rubber Tyre",
+      "03": "Nutmeg",
+      "04": "Leather"
+    }
+  },
+  "upsit_q30": {
+    "LongName": "UPSIT Q30",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Spaghetti",
+      "02": "Menthol",
+      "03": "Orange",
+      "04": "Watermelon"
+    }
+  },
+  "upsit_q31": {
+    "LongName": "UPSIT Q31",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Watermelon",
+      "02": "Peanut",
+      "03": "Rose",
+      "04": "Paint Thinner"
+    }
+  },
+  "upsit_q32": {
+    "LongName": "UPSIT Q32",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Mint",
+      "02": "Gingerbread",
+      "03": "Grass",
+      "04": "Strawberry"
+    }
+  },
+  "upsit_q33": {
+    "LongName": "UPSIT Q33",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Chutney",
+      "02": "Grass",
+      "03": "Smoke",
+      "04": "Peach"
+    }
+  },
+  "upsit_q34": {
+    "LongName": "UPSIT Q34",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Pine",
+      "02": "Smoke",
+      "03": "Peanut",
+      "04": "Orange"
+    }
+  },
+  "upsit_q35": {
+    "LongName": "UPSIT Q35",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Pizza",
+      "02": "Turpentine",
+      "03": "Clove",
+      "04": "Raspberry"
+    }
+  },
+  "upsit_q36": {
+    "LongName": "UPSIT Q36",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Motor Oil",
+      "02": "Nutmeg",
+      "03": "Rose",
+      "04": "Lemon"
+    }
+  },
+  "upsit_q37": {
+    "LongName": "UPSIT Q37",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Soap",
+      "02": "Black Pepper",
+      "03": "Baby Powder",
+      "04": "Peanut"
+    }
+  },
+  "upsit_q38": {
+    "LongName": "UPSIT Q38",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Orange",
+      "02": "Musk",
+      "03": "Cola",
+      "04": "Natural Gas"
+    }
+  },
+  "upsit_q39": {
+    "LongName": "UPSIT Q39",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Lime",
+      "02": "Rose",
+      "03": "Mint",
+      "04": "Bubblegum"
+    }
+  },
+  "upsit_q40": {
+    "LongName": "UPSIT Q40",
+    "Description": "Select the correct odour",
+    "Levels": {
+      "01": "Peanut",
+      "02": "Lemon",
+      "03": "Apple",
+      "04": "Liquorice"
+    }
+  }
+}

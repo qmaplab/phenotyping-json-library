@@ -1,0 +1,65 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Snaith-Hamilton Pleasure Scale",
+    "TermURL": "https://eprovide.mapi-trust.org/instruments/snaith-hamilton-pleasure-scale"
+  },
+  "shaps_01": {
+    "LongName": "SHAPS scale Q01",
+    "Description": "I would enjoy my favourite television or radio programme"
+  },
+  "shaps_02": {
+    "LongName": "SHAPS scale Q02",
+    "Description": "I would enjoy being with my family or close friends"
+  },
+  "shaps_03": {
+    "LongName": "SHAPS scale Q03",
+    "Description": "I would find pleasure in my hobbies and pastimes"
+  },
+  "shaps_04": {
+    "LongName": "SHAPS scale Q04",
+    "Description": "I would be able to enjoy my favourite meal"
+  },
+  "shaps_05": {
+    "LongName": "SHAPS scale Q05",
+    "Description": "I would enjoy a warm bath or refreshing shower"
+  },
+  "shaps_06": {
+    "LongName": "SHAPS scale Q06",
+    "Description": "I would find pleasure in the scent of flowers or the smell of a fresh sea breeze or freshly baked bread"
+  },
+  "shaps_07": {
+    "LongName": "SHAPS scale Q07",
+    "Description": "I would enjoy seeing other people`s smiling faces"
+  },
+  "shaps_08": {
+    "LongName": "SHAPS scale Q08",
+    "Description": "I would enjoy looking smart when I have made an effort with my appearance"
+  },
+  "shaps_09": {
+    "LongName": "SHAPS scale Q09",
+    "Description": "I would enjoy reading a book, magazine or newspaper"
+  },
+  "shaps_10": {
+    "LongName": "SHAPS scale Q10",
+    "Description": "I would enjoy a cup of tea or coffee or my favourite drink"
+  },
+  "shaps_11": {
+    "LongName": "SHAPS scale Q11",
+    "Description": "I would find pleasure in small things, e.g. bright sunny day, a telephone call from a friend"
+  },
+  "shaps_12": {
+    "LongName": "SHAPS scale Q12",
+    "Description": "I would be able to enjoy a beautiful landscape or view"
+  },
+  "shaps_13": {
+    "LongName": "SHAPS scale Q13",
+    "Description": "I would get pleasure from helping others"
+  },
+  "shaps_14": {
+    "LongName": "SHAPS scale Q14",
+    "Description": "I would feel pleasure when I receive praise from other people"
+  },
+  "shaps_score_total": {
+    "LongName": "Snaith-Hamilton Pleasure Scale: Total Score"
+  }
+}

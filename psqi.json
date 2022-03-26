@@ -1,0 +1,198 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Pittsburgh Sleep Quality Index (PSQI)",
+    "TermURL": "https://en.wikipedia.org/wiki/Pittsburgh_Sleep_Quality_Index"
+  },
+  "psqi_01": {
+    "LongName": "PSQI Q01",
+    "Description": "During the past month, what time have you usually gone to bed at night?"
+  },
+  "psqi_02": {
+    "LongName": "PSQI Q02",
+    "Description": "During the past month, how long (in minutes) has it usually taken you to fall asleep each night?"
+  },
+  "psqi_03": {
+    "LongName": "PSQI Q03",
+    "Description": "During the past month, what time have you usually gotten up in the morning?"
+  },
+  "psqi_04": {
+    "LongName": "PSQI Q04",
+    "Description": "During the past month, how many hours of actual sleep did you get at night?"
+  },
+  "psqi_05a": {
+    "LongName": "PSQI Q05a",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Cannot get to sleep within 30 minutes?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_05b": {
+    "LongName": "PSQI Q05b",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Wake up in the middle of the night or early morning?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_05c": {
+    "LongName": "PSQI Q05c",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Have to get up to use the bathroom?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_05d": {
+    "LongName": "PSQI Q05d",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Cannot breathe comfortably?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_05e": {
+    "LongName": "PSQI Q05e",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Cough or snore loudly?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_05f": {
+    "LongName": "PSQI Q05f",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Feel too cold?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_05g": {
+    "LongName": "PSQI Q05g",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Feel too hot?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_05h": {
+    "LongName": "PSQI Q05h",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Have bad dreams?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_05i": {
+    "LongName": "PSQI Q05i",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Have pain?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_05j": {
+    "LongName": "PSQI Q05j",
+    "Description": "During the past month, how often have you had trouble sleeping because you: Other reason(s)",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_06": {
+    "LongName": "PSQI Q06",
+    "Description": "During the past month, how often have you taken medicine to help you sleep (prescribed or ?over the counter?)?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_07": {
+    "LongName": "PSQI Q07",
+    "Description": "During the past month, how often have you had trouble staying awake while driving, eating meals, or engaging in social activity?",
+    "Levels": {
+      "0": "Not during the past month",
+      "1": "Less than once a week",
+      "2": "Once or twice a week",
+      "3": "Three or more times a week"
+    }
+  },
+  "psqi_08": {
+    "LongName": "PSQI Q08",
+    "Description": "During the past month, how much of a problem has it been for you to keep up enough enthusiasm to get things done?",
+    "Levels": {
+      "0": "No problem at all",
+      "1": "Only a very slight problem",
+      "2": "Somewhat of a problem",
+      "3": "A very big problem"
+    }
+  },
+  "psqi_09": {
+    "LongName": "PSQI Q09",
+    "Description": "During the past month, how would you rate your sleep quality overall?",
+    "Levels": {
+      "0": "Very good",
+      "1": "Fairly good",
+      "2": "Fairly bad",
+      "3": "Very bad"
+    }
+  },
+  "psqi_sleep_efficiency": {
+    "LongName": "PSQI Sleep Efficiency",
+    "Description": "Sleep Efficiency = Time in bed/Time asleep"
+  },
+  "psqi_component_01": {
+    "LongName": "PSQI Component 1: Subjective sleep quality",
+    "Description": "Component 1: Subjective sleep quality = psqi_09"
+  },
+  "psqi_component_02": {
+    "LongName": "PSQI Component 2: Sleep latency",
+    "Description": "Component 2: Sleep latency = psqi_02 + psqi_05a"
+  },
+  "psqi_component_03": {
+    "LongName": "PSQI Component 3: Sleep duration",
+    "Description": "Component 3: Sleep duration = psqi_04"
+  },
+  "psqi_component_04": {
+    "LongName": "PSQI Component 4: Sleep efficiency",
+    "Description": "Component 4: Sleep efficiency = psqi_01 + psqi_03 + psqi_04"
+  },
+  "psqi_component_05": {
+    "LongName": "PSQI Component 5: Sleep disturbance",
+    "Description": "Component 5: Sleep disturbance = psqi_05b + psqi_05j"
+  },
+  "psqi_component_06": {
+    "LongName": "PSQI Component 6: Use of sleep medication",
+    "Description": "Component 6: Use of sleep medication = psqi_06"
+  },
+  "psqi_component_07": {
+    "LongName": "PSQI Component 7: Daytime dysfunction",
+    "Description": "Component 7: Daytime dysfunction = psqi_07 + psqi_8"
+  },
+  "psqi_score_global": {
+    "LongName": "Global PSQI Score",
+    "Description": "Global PSQI Score: Sum of components 1-7"
+  }
+}

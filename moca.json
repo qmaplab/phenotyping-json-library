@@ -1,0 +1,154 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Montreal Cognitive Assessment (MoCA)",
+    "TermURL": "www.mocatest.org"
+  },
+  "cog_moca_trail": {
+    "LongName": "MOCA - Trail",
+    "Description": "Q1. MOCA - Trail (maximum = 1)"
+  },
+  "cog_moca_copy": {
+    "LongName": "MOCA - Copy",
+    "Description": "Q2. MOCA - Copy total (maximum = 1)"
+  },
+  "cog_moca_clock_c": {
+    "LongName": "MOCA - Clock contours",
+    "Description": "Q3a. MOCA - Clock contours (maximum = 1)"
+  },
+  "cog_moca_clock_n": {
+    "LongName": "MOCA - Clock numberss",
+    "Description": "Q3a. MOCA - Clock numbers (maximum = 1)"
+  },
+  "cog_moca_clock_h": {
+    "LongName": "MOCA - Clock hands",
+    "Description": "Q3a. MOCA - Clock hands (maximum = 1)"
+  },
+  "cog_moca_name01": {
+    "LongName": "MOCA - Naming 1",
+    "Description": "Q4a. MOCA-naming 1 (maximum = 1)"
+  },
+  "cog_moca_name02": {
+    "LongName": "MOCA - Naming 2",
+    "Description": "Q4b. MOCA-naming 2 (maximum = 1)"
+  },
+  "cog_moca_name03": {
+    "LongName": "MOCA - Naming 3",
+    "Description": "Q4c. MOCA-naming 3 (maximum = 1)"
+  },
+  "cog_moca_imrecall1": {
+    "LongName": "MOCA - Immediate recall 1",
+    "Description": "Q5a. MOCA - Immediate recall 1 (maximum = 5)"
+  },
+  "cog_moca_imrecall2": {
+    "LongName": "MOCA - Immediate recall 2",
+    "Description": "Q5b. MOCA - Immediate recall 2 (maximum = 5)"
+  },
+  "cog_moca_forward": {
+    "LongName": "MOCA - Forward numbers",
+    "Description": "Q6a. MOCA - Forward numbers (maximum = 1)"
+  },
+  "cog_moca_backward": {
+    "LongName": "MOCA - Backward numbers",
+    "Description": "Q6b. MOCA - Backward numbers (maximum = 1)"
+  },
+  "cog_moca_letters": {
+    "LongName": "MOCA - Letters",
+    "Description": "Q7. MOCA - Letters (maximum = 1)"
+  },
+  "cog_moca_serial7": {
+    "LongName": "MOCA - Serial 7s",
+    "Description": "Q8. MOCA - Serial 7s (maximum = 3)"
+  },
+  "cog_moca_repeat": {
+    "LongName": "MOCA - Repeat sentences",
+    "Description": "Q9. MOCA - Repeat sentences (maximum = 2)"
+  },
+  "cog_moca_fluency": {
+    "LongName": "MOCA - Fluency",
+    "Description": "Q10. MOCA - Fluency (maximum = 1)"
+  },
+  "cog_moca_abstraction": {
+    "LongName": "MOCA - Abstraction",
+    "Description": "Q11. MOCA - Abstraction (maximum = 2)"
+  },
+  "cog_moca_delay1": {
+    "LongName": "MOCA - Delayed recall: Immediate",
+    "Description": "Q12a. MOCA - Delayed recall: Immediate (maximum = 5)"
+  },
+  "cog_moca_delay2": {
+    "LongName": "MOCA - Delayed recall: Cue",
+    "Description": "Q12a. MOCA - Delayed recall: Cue (maximum = 5)"
+  },
+  "cog_moca_delay3": {
+    "LongName": "MOCA - Delayed recall: Multiple choice",
+    "Description": "Q12a. MOCA - Delayed recall: Multiple choice (maximum = 5)"
+  },
+  "cog_moca_date": {
+    "LongName": "MOCA - Date",
+    "Description": "Q13a. MOCA - Date (maximum = 1)"
+  },
+  "cog_moca_month": {
+    "LongName": "MOCA - Month",
+    "Description": "Q13b. MOCA - Month (maximum = 1)"
+  },
+  "cog_moca_year": {
+    "LongName": "MOCA - Year",
+    "Description": "Q13c. MOCA - Year (maximum = 1)"
+  },
+  "cog_moca_day": {
+    "LongName": "MOCA - Day",
+    "Description": "Q13d. MOCA - Day (maximum = 1)"
+  },
+  "cog_moca_place": {
+    "LongName": "MOCA - Place",
+    "Description": "Q13e. MOCA - Place (maximum = 1)"
+  },
+  "cog_moca_city": {
+    "LongName": "MOCA - City",
+    "Description": "Q13f. MOCA - City (maximum = 1)"
+  },
+  "cog_moca_v_total": {
+    "LongName": "MOCA VISUOSPATIAL TOTAL",
+    "Description": "sum([cog_moca_trail],[cog_moca_copy],[cog_moca_clock_c],[cog_moca_clock_n],[cog_moca_clock_h])"
+  },
+  "cog_moca_name_total": {
+    "LongName": "MOCA NAMING TOTAL",
+    "Description": "sum([cog_moca_name01],[cog_moca_name02],[cog_moca_name03])"
+  },
+  "cog_moca_a_total": {
+    "LongName": "MOCA ATTENTION TOTAL",
+    "Description": "sum([cog_moca_forward],[cog_moca_backward],[cog_moca_letters],[cog_moca_serial7])"
+  },
+  "cog_moca_l_total": {
+    "LongName": "MOCA LANGUAGE TOTAL",
+    "Description": "sum([cog_moca_repeat],[cog_moca_fluency])"
+  },
+  "cog_moca_ab_total": {
+    "LongName": "MOCA ABSTRACTION TOTAL",
+    "Description": "sum([cog_moca_abstraction])"
+  },
+  "cog_moca_rec_total": {
+    "LongName": "MOCA RECALL TOTAL",
+    "Description": "sum([cog_moca_abstraction])"
+  },
+  "cog_moca_o_total": {
+    "LongName": "MOCA ORIENTATION TOTAL",
+    "Description": "sum([cog_moca_abstraction])"
+  },
+  "cog_moca_total": {
+    "LongName": "MOCA TOTAL",
+    "Description": "sum(all questions)"
+  },
+  "cog_moca_cat": {
+    "LongName": "MOCA NORMAL?",
+    "Description": "The sum of cog_moca_total is normal (>=26) . If education is <=12y, then one point is added to cog_moca_total first",
+    "Levels": {
+      "1": "No: MoCA is abnormal (<26)",
+      "2": "Yes: MoCA is normal (>=26)"
+    }
+  },
+  "cog_moca_mis": {
+    "LongName": "MOCA MEMORY INDEX SCORE",
+    "Description": "sum([cog_moca_delay1],[cog_moca_delay2],[cog_moca_delay3])"
+  }
+}

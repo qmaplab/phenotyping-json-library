@@ -1,0 +1,76 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "MDS-Unified Parkinsons Disease Rating Scale: Part 4 (MDS-UPDRS: Part 4)",
+    "TermURL": "https://www.movementdisorders.org/MDS/MDS-Rating-Scales/MDS-Unified-Parkinsons-Disease-Rating-Scale-MDS-UPDRS"
+  },
+  "updrs4_01": {
+    "LongName": "UPDRS 4.1: Time spent with dyskinesias",
+    "Description": "Over the past week, how many hours do you usually sleep on a daily basis, including nighttime sleep and daytime napping? Alright, if you sleep ___ hrs, you are awake ____ hrs. Out of those awake hours, how many hours in total do you have wiggling, twitching, or jerking movements? Do not count the times when you have tremor, which is a regular back and forth shaking or times when you have painful foot cramps or spasms in the early morning or at nighttime. I will ask about those later. Concentrate only on these types of wiggling, jerking, and irregular movements. Add up all the time during the waking day when these usually occur. How many hours ____ (use this number for your calculations)",
+    "Levels": {
+      "0": "No dyskinesias",
+      "1": "? 25% of waking day",
+      "2": "26 - 50% of waking day",
+      "3": "51 - 75% of waking day",
+      "4": ">75% of waking day"
+    }
+  },
+  "updrs4_02": {
+    "LongName": "UPDRS 4.2: Functional impact of dyskinesias",
+    "Description": "Over the past week, did you usually have trouble doing things or being with people when these jerking movements occurred? Did they stop you from doing things or from being with people?",
+    "Levels": {
+      "0": "No dyskinesias or no impact by dyskinesias on activities or social interactions",
+      "1": "Dyskinesias impact on a few activities, but the patient usually performs all activities and participates in all social interactions during dyskinetic periods",
+      "2": "Dyskinesias impact on many activities, but the patient usually performs all activities and participates in all social interactions during dyskinetic periods",
+      "3": "Dyskinesias impact on activities to the point that the patient usually does not perform some activities or does not usually participate in some social activities during dyskinetic episodes",
+      "4": "Dyskinesias impact on function to the point that the patient usually does not perform most activities or participate in most social interactions during dyskinetic episodes"
+    }
+  },
+  "updrs4_03": {
+    "LongName": "UPDRS 4.3: Time spent in the off state",
+    "Description": "Some patients with Parkinson?s disease have a good effect from their medications throughout their awake hours and we call that ?ON? time. Other patients take their medications but still have some hours of low time, bad time, slow time, or shaking time. Doctors call these low periods ?OFF? time. Over the past week, you told me before that you are generally awake ____ hrs each day. Out of these awake hours, how many hours in total do you usually have this type of low level or OFF function? ____ (use this number for your calculations).",
+    "Levels": {
+      "0": "No OFF time",
+      "1": "? 25% of waking day",
+      "2": "26 - 50% of waking day",
+      "3": "51 - 75% of waking day",
+      "4": ">75% of waking day"
+    }
+  },
+  "updrs4_04": {
+    "LongName": "UPDRS 4.4: Functional impact of fluctuations",
+    "Description": "Over the past week have you felt nervous, worried, or tense? If yes, was this feeling for longer than one day at a time? Did it make it difficult for you to follow your usual activities or to be with other people?",
+    "Levels": {
+      "0": "No fluctuations or no impact by fluctuations on performance of activities or social interactions.",
+      "1": "Fluctuations impact on a few activities, but during OFF, the patient usually performs all activities and participates in all social interactions that typically occur during the ON state",
+      "2": "Fluctuations impact many activities, but during OFF, the patient still usually performs all activities and participates in all social interactions that typically occur during the ON state",
+      "3": "Fluctuations impact on the performance of activities during OFF to the point that the patient usually does not perform some activities or participate in some social interactions that are performed during ON periods",
+      "4": "Fluctuations impact on function to the point that, during OFF, the patient usually does not perform most activities or participate in most social interactions that are performed during ON periods"
+    }
+  },
+  "updrs4_05": {
+    "LongName": "UPDRS 4.5: Complexity of motor fluctuations",
+    "Description": "For some patients, the low or ?OFF? periods happen at certain times during day or when they do activities like eating or exercising. Over the past week, do you usually know when your low periods will occur? In other words, do your low periods always come at a certain time? Do they mostly come at a certain time? Do they only sometimes come at a certain time? Are your low periods totally unpredictable?",
+    "Levels": {
+      "0": "No motor fluctuations",
+      "1": "OFF times are predictable all or almost all of the time (> 75%)",
+      "2": "OFF times are predictable most of the time (51-75%)",
+      "3": "OFF times are predictable some of the time (26-50%)",
+      "4": "OFF episodes are rarely predictable (? 25%)"
+    }
+  },
+  "updrs4_06": {
+    "LongName": "UPDRS 4.6: Painful off-state dystonia",
+    "Description": "In one of the questions I ask ed earlier, you said you generally have ____ hours of low or ?OFF? time when your Parkinson`s disease is under poor control. During these low or ?OFF? periods, do you usually have painful cramps or spasms? Out of the total ____ hrs of this low time, if you add up all the time in a day when these painful cramps come, how many hours would this make?",
+    "Levels": {
+      "0": "No dystonia OR NO OFF TIME",
+      "1": "? 25% of time in OFF state",
+      "2": "26-50% of time in OFF state",
+      "3": "51-75% of time in OFF state",
+      "4": "> 75% of time in OFF state"
+    }
+  },
+  "updrs4_score_total": {
+    "LongName": "MDS-UPDRS 4: Total Score",
+    "Description": "MDS-UPDRS Part 4: Summative score"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Mini-International Neuropsychiatric Interview - Part A: Depression",
+    "TermURL": "https://eprovide.mapi-trust.org/instruments/mini-international-neuropsychiatric-interview"
+  },
+  "mini_a1a": {
+    "LongName": "M.I.N.I: Question A1a",
+    "Description": "Mini-International Neuropsychiatric Interview: A1a -  Ever depressed or down, nearly every day for two weeks?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a1b": {
+    "LongName": "M.I.N.I: Question A1b",
+    "Description": "Mini-International Neuropsychiatric Interview: A1b -  In the last two weeks depressed or down, nearly every day?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a2a": {
+    "LongName": "M.I.N.I: Question A2a",
+    "Description": "Mini-International Neuropsychiatric Interview: A2a -  Ever less interested in things for 2 weeks?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a2b": {
+    "LongName": "M.I.N.I: Question A2a",
+    "Description": "Mini-International Neuropsychiatric Interview: A2b -  Last two weeks less interested in things?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3a_current": {
+    "LongName": "M.I.N.I: Question A3a current",
+    "Description": "Mini-International Neuropsychiatric Interview: A3a -  Current: Appetite decreased?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3a_past": {
+    "LongName": "M.I.N.I: Question A3a past",
+    "Description": "Mini-International Neuropsychiatric Interview: A3a -  Past: Appetite decreased?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3b_current": {
+    "LongName": "M.I.N.I: Question A3b current",
+    "Description": "Mini-International Neuropsychiatric Interview: A3b -  Current: Difficulty sleeping?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3b_past": {
+    "LongName": "M.I.N.I: Question A3b past",
+    "Description": "Mini-International Neuropsychiatric Interview: A3b -  Past: Difficulty sleeping?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3c_current": {
+    "LongName": "M.I.N.I: Question A3c current",
+    "Description": "Mini-International Neuropsychiatric Interview: A3c -  Current: Slow moving/fidgety?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3c_past": {
+    "LongName": "M.I.N.I: Question A3c past",
+    "Description": "Mini-International Neuropsychiatric Interview: A3c -  Past: Slow moving/fidgety?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3d_current": {
+    "LongName": "M.I.N.I: Question A3d current",
+    "Description": "Mini-International Neuropsychiatric Interview: A3d -  Current: Tired/without energy?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3d_past": {
+    "LongName": "M.I.N.I: Question A3d past",
+    "Description": "Mini-International Neuropsychiatric Interview: A3d -  Past: Tired/without energy?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3e_current": {
+    "LongName": "M.I.N.I: Question A3e current",
+    "Description": "Mini-International Neuropsychiatric Interview: A3e -  Current: Guilty or worthless feeling?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3e_past": {
+    "LongName": "M.I.N.I: Question A3e past",
+    "Description": "Mini-International Neuropsychiatric Interview: A3e -  Past: Guilty or worthless feeling?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3e_delusion_current": {
+    "LongName": "M.I.N.I: Question A3e delusion current",
+    "Description": "Mini-International Neuropsychiatric Interview: A3e -  Current: Evidence of delusions of guilt?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3e_delusion_past": {
+    "LongName": "M.I.N.I: Question A3e delusion past",
+    "Description": "Mini-International Neuropsychiatric Interview: A3e -  Past: Evidence of delusions of guilt?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3f_current": {
+    "LongName": "M.I.N.I: Question A3f current",
+    "Description": "Mini-International Neuropsychiatric Interview: A3f -  Current: Difficulty concentrating?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3f_past": {
+    "LongName": "M.I.N.I: Question A3f past",
+    "Description": "Mini-International Neuropsychiatric Interview: A3f -  Past: Difficulty concentrating?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3g_current": {
+    "LongName": "M.I.N.I: Question A3g current",
+    "Description": "Mini-International Neuropsychiatric Interview: A3g -  Current: Thoughts of death or suicide?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a3g_past": {
+    "LongName": "M.I.N.I: Question A3g past",
+    "Description": "Mini-International Neuropsychiatric Interview: A3g -  Past: Thoughts of death or suicide?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a4_current": {
+    "LongName": "M.I.N.I: Question A4 current",
+    "Description": "Mini-International Neuropsychiatric Interview: A4 -  Current: Symptoms cause distress or problems at home/work/socially or in some other important way?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a4_past": {
+    "LongName": "M.I.N.I: Question A4 past",
+    "Description": "Mini-International Neuropsychiatric Interview: A4 -  Past: Symptoms cause distress or problems at home/work/socially or in some other important way?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a5": {
+    "LongName": "M.I.N.I: Question A5",
+    "Description": "Mini-International Neuropsychiatric Interview: A5 -  Between 2 episodes of depression, 2 months symptom free?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a6": {
+    "LongName": "M.I.N.I: Question A6 - DEPRESSION: Number of lifetime episodes",
+    "Description": "Mini-International Neuropsychiatric Interview: A6 -  How many depressive episodes over lifetime?"
+  },
+  "mini_a_diagnosis_depression": {
+    "LongName": "M.I.N.I: DIAGNOSIS MAJOR DEPRESSIVE EPISODE",
+    "Description": "Mini-International Neuropsychiatric Interview: Fufils diagnostic criteria for major depressive episode?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a_diagnosis_depression_current": {
+    "LongName": "M.I.N.I: DEPRESSION TYPE - Current?",
+    "Description": "Mini-International Neuropsychiatric Interview: Fufils diagnostic criteria for current major depressive episode?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a_diagnosis_depression_past": {
+    "LongName": "M.I.N.I: DEPRESSION TYPE - Past?",
+    "Description": "Mini-International Neuropsychiatric Interview: Fufils diagnostic criteria for past major depressive episode?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_a_diagnosis_depression_recurrent": {
+    "LongName": "M.I.N.I: DEPRESSION TYPE - Recurrent?",
+    "Description": "Mini-International Neuropsychiatric Interview: Fufils diagnostic criteria for recurrent major depressive episode?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  }
+}

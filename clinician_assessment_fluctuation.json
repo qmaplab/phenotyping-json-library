@@ -1,0 +1,52 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Clinician Assessment of Fluctuation",
+    "TermURL": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3551BCD9A7C1039BF7170CC63ADE5F5D/S000712500015576Xa.pdf/clinician_assessment_of_fluctuation_and_the_one_day_fluctuation_assessment_scale.pdf"
+  },
+  "caf_01_a": {
+    "LongName": "CAF Q01a: Fluctuating awareness?",
+    "Description": "Does the patient ever have spontaneous impaired alertness and concentration, i.e. appear drowsy but awake, look dazed, not be aware of what is going on around? Clear examples demonstrating impaired consciousness with variations in performance/cognition are required to receive a positive rating.) Have these episodes occurred within the last month?",
+    "Levels": {
+      "0": "Not known",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "caf_01_b": {
+    "LongName": "CAF Q01b: Fluctuating confusion?",
+    "Description": "Has the level of confusion experienced by the patient tended to vary a lot recently from day to day or week to week? Has it become worse then improved for a while, i.e. been up and down? (Significant fluctuation is regarded as present if distinct examples of differences in performance/cognition can be given on at least two occasions over the past month.)",
+    "Levels": {
+      "0": "Not known",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "caf_02": {
+    "LongName": "CAF Q02: Frequency of fluctuating confusion",
+    "Description": "If yes to eithe caf_01_a or caf_01_b, assess the frequency of fluctuating confusion",
+    "Levels": {
+      "0": "N/A",
+      "1": "Once per month",
+      "2": "Monthly - weekly",
+      "4": "> Daily"
+    }
+  },
+  "caf_03": {
+    "LongName": "CAF Q03: Duration of fluctuating confusion",
+    "Description": "If yes to eithe caf_01_a or caf_01_b, assess the duration of fluctuating confusion",
+    "Levels": {
+      "0": "Seconds (or N/A)",
+      "1": "<= 5 minutes",
+      "2": "5 minutes - 1 hour",
+      "4": ">= 1 day"
+    }
+  },
+  "caf_score_total": {
+    "LongName": "CAF: Total severity score",
+    "Description": "Product of Q2 and 3: caf_02 * caf*03. Severity score from 0±12 (0 representing no fluctuating confusion, 12 representing severe fluctuating confusion; a score of 16 would signify a continuous clouded state, which, by definition, would denote no fluctuation). Score >=5 cut-off for fluctuation diagnosis."
+  },
+  "caf_fluctuations": {
+    "LongName": "CAF: Diagnosis fluctuations?",
+    "Description": "Total Seveity Score >=5 cut-off for fluctuation diagnosis."
+  }
+}

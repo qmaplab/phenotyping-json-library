@@ -1,0 +1,428 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "MDS-Unified Parkinsons Disease Rating Scale: Part 3 (MDS-UPDRS: Part 3)",
+    "TermURL": "https://www.movementdisorders.org/MDS/MDS-Rating-Scales/MDS-Unified-Parkinsons-Disease-Rating-Scale-MDS-UPDRS"
+  },
+  "updrs3a": {
+    "LongName": "UPDRS 3a:",
+    "Description": "Is the patient on medication for treating the symptoms of Parkinsons disease",
+    "Levels": {
+      "01": "No",
+      "02": "Yes"
+    }
+  },
+  "updrs3b": {
+    "LongName": "UPDRS 3b:",
+    "Description": "If the patient is receiving medication for treating the symptoms of Parkinsons disease, mark the patient?s clinical state using the following definitions",
+    "Levels": {
+      "01": "On:  On is the typical functional state when patients are receiving medication and have a good response",
+      "02": "Off:  On is the typical functional state when patients are receiving medication and have a poor response"
+    }
+  },
+  "updrs3c": {
+    "LongName": "UPDRS 3c:",
+    "Description": "Is the patient on levodopa",
+    "Levels": {
+      "01": "No",
+      "02": "Yes"
+    }
+  },
+  "updrs3c1": {
+    "LongName": "UPDRS 3c1:",
+    "Description": "Time in minutes since last levodopa dose"
+  },
+  "updrs3_01": {
+    "LongName": "UPDRS 3.1: Speech",
+    "Description": "Listen to the patient?s free-flowing speech and engage in conversation if necessary. Suggested topics: ask about the patient?s work, hobbies, exercise, or how he got to the doctor?s office. Evaluate volume, modulation (prosody) and clarity, including slurring, palilalia (repetition of syllables), and tachyphemia (rapid speech, running syllables together)",
+    "Levels": {
+      "00": "Normal: No speech problems",
+      "01": "Slight: Loss of modulation, diction, or volume, but still all words easy to understand.",
+      "02": "Mild: Loss of modulation, diction, or volume, with a few words unclear, but the overall sentences easy to follow.",
+      "03": "Moderate: Speech is difficult to understand to the point that some, but not most, sentences are poorly understood.",
+      "04": "Severe: Most speech is difficult to understand or unintelligible."
+    }
+  },
+  "updrs3_02": {
+    "LongName": "UPDRS 3.1: Facial expression",
+    "Description": "Observe the patient sitting at rest for 10 seconds, without talking and also while talking. Observe eye-blink frequency, masked facies or loss of facial expression, spontaneous smiling, and parting of lips.",
+    "Levels": {
+      "00": "Normal: Normal facial expression",
+      "01": "Slight: Minimal masked facies manifested only by decreased frequency of blinking",
+      "02": "Mild: In addition to decreased eye-blink frequency, masked facies present in the lower face as well, namely fewer movements around the mouth, such as less spontaneous smiling, but lips not parted",
+      "03": "Moderate: Masked facies with lips parted some of the time when the mouth is at rest",
+      "04": "Severe: Masked facies with lips parted most of the time when the mouth is at rest"
+    }
+  },
+  "updrs3_03_neck": {
+    "LongName": "UPDRS 3.3a: Rigidity - NECK",
+    "Description": "Rigidity is judged on slow passive movement of major joints with the patient in a relaxed position and the examiner manipulating the limbs and neck. First, test without an activation maneuver. Test and rate neck and each limb separately. For arms, test the wrist and elbow joints simultaneously. For legs, test the hip and knee joints simultaneously. If no rigidity is detected, use an activation maneuver such as tapping fingers, fist opening/closing, or heel tapping in a limb not being tested. Explain to the patient to go as limp as possible as you test for rigidity",
+    "Levels": {
+      "00": "Normal: No rigidity",
+      "01": "Slight: Rigidity only detected with activation maneuver",
+      "02": "Mild: Rigidity detected without the activation maneuver, but full range of motion is easily achieved",
+      "03": "Moderate: Rigidity detected without the activation maneuver; full range of motion is achieved with effort",
+      "04": "Severe: Rigidity detected without the activation maneuver and full range of motion not achieved"
+    }
+  },
+  "updrs3_03_rue": {
+    "LongName": "UPDRS 3.3a: Rigidity - RIGHT UPPER EXTREMITY",
+    "Description": "Rigidity is judged on slow passive movement of major joints with the patient in a relaxed position and the examiner manipulating the limbs and neck. First, test without an activation maneuver. Test and rate neck and each limb separately. For arms, test the wrist and elbow joints simultaneously. For legs, test the hip and knee joints simultaneously. If no rigidity is detected, use an activation maneuver such as tapping fingers, fist opening/closing, or heel tapping in a limb not being tested. Explain to the patient to go as limp as possible as you test for rigidity",
+    "Levels": {
+      "00": "Normal: No rigidity",
+      "01": "Slight: Rigidity only detected with activation maneuver",
+      "02": "Mild: Rigidity detected without the activation maneuver, but full range of motion is easily achieved",
+      "03": "Moderate: Rigidity detected without the activation maneuver; full range of motion is achieved with effort",
+      "04": "Severe: Rigidity detected without the activation maneuver and full range of motion not achieved"
+    }
+  },
+  "updrs3_03_lue": {
+    "LongName": "UPDRS 3.3a: Rigidity - LEFT UPPER EXTREMITY",
+    "Description": "Rigidity is judged on slow passive movement of major joints with the patient in a relaxed position and the examiner manipulating the limbs and neck. First, test without an activation maneuver. Test and rate neck and each limb separately. For arms, test the wrist and elbow joints simultaneously. For legs, test the hip and knee joints simultaneously. If no rigidity is detected, use an activation maneuver such as tapping fingers, fist opening/closing, or heel tapping in a limb not being tested. Explain to the patient to go as limp as possible as you test for rigidity",
+    "Levels": {
+      "00": "Normal: No rigidity",
+      "01": "Slight: Rigidity only detected with activation maneuver",
+      "02": "Mild: Rigidity detected without the activation maneuver, but full range of motion is easily achieved",
+      "03": "Moderate: Rigidity detected without the activation maneuver; full range of motion is achieved with effort",
+      "04": "Severe: Rigidity detected without the activation maneuver and full range of motion not achieved"
+    }
+  },
+  "updrs3_03_rle": {
+    "LongName": "UPDRS 3.3a: Rigidity - RIGHT LOWER EXTREMITY",
+    "Description": "Rigidity is judged on slow passive movement of major joints with the patient in a relaxed position and the examiner manipulating the limbs and neck. First, test without an activation maneuver. Test and rate neck and each limb separately. For arms, test the wrist and elbow joints simultaneously. For legs, test the hip and knee joints simultaneously. If no rigidity is detected, use an activation maneuver such as tapping fingers, fist opening/closing, or heel tapping in a limb not being tested. Explain to the patient to go as limp as possible as you test for rigidity",
+    "Levels": {
+      "00": "Normal: No rigidity",
+      "01": "Slight: Rigidity only detected with activation maneuver",
+      "02": "Mild: Rigidity detected without the activation maneuver, but full range of motion is easily achieved",
+      "03": "Moderate: Rigidity detected without the activation maneuver; full range of motion is achieved with effort",
+      "04": "Severe: Rigidity detected without the activation maneuver and full range of motion not achieved"
+    }
+  },
+  "updrs3_03_lle": {
+    "LongName": "UPDRS 3.3a: Rigidity - LEFT LOWER EXTREMITY",
+    "Description": "Rigidity is judged on slow passive movement of major joints with the patient in a relaxed position and the examiner manipulating the limbs and neck. First, test without an activation maneuver. Test and rate neck and each limb separately. For arms, test the wrist and elbow joints simultaneously. For legs, test the hip and knee joints simultaneously. If no rigidity is detected, use an activation maneuver such as tapping fingers, fist opening/closing, or heel tapping in a limb not being tested. Explain to the patient to go as limp as possible as you test for rigidity",
+    "Levels": {
+      "00": "Normal: No rigidity",
+      "01": "Slight: Rigidity only detected with activation maneuver",
+      "02": "Mild: Rigidity detected without the activation maneuver, but full range of motion is easily achieved",
+      "03": "Moderate: Rigidity detected without the activation maneuver; full range of motion is achieved with effort",
+      "04": "Severe: Rigidity detected without the activation maneuver and full range of motion not achieved"
+    }
+  },
+  "updrs3_04_r": {
+    "LongName": "UPDRS 3.4a: Finger tapping - RIGHT",
+    "Description": "Each hand is tested separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to tap the index finger on the thumb 10 times as quickly AND as big as possible. Rate each side separately, evaluating speed, amplitude, hesitations, halts, and decrementing amplitude",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the tapping movement; b) slight slowing; c) the amplitude decrements near the end of the 10 taps",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during tapping; b) mild slowing; c) the amplitude decrements midway in the 10-tap sequence",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during tapping or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) the amplitude decrements starting after the 1st tap",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_04_l": {
+    "LongName": "UPDRS 3.4b: Finger tapping - LEFT",
+    "Description": "Each hand is tested separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to tap the index finger on the thumb 10 times as quickly AND as big as possible. Rate each side separately, evaluating speed, amplitude, hesitations, halts, and decrementing amplitude",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the tapping movement; b) slight slowing; c) the amplitude decrements near the end of the 10 taps",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during tapping; b) mild slowing; c) the amplitude decrements midway in the 10-tap sequence",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during tapping or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) the amplitude decrements starting after the 1st tap",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_05_r": {
+    "LongName": "UPDRS 3.5a: Hand movements - RIGHT",
+    "Description": "Test each hand separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to make a tight fist with the arm bent at the elbow so that the palm faces the examiner. Have the patient open the hand 10 times as fully AND as quickly as possible. If the patient fails to make a tight fist or to open the hand fully, remind him/ her to do so. Rate each side separately, evaluating speed, amplitude, hesitations, halts, and decrementing amplitude",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the movement; b) slight slowing; c) the amplitude decrements near the end of the task",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during the movements; b) mild slowing; c) the amplitude decrements midway in the task",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during tapping or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) the amplitude decrements starting after the 1st tap",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_05_l": {
+    "LongName": "UPDRS 3.5b: Hand movements - LEFT",
+    "Description": "Test each hand separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to make a tight fist with the arm bent at the elbow so that the palm faces the examiner. Have the patient open the hand 10 times as fully AND as quickly as possible. If the patient fails to make a tight fist or to open the hand fully, remind him/ her to do so. Rate each side separately, evaluating speed, amplitude, hesitations, halts, and decrementing amplitude",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the movement; b) slight slowing; c) the amplitude decrements near the end of the task",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during the movements; b) mild slowing; c) the amplitude decrements midway in the task",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during tapping or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) the amplitude decrements starting after the 1st tap",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_06_r": {
+    "LongName": "UPDRS 3.6a: Hand pronation/supernation - RIGHT",
+    "Description": "Test each hand separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to extend the arm out in front of his/her body with the palms down, and then to turn the palm up and down alternately 10 times as fast and as fully as possible. Rate each side separately, evaluating speed, amplitude, hesitations, halts, and decrementing amplitude.",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the movement; b) slight slowing; c) the amplitude decrements near the end of the sequence",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during the movements; b) mild slowing; c) the amplitude decrements midway in the sequence",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during the movement or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) the amplitude decrements starting after the 1st supination-pronation sequence",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_06_l": {
+    "LongName": "UPDRS 3.6b: Hand pronation/supernation - LEFT",
+    "Description": "Test each hand separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to extend the arm out in front of his/her body with the palms down, and then to turn the palm up and down alternately 10 times as fast and as fully as possible. Rate each side separately, evaluating speed, amplitude, hesitations, halts, and decrementing amplitude.",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the movement; b) slight slowing; c) the amplitude decrements near the end of the sequence",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during the movements; b) mild slowing; c) the amplitude decrements midway in the sequence",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during the movement or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) the amplitude decrements starting after the 1st supination-pronation sequence",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_07_r": {
+    "LongName": "UPDRS 3.7a: Toe tapping - RIGHT",
+    "Description": "Have the patient sit in a straight-backed chair with arms, both feet on the floor. Test each foot separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to place the heel on the ground in a comfortable position and then tap the toes 10 times as big and as fast as possible. Rate each side separately, evaluating speed, amplitude, hesitations, halts, and decrementing amplitude",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the tapping movement; b) slight slowing; c) amplitude decrements near the end of the ten taps",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during the movements; b) mild slowing; c) the amplitude decrements midway through the task",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during the tapping movements or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) amplitude decrements after the 1st tap",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_07_l": {
+    "LongName": "UPDRS 3.7b: Toe tapping - LEFT",
+    "Description": "Have the patient sit in a straight-backed chair with arms, both feet on the floor. Test each foot separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to place the heel on the ground in a comfortable position and then tap the toes 10 times as big and as fast as possible. Rate each side separately, evaluating speed, amplitude, hesitations, halts, and decrementing amplitude",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the tapping movement; b) slight slowing; c) amplitude decrements near the end of the ten taps",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during the movements; b) mild slowing; c) the amplitude decrements midway through the task",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during the tapping movements or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) amplitude decrements after the 1st tap",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_08_r": {
+    "LongName": "UPDRS 3.8a: Leg agility - RIGHT",
+    "Description": "Have the patient sit in a straight-backed chair with arms. The patient should have both feet comfortably on the floor. Test each leg separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to place the foot on the ground in a comfortable position and then raise and stomp the foot on the ground 10 times as high and as fast as possible. Rate each side separately, evaluating speed, amplitude, hesitations, halts and decrementing amplitude",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the tapping movement; b) slight slowing; c) amplitude decrements near the end of the task",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during the movements; b) mild slowing; c) the amplitude decrements midway through the task",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during the tapping movements or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) amplitude decrements after the 1st tap",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_08_l": {
+    "LongName": "UPDRS 3.8b: Leg agility - LEFT",
+    "Description": "Have the patient sit in a straight-backed chair with arms. The patient should have both feet comfortably on the floor. Test each leg separately. Demonstrate the task, but do not continue to perform the task while the patient is being tested. Instruct the patient to place the foot on the ground in a comfortable position and then raise and stomp the foot on the ground 10 times as high and as fast as possible. Rate each side separately, evaluating speed, amplitude, hesitations, halts and decrementing amplitude",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Any of the following: a) the regular rhythm is broken with one or two interruptions or hesitations of the tapping movement; b) slight slowing; c) amplitude decrements near the end of the task",
+      "02": "Mild: Any of the following: a) 3 to 5 interruptions during the movements; b) mild slowing; c) the amplitude decrements midway through the task",
+      "03": "Moderate: Any of the following: a) more than 5 interruptions during the tapping movements or at least one longer arrest (freeze) in ongoing movement; b) moderate slowing; c) amplitude decrements after the 1st tap",
+      "04": "Severe: Cannot or can only barely perform the task because of slowing, interruptions, or decrements"
+    }
+  },
+  "updrs3_09": {
+    "LongName": "UPDRS 3.9: Arising from a chair",
+    "Description": "Have the patient sit in a straight-backed chair with arms, with both feet on the floor and sitting back in the chair (if the patient is not too short). Ask the patient to cross his/her arms across the chest and then to stand up. If the patient is not successful, repeat this attempt up to a maximum of two more times. If still unsuccessful, allow the patient to move forward in the chair to arise with arms folded across the chest. Allow only one attempt in this situation. If unsuccessful, allow the patient to push off using his/her hands on the arms of the chair. Allow a maximum of three trials of pushing off. If still not successful, assist the patient to arise. After the patient stands up, observe the posture for item 3.13",
+    "Levels": {
+      "00": "Normal: No problems. Able to arise quickly without hesitation",
+      "01": "Slight: Arising is slower than normal; or may need more than one attempt; or may need to move forward in the chair to arise. No need to use the arms of the chair",
+      "02": "Mild: Pushes self up from the arms of the chair without difficulty",
+      "03": "Moderate: Needs to push off, but tends to fall back; or may have to try more than one time using the arms of the chair, but can get up without help",
+      "04": "Severe: Unable to arise without help"
+    }
+  },
+  "updrs3_10": {
+    "LongName": "UPDRS 3.10: Gait",
+    "Description": "Testing gait is best performed by having the patient walking away from and towards the examiner so that both right and left sides of the body can be easily observed simultaneously. The patient should walk at least 10 meters (30 feet), then turn around and return to the examiner. This item measures multiple behaviors: stride amplitude, stride speed, height of foot lift, heel strike during walking, turning, and arm swing, but not freezing. Assess also for ?freezing of gait? (next item 3.11) while patient is walking. Observe posture for item 3.13",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Independent walking with minor gait impairment",
+      "02": "Mild: Independent walking but with substantial gait impairment",
+      "03": "Moderate: Requires an assistance device for safe walking (walking stick, walker) but not a person",
+      "04": "Severe: Cannot walk at all or only with another person?s assistance"
+    }
+  },
+  "updrs3_11": {
+    "LongName": "UPDRS 3.11: Freezing",
+    "Description": "While assessing gait, also assess for the presence of any gait freezing episodes. Observe for start hesitation and stuttering movements especially when turning and reaching the end of the task. To the extent that safety permits, patients may NOT use sensory tricks during the assessment",
+    "Levels": {
+      "00": "Normal: No freezing",
+      "01": "Slight: Freezes on starting, turning, or walking through doorway with a single halt during any of these events, but then continues smoothly without freezing during straight walking",
+      "02": "Mild: Freezes on starting, turning, or walking through doorway with more than one halt during any of these activities, but continues smoothly without freezing during straight walking",
+      "03": "Moderate: Freezes once during straight walking",
+      "04": "Severe: Freezes multiple times during straight walking"
+    }
+  },
+  "updrs3_12": {
+    "LongName": "UPDRS 3.12: Postural stability",
+    "Description": "The test examines the response to sudden body displacement produced by a quick, forceful pull on the shoulders while the patient is standing erect with eyes open and feet comfortably apart and parallel to each other. Test retropulsion. Stand behind the patient and instruct the patient on what is about to happen. Explain that s/he is allowed to take a step backwards to avoid falling. There should be a solid wall behind the examiner, at least 1-2 meters away to allow for the observation of the number of retropulsive steps. The first pull is an instructional demonstration and is purposely milder and not rated. The second time the shoulders are pulled briskly and forcefully towards the examiner with enough force to displace the center of gravity so that patient MUST take a step backwards. The examiner needs to be ready to catch the patient, but must stand sufficiently back so as to allow enough room for the patient to take several steps to recover independently. Do not allow the patient to flex the body abnormally forward in anticipation of the pull. Observe for the number of steps backwards or falling. Up to and including two steps for recovery is considered normal, so abnormal ratings begin with three steps. If the patient fails to understand the test, the examiner can repeat the test so that the rating is based on an assessment that the examiner feels reflects the patient?s limitations rather than misunderstanding or lack of preparedness. Observe standing posture for item 3.13",
+    "Levels": {
+      "00": "Normal: No problems. Recovers with one or two steps",
+      "01": "Slight: 3-5 steps, but subject recovers unaided",
+      "02": "Mild: More than 5 steps, but subject recovers unaided",
+      "03": "Moderate: Stands safely, but with absence of postural response; falls if not caught by examiner",
+      "04": "Severe: Very unstable, tends to lose balance spontaneously or with just a gentle pull on the shoulders"
+    }
+  },
+  "updrs3_13": {
+    "LongName": "UPDRS 3.13: Posture",
+    "Description": "Posture is assessed with the patient standing erect after arising from a chair, during walking, and while being tested for postural reflexes. If you notice poor posture, tell the patient to stand up straight and see if the posture improves (see option 2 below). Rate the worst posture seen in these three observation points. Observe for flexion and side-to-side leaning",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Not quite erect, but posture could be normal for older person",
+      "02": "Mild: Definite flexion, scoliosis or leaning to one side, but patient can correct posture to normal posture when asked to do so",
+      "03": "Moderate: Stooped posture, scoliosis or leaning to one side that cannot be corrected volitionally to a normal posture by the patient",
+      "04": "Severe: Flexion, scoliosis or leaning with extreme abnormality of posture"
+    }
+  },
+  "updrs3_14": {
+    "LongName": "UPDRS 3.14: Global bradykinesia",
+    "Description": "This global rating combines all observations on slowness, hesitancy, and small amplitude and poverty of movement in general, including a reduction of gesturing and of crossing the legs. This assessment is based on the examiner?s global impression after observing for spontaneous gestures while sitting, and the nature of arising and walking",
+    "Levels": {
+      "00": "Normal: No problems",
+      "01": "Slight: Slight global slowness and poverty of spontaneous movements",
+      "02": "Mild: Mild global slowness and poverty of spontaneous movements",
+      "03": "Moderate: Moderate global slowness and poverty of spontaneous movements",
+      "04": "Severe: Severe global slowness and poverty of spontaneous movements"
+    }
+  },
+  "updrs3_15_r": {
+    "LongName": "UPDRS 3.15a: Postural tremor - RIGHT",
+    "Description": "All tremor, including re-emergent rest tremor, that is present in this posture is to be included in this rating. Rate each hand separately. Rate the highest amplitude seen. Instruct the patient to stretch the arms out in front of the body with palms down. The wrist should be straight and the fingers comfortably separated so that they do not touch each other. Observe this posture for 10 seconds",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor is present but less than 1 cm in amplitude",
+      "02": "Mild: Tremor is at least 1 but less than 3 cm in amplitude",
+      "03": "Moderate: Tremor is at least 3 but less than 10 cm in amplitude",
+      "04": "Severe: Tremor is at least 10 cm in amplitude"
+    }
+  },
+  "updrs3_15_l": {
+    "LongName": "UPDRS 3.15b: Postural tremor - LEFT",
+    "Description": "All tremor, including re-emergent rest tremor, that is present in this posture is to be included in this rating. Rate each hand separately. Rate the highest amplitude seen. Instruct the patient to stretch the arms out in front of the body with palms down. The wrist should be straight and the fingers comfortably separated so that they do not touch each other. Observe this posture for 10 seconds",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor is present but less than 1 cm in amplitude",
+      "02": "Mild: Tremor is at least 1 but less than 3 cm in amplitude",
+      "03": "Moderate: Tremor is at least 3 but less than 10 cm in amplitude",
+      "04": "Severe: Tremor is at least 10 cm in amplitude"
+    }
+  },
+  "updrs3_16_r": {
+    "LongName": "UPDRS 3.16a: Kinetic tremor - RIGHT",
+    "Description": "This is tested by the finger-to-nose maneuver. With the arm starting from the outstretched position, have the patient perform at least three finger-to-nose maneuvers with each hand reaching as far as possible to touch the examiner?s finger. The finger-to-nose maneuver should be performed slowly enough not to hide any tremor that could occur with very fast arm movements. Repeat with the other hand, rating each hand separately. The tremor can be present throughout the movement or as the tremor reaches either target (nose or finger). Rate the highest amplitude seen",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor is present but less than 1 cm in amplitude",
+      "02": "Mild: Tremor is at least 1 but less than 3 cm in amplitude",
+      "03": "Moderate: Tremor is at least 3 but less than 10 cm in amplitude",
+      "04": "Severe: Tremor is at least 10 cm in amplitude"
+    }
+  },
+  "updrs3_16_l": {
+    "LongName": "UPDRS 3.16b: Kinetic tremor - LEFT",
+    "Description": "This is tested by the finger-to-nose maneuver. With the arm starting from the outstretched position, have the patient perform at least three finger-to-nose maneuvers with each hand reaching as far as possible to touch the examiner?s finger. The finger-to-nose maneuver should be performed slowly enough not to hide any tremor that could occur with very fast arm movements. Repeat with the other hand, rating each hand separately. The tremor can be present throughout the movement or as the tremor reaches either target (nose or finger). Rate the highest amplitude seen",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor is present but less than 1 cm in amplitude",
+      "02": "Mild: Tremor is at least 1 but less than 3 cm in amplitude",
+      "03": "Moderate: Tremor is at least 3 but less than 10 cm in amplitude",
+      "04": "Severe: Tremor is at least 10 cm in amplitude"
+    }
+  },
+  "updrs3_17_rue": {
+    "LongName": "UPDRS 3.17a: Rest tremor - RIGHT UPPER EXTREMITY",
+    "Description": "This and the next item have been placed purposefully at the end of the examination to allow the rater to gather observations on rest tremor that may appear at any time during the exam, including when quietly sitting, during walking, and during activities when some body parts are moving but others are at rest. Score the maximum amplitude that is seen at any time as the final score. Rate only the amplitude and not the persistence or the intermittency of the tremor. As part of this rating, the patient should sit quietly in a chair with the hands placed on the arms of the chair (not in the lap) and the feet comfortably supported on the floor for 10 seconds with no other directives. Rest tremor is assessed separately for all four limbs and also for the lip/jaw. Rate only the maximum amplitude that is seen at any time as the final rating",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor is present but less than 1 cm in amplitude",
+      "02": "Mild: Tremor is at least 1 but less than 3 cm in amplitude",
+      "03": "Moderate: Tremor is at least 3 but less than 10 cm in amplitude",
+      "04": "Severe: Tremor is at least 10 cm in amplitude"
+    }
+  },
+  "updrs3_17_lue": {
+    "LongName": "UPDRS 3.17b: Rest tremor - LEFT UPPER EXTREMITY",
+    "Description": "This and the next item have been placed purposefully at the end of the examination to allow the rater to gather observations on rest tremor that may appear at any time during the exam, including when quietly sitting, during walking, and during activities when some body parts are moving but others are at rest. Score the maximum amplitude that is seen at any time as the final score. Rate only the amplitude and not the persistence or the intermittency of the tremor. As part of this rating, the patient should sit quietly in a chair with the hands placed on the arms of the chair (not in the lap) and the feet comfortably supported on the floor for 10 seconds with no other directives. Rest tremor is assessed separately for all four limbs and also for the lip/jaw. Rate only the maximum amplitude that is seen at any time as the final rating",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor is present but less than 1 cm in amplitude",
+      "02": "Mild: Tremor is at least 1 but less than 3 cm in amplitude",
+      "03": "Moderate: Tremor is at least 3 but less than 10 cm in amplitude",
+      "04": "Severe: Tremor is at least 10 cm in amplitude"
+    }
+  },
+  "updrs3_17_rle": {
+    "LongName": "UPDRS 3.17c: Rest tremor - RIGHT LOWER EXTREMITY",
+    "Description": "This and the next item have been placed purposefully at the end of the examination to allow the rater to gather observations on rest tremor that may appear at any time during the exam, including when quietly sitting, during walking, and during activities when some body parts are moving but others are at rest. Score the maximum amplitude that is seen at any time as the final score. Rate only the amplitude and not the persistence or the intermittency of the tremor. As part of this rating, the patient should sit quietly in a chair with the hands placed on the arms of the chair (not in the lap) and the feet comfortably supported on the floor for 10 seconds with no other directives. Rest tremor is assessed separately for all four limbs and also for the lip/jaw. Rate only the maximum amplitude that is seen at any time as the final rating",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor is present but less than 1 cm in amplitude",
+      "02": "Mild: Tremor is at least 1 but less than 3 cm in amplitude",
+      "03": "Moderate: Tremor is at least 3 but less than 10 cm in amplitude",
+      "04": "Severe: Tremor is at least 10 cm in amplitude"
+    }
+  },
+  "updrs3_17_lle": {
+    "LongName": "UPDRS 3.17d: Rest tremor - LEFT LOWER EXTREMITY",
+    "Description": "This and the next item have been placed purposefully at the end of the examination to allow the rater to gather observations on rest tremor that may appear at any time during the exam, including when quietly sitting, during walking, and during activities when some body parts are moving but others are at rest. Score the maximum amplitude that is seen at any time as the final score. Rate only the amplitude and not the persistence or the intermittency of the tremor. As part of this rating, the patient should sit quietly in a chair with the hands placed on the arms of the chair (not in the lap) and the feet comfortably supported on the floor for 10 seconds with no other directives. Rest tremor is assessed separately for all four limbs and also for the lip/jaw. Rate only the maximum amplitude that is seen at any time as the final rating",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor is present but less than 1 cm in amplitude",
+      "02": "Mild: Tremor is at least 1 but less than 3 cm in amplitude",
+      "03": "Moderate: Tremor is at least 3 but less than 10 cm in amplitude",
+      "04": "Severe: Tremor is at least 10 cm in amplitude"
+    }
+  },
+  "updrs3_17_lipjaw": {
+    "LongName": "UPDRS 3.17e: Rest tremor - LIP/JAW",
+    "Description": "This and the next item have been placed purposefully at the end of the examination to allow the rater to gather observations on rest tremor that may appear at any time during the exam, including when quietly sitting, during walking, and during activities when some body parts are moving but others are at rest. Score the maximum amplitude that is seen at any time as the final score. Rate only the amplitude and not the persistence or the intermittency of the tremor. As part of this rating, the patient should sit quietly in a chair with the hands placed on the arms of the chair (not in the lap) and the feet comfortably supported on the floor for 10 seconds with no other directives. Rest tremor is assessed separately for all four limbs and also for the lip/jaw. Rate only the maximum amplitude that is seen at any time as the final rating",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor is present but less than 1 cm in amplitude",
+      "02": "Mild: Tremor is at least 1 but less than 2 cm in amplitude",
+      "03": "Moderate: Tremor is at least 2 but less than 3 cm in amplitude",
+      "04": "Severe: Tremor is at least 3 cm in amplitude"
+    }
+  },
+  "updrs3_18": {
+    "LongName": "UPDRS 3.18: Tremor consistancy",
+    "Description": "This item receives one rating for all rest tremor and focuses on the constancy of rest tremor during the examination period when different body parts are variously at rest. It is rated purposefully at the end of the examination so that several minutes of information can be coalesced into the rating",
+    "Levels": {
+      "00": "Normal: No tremor",
+      "01": "Slight: Tremor at rest is present ? 25% of the entire examination period",
+      "02": "Mild: Tremor at rest is present 26-50% of the entire examination period",
+      "03": "Moderate: Tremor at rest is present 51-75% of the entire examination period",
+      "04": "Severe: Tremor at rest is present >75% of the entire examination period"
+    }
+  },
+  "updrs3_score_total": {
+    "LongName": "MDS-UPDRS 3: TOTAL SCORE",
+    "Description": "MDS-UPDRS Part 3: Total score (sum 3.1-3.18)"
+  },
+  "updrs3_dyskpresent": {
+    "LongName": "UPDRS 3: Dyskinesia present?",
+    "Description": "Were dyskinesias (chorea or dystonia) present during examination?",
+    "Levels": {
+      "01": "No",
+      "02": "Yes"
+    }
+  },
+  "updrs3_dyskinfluence": {
+    "LongName": "UPDRS 3: Dyskinesia interfere?",
+    "Description": "If yes, did these movements interfere with your ratings?",
+    "Levels": {
+      "01": "No",
+      "02": "Yes"
+    }
+  },
+  "updrs3_hystage": {
+    "LongName": "H&Y STAGE",
+    "Description": "HOEHN AND YAHR STAGE",
+    "Levels": {
+      "00": "Asymptomatic",
+      "01": "Unilateral involvement only",
+      "02": "Bilateral involvement without impairment of balance",
+      "03": "Mild to moderate involvement; some postural instability but physically independent; needs assistance to recover from pull test",
+      "05": "Wheelchair bound or bedridden unless aided"
+    }
+  }
+}

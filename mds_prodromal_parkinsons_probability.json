@@ -1,0 +1,541 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "MDS: Updated probability of prodromal parkinsons disease (2019)",
+    "TermURL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mds.27802"
+  },
+  "mds_prodrome_age": {
+    "LongName": "Prior probability: Age category",
+    "Description": "Prior probability of prodromal PD age categories (note those below 50y on criteria are floored into the bottom age category available for practical reasons)",
+    "Levels": {
+      "1": "Age <55y",
+      "2": "Age >=55y and <=59y",
+      "3": "Age >=60y and <=64y",
+      "4": "Age >=65y and <=69y",
+      "5": "Age >=70y and <=74y",
+      "6": "Age >=75y and <=79y",
+      "7": "Age >=80y"
+    }
+  },
+  "mds_prodrome_sex": {
+    "LongName": "Biological sex at birth",
+    "Description": "Risk 01: Probability of prodromal PD sex categories",
+    "Levels": {
+      "1": "Male",
+      "2": "Female"
+    }
+  },
+  "mds_prodrome_pesticide": {
+    "LongName": "Regular Pesticide Exposure",
+    "Description": "Risk 02: Regular Pesticide Exposure (i.e., ?100 episodes)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_occupational": {
+    "LongName": "Occupational Solvent Exposure",
+    "Description": "Risk 03: Occupational Solvent Exposure",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_caffeine": {
+    "LongName": "Consume Caffeinated Bevarage",
+    "Description": "Risk 04: Consume Caffeinated Bevarage (i.e., <3 cups of coffee/6 cups of black tea per-week)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_smoking": {
+    "LongName": "Smoking",
+    "Description": "Risk 05: Smoking status",
+    "Levels": {
+      "1": "Never",
+      "2": "Yes, currently",
+      "3": "Yes, previously",
+      "4": "Not available"
+    }
+  },
+  "mds_prodrome_pdfh": {
+    "LongName": "Family History of PD",
+    "Description": "Risk 06: Family History of PD (first degree relative)?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_gba": {
+    "LongName": "GBA Mutation",
+    "Description": "Risk 07-1: Intermediate Strength Genetic Variants associated with PD - GBA",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_lrrk2": {
+    "LongName": "LRRK2 Mutation",
+    "Description": "Risk 07-1: Intermediate Strength Genetic Variants associated with PD - LRRK2",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_prs": {
+    "LongName": "Polygenic risk score",
+    "Description": "Risk 07-2: Polygenic Risk Score",
+    "Levels": {
+      "1": "High polygenic risk score i.e. highest quartile of PRS scores",
+      "2": "Low polygenic risk score i.e. lowest quartile of PRS scores",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_sn": {
+    "LongName": "Substantia Nigra Hyperechogenicity on TCUS",
+    "Description": "Risk 08: Documented Substantia Nigra Hyperechogenicity on Transcranial Ultrasound (i.e., SN+ corresponds to an uni- or bilateral hyperechogenic area in the SN (>90th percentile of the reference sample))",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_t2dm": {
+    "LongName": "Type II Diabetes Mellitus",
+    "Description": "Risk 09: Medical Diagnosis of Type II Diabetes Mellitus",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_physical": {
+    "LongName": "Physical Inactivity",
+    "Description": "Risk 10: Physical Inactivity (i.e., <1 hour/week of physical activity causing elevating in breath and heart rate/sweating)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_urate": {
+    "LongName": "Physical Inactivity",
+    "Description": "Risk 11: Low Plasma Urate (men only)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_psg": {
+    "LongName": "PSG proven RBD",
+    "Description": "A-1.1: Polysomnography proven RBD",
+    "Levels": {
+      "01": "No",
+      "02": "Yes",
+      "03": "Not available"
+    }
+  },
+  "mds_prodrome_psg_dd": {
+    "LongName": "Exclude differential diagnosis",
+    "Description": "A-1.2: Are you able to exclude differential diagnosis when screening for RBD (e.g. possible drug-induced/nacrolepsy-related dream enactment)",
+    "Levels": {
+      "01": "No",
+      "02": "Yes"
+    }
+  },
+  "mds_prodrome_rbdq": {
+    "LongName": "Suspected RBD",
+    "Description": "A-1.2: Suspect RBD using questionnaire (RBDQ score >=5 points or positive RBD1Q if RBDQ unavailable)",
+    "Levels": {
+      "01": "No",
+      "02": "Yes",
+      "03": "Not available"
+    }
+  },
+  "mds_prodrome_sleep": {
+    "LongName": "Excessive Daytime Somnolence",
+    "Description": "A-2 Excessive Daytime Somnolence (Possible drug-induced or nacrolepsy-related RBD symptom should be excluded)",
+    "Levels": {
+      "01": "No",
+      "02": "Yes",
+      "03": "Not available"
+    }
+  },
+  "mds_prodrome_olfactory": {
+    "LongName": "Olfactory Loss",
+    "Description": "A-3: Olfactory Loss (i.e. total score below age-and-sex-adjusted threshold in a quantitative olfactory test (e.g. Sniffin Stick, UPSIT or B-SIT) - Microsmia or worse",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_constipation": {
+    "LongName": "Constipation",
+    "Description": "A-4: Constipation (i.e. constipation requiring treatment more than once a week, or spontaneous bowel movement frequency less than every other day",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_urinary": {
+    "LongName": "Urinary Dysfunction",
+    "Description": "A-5: Urinary Dysfunction",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_ed": {
+    "LongName": "Severe Erectile Dysfunction",
+    "Description": "A-6: Severe Erectile Dysfunction",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_noh": {
+    "LongName": "Neurogenic orthostatic hypotension",
+    "Description": "A-7a: Orthostatic hypotension based on quantitative assessments of supine/sitting and standing blood pres- sure drop with alternative causes of OH (dehydration, cardiac disease, autonomic neuropathy, medication, etc.) eliminated after comprehensive clinical assessment.",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_soh": {
+    "LongName": "Symptomatic orthostatic hypotension",
+    "Description": "A-7b: Symptomatic orthostatic hypotension is based on clinical OH diagnosis or a positive orthostatic hypotension questionnaire without comprehensive diagnostic investigation regarding the cause",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_depression": {
+    "LongName": "Depression",
+    "Description": "A-8 Depression with or without anxiety (clinical diagnosis or reaching thresholds of at least moderate depression in depression inventories/questionnaires)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_cognitive": {
+    "LongName": "Global Cognitive Deficit",
+    "Description": "A-9 Global Cognitive Deficit (i.e. diagnosed with mild cognitive impairment or score more than 1.5SD below the Age-and-sex-adjusted Norm)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_park": {
+    "LongName": "Subthreshold Parkinsonism",
+    "Description": "B-1: Subthreshold parkinsonism (UPDRS-III >3 excluding action tremor or MDS-UPDRS-III >6 excluding postural and action tremor)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_motor": {
+    "LongName": "Abnormal quantitative motor testing",
+    "Description": "B-2: Quantitative motor testing below one standard deviation of the mean (Abnormalities of quantitative motor tests according to defined thresholds, with performance 1 standard deviation (SD) below age-adjusted normal values. The motor test must be clearly demonstrably abnormal in clinical PD, with specificity compared to controls of ?80%. If multiple quantitative motor tests are performed, the individual must score below threshold on ?50% of them. Uncertain or borderline test results should not be included (use evaluator judgment).)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_dat": {
+    "LongName": "Abnormal DAT scan",
+    "Description": "C-1: Clear Abnormality on Dopaminergic Imaging (e.g. < 65% normal, 2SD below mean)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes",
+      "3": "Not available"
+    }
+  },
+  "mds_prodrome_prior": {
+    "LongName": "Pre-test odds of prodromal PD based on age",
+    "Description": "Age specific liklihood ratio of Parkinsons disease based on age with no known mutation in identified risk gene (penetrance)",
+    "Levels": {
+      "0.0040161": "Age <55y (0.4%)",
+      "0.0075567": "Age >=55y and <=59y (0.75%)",
+      "0.012658": "Age >=60y and <=64y (1.25%)",
+      "0.020408": "Age >=65y and <=69y (2.0%)",
+      "0.025641": "Age >=70y and <=74y (2.5%)",
+      "0.036269": "Age >=75y and <=79y (3.5%)",
+      "0.041667": "Age >=80y (4%)"
+    }
+  },
+  "mds_prodrome_lr_sex": {
+    "LongName": "Liklihood ratio: Biological sex at birth",
+    "Levels": {
+      "0.8": "Female",
+      "1.2": "Male"
+    }
+  },
+  "mds_prodrome_lr_pesticide": {
+    "LongName": "Liklihood ratio: Regular Pesticide Exposure",
+    "Levels": {
+      "1": "Not available",
+      "1.5": "Yes"
+    }
+  },
+  "mds_prodrome_lr_occupational": {
+    "LongName": "Liklihood ratio: Occupational Solvent Exposure",
+    "Levels": {
+      "1": "Not available",
+      "1.5": "Yes"
+    }
+  },
+  "mds_prodrome_lr_caffeine": {
+    "LongName": "Liklihood ratio: Consume Caffeinated Bevarage",
+    "Levels": {
+      "0.88": "Yes",
+      "1": "Not available",
+      "1.35": "No"
+    }
+  },
+  "mds_prodrome_lr_smc": {
+    "LongName": "Liklihood ratio: Current smoking",
+    "Levels": {
+      "0.51": "Yes",
+      "1": "Not available"
+    }
+  },
+  "mds_prodrome_lr_smf": {
+    "LongName": "Liklihood ratio: Former smoker",
+    "Levels": {
+      "0.91": "Yes",
+      "1": "Not available"
+    }
+  },
+  "mds_prodrome_lr_smn": {
+    "LongName": "Liklihood ratio: Never smoked",
+    "Levels": {
+      "1": "Not available",
+      "1.2": "Yes"
+    }
+  },
+  "mds_prodrome_lr_pdfh": {
+    "LongName": "Liklihood ratio: Family History of PD",
+    "Levels": {
+      "1": "Not available",
+      "2.5": "Yes"
+    }
+  },
+  "mds_prodrome_lr_gba": {
+    "LongName": "Liklihood ratio: GBA based on age",
+    "Levels": {
+      "1": "Not available/absent",
+      "11.2": "Age >=60y and <=64y",
+      "14.7": "Age >=55y and <=59y",
+      "20": "Age <55y",
+      "7.1": "Age >=75y and <=79y",
+      "7.5": "Age >=80y",
+      "8.4": "Age >=70y and <=74y",
+      "9": "Age >=65y and <=69y"
+    }
+  },
+  "mds_prodrome_lr_lrrk2": {
+    "LongName": "Liklihood ratio: LRRK2 based on age",
+    "Levels": {
+      "1": "Not available/absent",
+      "10.5": "Age >=80y",
+      "11.6": "Age >=70y and <=74y",
+      "2.5": "Age <55y",
+      "4": "Age >=55y and <=59y",
+      "5.6": "Age >=60y and <=64y",
+      "7.5": "Age >=65y and <=69y",
+      "9.1": "Age >=75y and <=79y"
+    }
+  },
+  "mds_prodrome_lr_prs": {
+    "LongName": "Liklihood ratio: Polygenic risk score",
+    "Levels": {
+      "1": "Not available",
+      "1.57": "Low polygenic risk score i.e. lowest quartile of PRS scores"
+    }
+  },
+  "mds_prodrome_lr_sn": {
+    "LongName": "Liklihood ratio: Substantia Nigra Hyperechogenicity on TCUS",
+    "Levels": {
+      "0.38": "No",
+      "1": "Not available",
+      "3.4": "Yes"
+    }
+  },
+  "mds_prodrome_lr_t2dm": {
+    "LongName": "Liklihood ratio: Type II Diabetes Mellitus",
+    "Levels": {
+      "0.97": "No",
+      "1": "Not available",
+      "1.5": "Yes"
+    }
+  },
+  "mds_prodrome_lr_physical": {
+    "LongName": "Liklihood ratio: Physical Inactivity",
+    "Levels": {
+      "0.91": "No",
+      "1": "Not available",
+      "1.3": "Yes"
+    }
+  },
+  "mds_prodrome_lr_urate": {
+    "LongName": "Liklihood ratio: Low serum urate",
+    "Levels": {
+      "0.88": "Yes",
+      "1": "Not available",
+      "1.8": "No"
+    }
+  },
+  "mds_prodrome_lr_psg": {
+    "LongName": "Liklihood ratio: PSG proven RBD",
+    "Levels": {
+      "0.65": "No",
+      "1": "Not available",
+      "130": "Yes"
+    }
+  },
+  "mds_prodrome_lr_rbdq": {
+    "LongName": "Liklihood ratio: Suspected RBD",
+    "Levels": {
+      "0.89": "No",
+      "1": "Not available",
+      "2.8": "Yes"
+    }
+  },
+  "mds_prodrome_lr_sleep": {
+    "LongName": "Liklihood ratio: Excessive Daytime Somnolence",
+    "Levels": {
+      "0.86": "No",
+      "1": "Not available",
+      "2.7": "Yes"
+    }
+  },
+  "mds_prodrome_lr_olfactory": {
+    "LongName": "Liklihood ratio: Olfactory Loss",
+    "Levels": {
+      "0.4": "No",
+      "1": "Not available",
+      "6.4": "Yes"
+    }
+  },
+  "mds_prodrome_lr_constipation": {
+    "LongName": "Liklihood ratio: Constipation",
+    "Levels": {
+      "0.82": "No",
+      "1": "Not available",
+      "2.5": "Yes"
+    }
+  },
+  "mds_prodrome_lr_urinary": {
+    "LongName": "Liklihood ratio: Urinary Dysfunction",
+    "Levels": {
+      "0.9": "No",
+      "1": "Not available",
+      "2": "Yes"
+    }
+  },
+  "mds_prodrome_lr_ed": {
+    "LongName": "Liklihood ratio: Severe Erectile Dysfunction",
+    "Levels": {
+      "0.87": "No",
+      "1": "Not available",
+      "3.4": "Yes"
+    }
+  },
+  "mds_prodrome_lr_noh": {
+    "LongName": "Liklihood ratio: Neurogenic orthostatic hypotension",
+    "Levels": {
+      "0.88": "No",
+      "1": "Not available",
+      "18.5": "Yes"
+    }
+  },
+  "mds_prodrome_lr_soh": {
+    "LongName": "Liklihood ratio: Symptomatic orthostatic hypotension",
+    "Levels": {
+      "0.8": "No",
+      "1": "Not available",
+      "3.2": "Yes"
+    }
+  },
+  "mds_prodrome_lr_depression": {
+    "LongName": "Liklihood ratio: Depression",
+    "Levels": {
+      "0.88": "No",
+      "1": "Not available",
+      "1.6": "Yes"
+    }
+  },
+  "mds_prodrome_lr_cognitive": {
+    "LongName": "Liklihood ratio: Global Cognitive Deficit",
+    "Levels": {
+      "0.88": "No",
+      "1": "Not available",
+      "1.8": "Yes"
+    }
+  },
+  "mds_prodrome_lr_park": {
+    "LongName": "Liklihood ratio: Subthreshold Parkinsonism",
+    "Levels": {
+      "0.55": "No",
+      "1": "Not available",
+      "9.6": "Yes"
+    }
+  },
+  "mds_prodrome_lr_motor": {
+    "LongName": "Liklihood ratio: Abnormal quantitative motor testing",
+    "Levels": {
+      "0.6": "No",
+      "1": "Not available",
+      "3.5": "Yes"
+    }
+  },
+  "mds_prodrome_lr_dat": {
+    "LongName": "Liklihood ratio: Abnormal DAT scan",
+    "Levels": {
+      "0.66": "No",
+      "1": "Not available",
+      "43.3": "Yes"
+    }
+  },
+  "mds_prodrome_riskmarkers_lr_total": {
+    "LongName": "Total liklihood ratio: Risk markers",
+    "Description": "Product of the following liklihoods: [sex,peticides,occupational,caffeine,smoking,{fh/gba/lrrk2/prs},sn,t2dm,physical,urate(male)]"
+  },
+  "mds_prodrome_nonmotor_lr_total": {
+    "LongName": "Total liklihood ratio: Clinical non-motor features",
+    "Description": "Product of the following liklihoods: [{psg/rbdq},sleep,olfactory,constipation,urinary,ed(male),{soh/noh},depression,cognitive]"
+  },
+  "mds_prodrome_motor_lr_total": {
+    "LongName": "Total liklihood ratio: Clinical non-motor features",
+    "Description": "Product of the following liklihoods: [{park/motor}]"
+  },
+  "mds_prodrome_biomarker_lr_total": {
+    "LongName": "Total liklihood ratio: Clinical biomarkers",
+    "Description": "Product of the following liklihoods: [dat]"
+  },
+  "mds_prodrome_lr_total": {
+    "LongName": "Total liklihood ratio",
+    "Description": "Product of: [risk,nonmotor,motor,biomarker]"
+  },
+  "mds_prodrome_probability_total": {
+    "LongName": "Probability of prodromal Parkinsons disease",
+    "Description": "([mds_prodrome_prior]*[mds_prodrome_lr_total])/(1+([mds_prodrome_prior]*[mds_prodrome_lr_total]))"
+  }
+}

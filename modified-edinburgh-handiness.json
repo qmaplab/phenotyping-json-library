@@ -1,0 +1,277 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Edinburgh Handiness Invetory (Modified)",
+    "TermURL": "http://www.brainmapping.org/shared/Edinburgh.php"
+  },
+  "handiness_pref_01": {
+    "LongName": "Q01 Preference :Writing",
+    "Description": "Writing - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_01": {
+    "LongName": "Q01 Alternative :Writing",
+    "Description": "Writing - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_02": {
+    "LongName": "Q02 Preference :Drawing",
+    "Description": "Drawing - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_02": {
+    "LongName": "Q02 Alternative :Drawing",
+    "Description": "Drawing - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_03": {
+    "LongName": "Q03 Preference :Throwing",
+    "Description": "Throwing - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_03": {
+    "LongName": "Q03 Alternative :Throwing",
+    "Description": "Throwing - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_04": {
+    "LongName": "Q04 Preference :Using Scissors",
+    "Description": "Using Scissors - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_04": {
+    "LongName": "Q04 Alternative :Using Scissors",
+    "Description": "Using Scissors - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_05": {
+    "LongName": "Q05 Preference :Using a Toothbrush",
+    "Description": "Using a Toothbrush - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_05": {
+    "LongName": "Q05 Alternative :Using a Toothbrush",
+    "Description": "Using a Toothbrush - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_06": {
+    "LongName": "Q06 Preference :Using a Knife (without a fork)",
+    "Description": "Using a Knife (without a fork) - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_06": {
+    "LongName": "Q06 Alternative :Using a Knife (without a fork)",
+    "Description": "Using a Knife (without a fork) - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_07": {
+    "LongName": "Q07 Preference :Using a Spoon",
+    "Description": "Using a Spoon - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_07": {
+    "LongName": "Q07 Alternative :Using a Spoon",
+    "Description": "Using a Spoon - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_08": {
+    "LongName": "Q08 Preference :Using a Broom (upper hand)",
+    "Description": "Using a Broom (upper hand) - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_08": {
+    "LongName": "Q08 Alternative :Using a Broom (upper hand)",
+    "Description": "Using a Broom (upper hand) - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_09": {
+    "LongName": "Q09 Preference :Striking a Match",
+    "Description": "Striking a Match - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_09": {
+    "LongName": "Q09 Alternative :Striking a Match",
+    "Description": "Striking a Match - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_10": {
+    "LongName": "Q10 Preference :Opening a Box (holding the lid):",
+    "Description": "Opening a Box (holding the lid): - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_10": {
+    "LongName": "Q10 Alternative :Opening a Box (holding the lid):",
+    "Description": "Opening a Box (holding the lid): - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_11": {
+    "LongName": "Q11 Preference :Holding a Computer Mouse",
+    "Description": "Holding a Computer Mouse - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_11": {
+    "LongName": "Q11 Alternative :Holding a Computer Mouse",
+    "Description": "Holding a Computer Mouse - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_12": {
+    "LongName": "Q12 Preference :Using a Key to Unlock a Door",
+    "Description": "Using a Key to Unlock a Door - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_12": {
+    "LongName": "Q12 Alternative :Using a Key to Unlock a Door",
+    "Description": "Using a Key to Unlock a Door - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_13": {
+    "LongName": "Q13 Preference :Holding a Hammer",
+    "Description": "Holding a Hammer - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_13": {
+    "LongName": "Q13 Alternative :Holding a Hammer",
+    "Description": "Holding a Hammer - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_14": {
+    "LongName": "Q14 Preference :Holding a Brush or Comb",
+    "Description": "Holding a Brush or Comb - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_14": {
+    "LongName": "Q14 Alternative :Holding a Brush or Comb",
+    "Description": "Holding a Brush or Comb - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_pref_15": {
+    "LongName": "Q15 Preference :Holding a Cup while Drinking",
+    "Description": "Holding a Cup while Drinking - Please indicate which hand you prefer",
+    "Levels": {
+      "1": "Left",
+      "2": "No Preference",
+      "3": "Right"
+    }
+  },
+  "handiness_alt_15": {
+    "LongName": "Q15 Alternative :Holding a Cup while Drinking",
+    "Description": "Holding a Cup while Drinking - Do you ever use the other hand?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "handiness_lq": {
+    "LongName": "Laterality quotient (LQ)",
+    "Description": "Laterality quotient as originally described, only using responses from Q1-10, negative is left (-100 = complete sinistrals) and positive is right (100 = complete dextrality). This is calculated by assigning exclusive laterality (-`ve for left) 2, if uses other side 1, no preference 0, and then: LQ = (sum(R) + sum(L))/(sum(R) + sum(L)) * 100"
+  },
+  "handiness_lqmod": {
+    "LongName": "Modified Laterality quotient (LQmod)",
+    "Description": "Modified laterality quotient using responses from Q1-15, negative is left (-100 = complete sinistrals) and positive is right (100 = complete dextrality): This is calculated by assigning exclusive laterality (-`ve for left) 2, if uses other side 1, no preference 0, and then: LQ = (sum(R) + sum(L))/(sum(R) + sum(L)) * 100"
+  },
+  "handiness_lq_decile": {
+    "LongName": "Laterality quotient decile",
+    "Description": "Decile of normal laterality quotient, using the sign to indicate side (negative left), taken from: http://www.brainmapping.org/shared/Edinburgh.php#"
+  },
+  "handiness_lqmod_decile": {
+    "LongName": "Laterality quotient decile",
+    "Description": "Decile of modified laterality quotient, using the sign to indicate side (negative left), taken from: http://www.brainmapping.org/shared/Edinburgh.php#"
+  }
+}

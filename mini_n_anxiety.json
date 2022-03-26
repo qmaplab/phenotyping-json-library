@@ -1,0 +1,102 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Mini-International Neuropsychiatric Interview - Part N: Anxiety",
+    "TermURL": "https://eprovide.mapi-trust.org/instruments/mini-international-neuropsychiatric-interview"
+  },
+  "mini_n1a": {
+    "LongName": "M.I.N.I: Question N1a",
+    "Description": "Mini-International Neuropsychiatric Interview: N1a - Have you felt anxious or worried over the last 6 months?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n1b1": {
+    "LongName": "M.I.N.I: Question N1b1",
+    "Description": "Mini-International Neuropsychiatric Interview: N1b1 - Are these anxieties or worries present most days?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n1b2": {
+    "LongName": "M.I.N.I: Question N1b2",
+    "Description": "Mini-International Neuropsychiatric Interview: N1b2 - Can these anxieties or worries be explained by another disorder?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n2": {
+    "LongName": "M.I.N.I: Question N2",
+    "Description": "Mini-International Neuropsychiatric Interview: N2 - Is it difficult to control these anxieties/worries?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n3a": {
+    "LongName": "M.I.N.I: Question N3a",
+    "Description": "Mini-International Neuropsychiatric Interview: N3a - Over 6m: Restless, keyed up or on edge?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n3b": {
+    "LongName": "M.I.N.I: Question N3b",
+    "Description": "Mini-International Neuropsychiatric Interview: N3b - Over 6m:  Muscle tension?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n3c": {
+    "LongName": "M.I.N.I: Question N3c",
+    "Description": "Mini-International Neuropsychiatric Interview: N3c - Over 6m: Tired or exhausted?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n3d": {
+    "LongName": "M.I.N.I: Question N3d",
+    "Description": "Mini-International Neuropsychiatric Interview: N3d - Over 6m: Difficulty concentrating?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n3e": {
+    "LongName": "M.I.N.I: Question N3e",
+    "Description": "Mini-International Neuropsychiatric Interview: N3e - Over 6m: Irritable?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n3f": {
+    "LongName": "M.I.N.I: Question N3f",
+    "Description": "Mini-International Neuropsychiatric Interview: N3f - Over 6m: Difficulty sleeping?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n4": {
+    "LongName": "M.I.N.I: Question N4",
+    "Description": "Mini-International Neuropsychiatric Interview: N4 - Symptoms caused functional impairment?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_n_diagnosis_anxiety": {
+    "LongName": "M.I.N.I: DIAGNOSIS GENERALISED ANXIETY DISORDER",
+    "Description": "Mini-International Neuropsychiatric Interview: N - Fulfils diagnostic criteria for generalised anxiety disorder?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  }
+}

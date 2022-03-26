@@ -1,0 +1,91 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Mini-International Neuropsychiatric Interview - Part AY: Dysthymia",
+    "TermURL": "https://eprovide.mapi-trust.org/instruments/mini-international-neuropsychiatric-interview"
+  },
+  "mini_ay1": {
+    "LongName": "M.I.N.I: Question AY1",
+    "Description": "Mini-International Neuropsychiatric Interview: AY1 - Have you felt sad/low/depressed for last 2y?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_ay2": {
+    "LongName": "M.I.N.I: Question AY2",
+    "Description": "Mini-International Neuropsychiatric Interview: AY2 -  Was this period interrupted by feeling free of depression for >2m?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_ay3a": {
+    "LongName": "M.I.N.I: Question AY3a",
+    "Description": "Mini-International Neuropsychiatric Interview: AY3a -  Poor appetite/overeating?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_ay3b": {
+    "LongName": "M.I.N.I: Question AY3b",
+    "Description": "Mini-International Neuropsychiatric Interview: AY3b -  Sleeping difficulties?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_ay3c": {
+    "LongName": "M.I.N.I: Question AY3c",
+    "Description": "Mini-International Neuropsychiatric Interview: AY3c -  Tired or without energy?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_ay3d": {
+    "LongName": "M.I.N.I: Question AY3d",
+    "Description": "Mini-International Neuropsychiatric Interview: AY3d -  Loss of self confidence?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_ay3e": {
+    "LongName": "M.I.N.I: Question AY3e",
+    "Description": "Mini-International Neuropsychiatric Interview: AY3e -  Difficulty concentrating?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_ay3f": {
+    "LongName": "M.I.N.I: Question AY3f",
+    "Description": "Mini-International Neuropsychiatric Interview: AY3f -  Hopeless?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_ay4": {
+    "LongName": "M.I.N.I: Question AY4",
+    "Description": "Mini-International Neuropsychiatric Interview: AY4 -  Symptoms of depression caused functional impairment?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_ay5": {
+    "LongName": "M.I.N.I: Question AY5 - Age continious depression started",
+    "Description": "Mini-International Neuropsychiatric Interview: AY5 -  Age continious depression started?",
+    "Units": "Years"
+  },
+  "mini_ay_diagnosis_dysthymia": {
+    "LongName": "M.I.N.I: AY4 DIAGNOSIS PERSISTENT DEPRESSIVE DISORDER (dysthymia)",
+    "Description": "Mini-International Neuropsychiatric Interview: AY4 - Fulfils diagnostic criteria for persistent depressive disorder (dysthymia)?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  }
+}

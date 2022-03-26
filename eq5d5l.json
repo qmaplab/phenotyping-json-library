@@ -1,0 +1,55 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "EuroQol 5-Dimension 53-Level (EQ-5D-3L) Quality of Life Measure",
+    "TermURL": "https://euroqol.org/eq-5d-instruments/eq-5d-3l-about/"
+  },
+  "eq5d3l_mobility": {
+    "LongName": "EQ-5D-3L: Mobility",
+    "Description": "By placing a tick in one box in each group below, please indicate which statements best describe your own health state today",
+    "Levels": {
+      "1": "I have no problems in walking about",
+      "2": "I have some problems in walking about",
+      "3": "I am confined to bed"
+    }
+  },
+  "eq5d3l_selfcare": {
+    "LongName": "EQ-5D-3L: Self Care",
+    "Description": "By placing a tick in one box in each group below, please indicate which statements best describe your own health state today",
+    "Levels": {
+      "1": "I have no problems with self-care",
+      "2": "I have some problems with washing or dressing myself",
+      "3": "I am unable to wash or dress myself"
+    }
+  },
+  "eq5d3l_activities": {
+    "LongName": "EQ-5D-3L: Usual Activities",
+    "Description": "By placing a tick in one box in each group below, please indicate which statements best describe your own health state today",
+    "Levels": {
+      "1": "I have no problems with performing my usual activities",
+      "2": "I have some problems with performing my usual activities",
+      "3": "I am unable to perform my usual activities"
+    }
+  },
+  "eq5d3l_pain": {
+    "LongName": "EQ-5D-3L: Pain / Discomfort",
+    "Description": "By placing a tick in one box in each group below, please indicate which statements best describe your own health state today",
+    "Levels": {
+      "1": "I have no pain or discomfort",
+      "2": "I have moderate pain or discomfort",
+      "3": "I have extreme pain or discomfort"
+    }
+  },
+  "eq5d3l_anxiety": {
+    "LongName": "EQ-5D-3L: Anxiety / Depression",
+    "Description": "By placing a tick in one box in each group below, please indicate which statements best describe your own health state today",
+    "Levels": {
+      "1": "I am not anxious or depressed",
+      "2": "I am moderately anxious or depressed",
+      "3": "I am extremely anxious or depressed"
+    }
+  },
+  "eq5d3l_vas_total": {
+    "LongName": "EQ-5D-3L Visual Analogue Scale",
+    "Description": "100 = Best health state you can imagine, 0 worst health state you can imagine"
+  }
+}

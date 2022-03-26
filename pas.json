@@ -1,0 +1,154 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Parkinsons Anxiety Scale",
+    "TermURL": "https://pubmed.ncbi.nlm.nih.gov/24862344/"
+  },
+  "pas_01": {
+    "LongName": "PAS A.1",
+    "Description": "In the past four weeks, to what extent did you experience: Feeling anxious or nervous?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Mild",
+      "3": "Moderate",
+      "4": "Severe"
+    }
+  },
+  "pas_02": {
+    "LongName": "PAS A.2",
+    "Description": "In the past four weeks, to what extent did you experience: Feeling tense or stressed?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Mild",
+      "3": "Moderate",
+      "4": "Severe"
+    }
+  },
+  "pas_03": {
+    "LongName": "PAS A.3",
+    "Description": "In the past four weeks, to what extent did you experience: Being unable to relax?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Mild",
+      "3": "Moderate",
+      "4": "Severe"
+    }
+  },
+  "pas_04": {
+    "LongName": "PAS A.4",
+    "Description": "In the past four weeks, to what extent did you experience: Excessive worrying about everyday matters?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Mild",
+      "3": "Moderate",
+      "4": "Severe"
+    }
+  },
+  "pas_05": {
+    "LongName": "PAS A.5",
+    "Description": "In the past four weeks, to what extent did you experience: Fear of something bad, or even the worst, happening?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Mild",
+      "3": "Moderate",
+      "4": "Severe"
+    }
+  },
+  "pas_06": {
+    "LongName": "PAS B.1",
+    "Description": "In the past four weeks, to what extent did you experience: Panic or intense fear?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Nearly always"
+    }
+  },
+  "pas_07": {
+    "LongName": "PAS B.2",
+    "Description": "In the past four weeks, to what extent did you experience: Shortness of breath?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Nearly always"
+    }
+  },
+  "pas_08": {
+    "LongName": "PAS B.3",
+    "Description": "In the past four weeks, to what extent did you experience: Heart palpitations or heart beating fast (not related to physical effort or activity)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Nearly always"
+    }
+  },
+  "pas_09": {
+    "LongName": "PAS B.4",
+    "Description": "In the past four weeks, to what extent did you experience: Fear of losing control?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Nearly always"
+    }
+  },
+  "pas_10": {
+    "LongName": "PAS C.1",
+    "Description": "In the past four weeks, to what extent did you fear or avoid: Social situations (where one may be observed, or evaluated by others, such as speaking in public, or talking to unknown people)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Nearly always"
+    }
+  },
+  "pas_11": {
+    "LongName": "PAS C.2",
+    "Description": "In the past four weeks, to what extent did you fear or avoid: Public settings (situations from which it may be difficult or embarrassing to escape, such as queues or lines, crowds, bridges, or public transportation)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Nearly always"
+    }
+  },
+  "pas_12": {
+    "LongName": "PAS C.3",
+    "Description": "In the past four weeks, to what extent did you fear or avoid: Specific objects or situations (such as flying, heights, spiders or other animals, needles, or blood)?",
+    "Levels": {
+      "0": "Never",
+      "1": "Rarely",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Nearly always"
+    }
+  },
+  "pas_score_persistent": {
+    "LongName": "PAS: Persistent anxiety score",
+    "Description": "Total score A1-5"
+  },
+  "pas_score_episodic": {
+    "LongName": "PAS: Episodic anxiety score",
+    "Description": "Total score B1-4"
+  },
+  "pas_score_avoidance": {
+    "LongName": "PAS: Avoidance anxiety score",
+    "Description": "Total score C1-3"
+  },
+  "pas_score_total": {
+    "LongName": "PAS: Total Score",
+    "Description": "PAS: Summative score"
+  }
+}

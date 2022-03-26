@@ -1,0 +1,149 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Starkstein Apathy Scale",
+    "TermURL": "https://eprovide.mapi-trust.org/instruments/starkstein-apathy-scale"
+  },
+  "apathy_01": {
+    "LongName": "Apathy Q01",
+    "Description": "Are you interested in learning new things?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_02": {
+    "LongName": "Apathy Q02",
+    "Description": "Does anything interest you?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_03": {
+    "LongName": "Apathy Q03",
+    "Description": "Are you concerned about your condition?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_04": {
+    "LongName": "Apathy Q04",
+    "Description": "Do you put much effort into things?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_05": {
+    "LongName": "Apathy Q05",
+    "Description": "Are you always looking for something to do?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_06": {
+    "LongName": "Apathy Q06",
+    "Description": "Do you have plans and goals for the future?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_07": {
+    "LongName": "Apathy Q07",
+    "Description": "Do you have motivation?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_08": {
+    "LongName": "Apathy Q08",
+    "Description": "Do you have the energy for daily activities?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_09": {
+    "LongName": "Apathy Q09",
+    "Description": "Does someone have to tell you what to do each day?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_10": {
+    "LongName": "Apathy Q10",
+    "Description": "Are you indifferent to things?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_11": {
+    "LongName": "Apathy Q11",
+    "Description": "Are you unconcerned with many things?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_12": {
+    "LongName": "Apathy Q12",
+    "Description": "Do you need a push to get started on things?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_13": {
+    "LongName": "Apathy Q13",
+    "Description": "Are you neither happy nor sad, just inbetween?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_14": {
+    "LongName": "Apathy Q14",
+    "Description": "Would you consider yourself apathetic?",
+    "Levels": {
+      "0": "Not at all",
+      "1": "Slightly",
+      "2": "Some",
+      "3": "Alot"
+    }
+  },
+  "apathy_score_total": {
+    "LongName": "Starkstein Apathy Scale: Total Score"
+  }
+}

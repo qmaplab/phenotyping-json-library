@@ -1,0 +1,90 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Epworth Sleepiness Scale",
+    "TermURL": "http://epworthsleepinessscale.com"
+  },
+  "epworth_01": {
+    "LongName": "Epworth Q01",
+    "Description": "How likely are you to doze off and fall asleep, Sitting and reading",
+    "Levels": {
+      "0": "Never",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "High"
+    }
+  },
+  "epworth_02": {
+    "LongName": "Epworth Q02",
+    "Description": "How likely are you to doze off and fall asleep, Watching TV",
+    "Levels": {
+      "0": "Never",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "High"
+    }
+  },
+  "epworth_03": {
+    "LongName": "Epworth Q03",
+    "Description": "How likely are you to doze off and fall asleep, Sitting, inactive in a public place (e.g. a theatre or a meeting)",
+    "Levels": {
+      "0": "Never",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "High"
+    }
+  },
+  "epworth_04": {
+    "LongName": "Epworth Q04",
+    "Description": "How likely are you to doze off and fall asleep, As a passenger in a car for an hour without a break",
+    "Levels": {
+      "0": "Never",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "High"
+    }
+  },
+  "epworth_05": {
+    "LongName": "Epworth Q05",
+    "Description": "How likely are you to doze off and fall asleep, Lying down to rest in the afternoon when circumstances permit",
+    "Levels": {
+      "0": "Never",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "High"
+    }
+  },
+  "epworth_06": {
+    "LongName": "Epworth Q06",
+    "Description": "How likely are you to doze off and fall asleep, Sitting and talking to someone",
+    "Levels": {
+      "0": "Never",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "High"
+    }
+  },
+  "epworth_07": {
+    "LongName": "Epworth Q07",
+    "Description": "How likely are you to doze off and fall asleep, Sitting quietly after a lunch without alcohol",
+    "Levels": {
+      "0": "Never",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "High"
+    }
+  },
+  "epworth_08": {
+    "LongName": "Epworth Q08",
+    "Description": "How likely are you to doze off and fall asleep, In a car, while stopped for a few minutes in the traffic",
+    "Levels": {
+      "0": "Never",
+      "1": "Slight",
+      "2": "Moderate",
+      "3": "High"
+    }
+  },
+  "epworth_score_total": {
+    "LongName": "Epworth Score Total",
+    "Description": "Epworth Sleepiness Scale Total"
+  }
+}

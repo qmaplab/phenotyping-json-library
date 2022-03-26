@@ -1,0 +1,142 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Levodopa equivalent daily dose (LEDD)",
+    "TermURL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mds.23429"
+  },
+  "pdmed_other_aman": {
+    "LongName": "Amantadine dose",
+    "Description": "Total daily dose of Amantadine (Other) in milligrams"
+  },
+  "pdmed_nedag_apo": {
+    "LongName": "Apomorphine dose (mg)",
+    "Description": "Total daily dose of Ampomorphine (Non-Ergot Derived Dopamine Agonist) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_edag_bromo": {
+    "LongName": "Bromocriptine dose",
+    "Description": "Total daily dose of Bromocriptine (Ergot Derived Dopamine Agonist) in milligrams"
+  },
+  "pdmed_edag_caberg": {
+    "LongName": "Cabergoline dose",
+    "Description": "Total daily dose of Cabergoline (Ergot Derived Dopamine Agonist) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_edag_dhec": {
+    "LongName": "Dihydroergocryptine dose",
+    "Description": "Total daily dose of Dihydroergocryptine (Ergot Derived Dopamine Agonist) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_comt_entac": {
+    "LongName": "Entacapone dose",
+    "Description": "Total daily dose of Entacapone (COMT inhibitor) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_ldopa": {
+    "LongName": "Levodopa dose",
+    "Description": "Total daily dose of Levodopa (Sinement, madapar) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_ldopa_cr": {
+    "LongName": "Levodopa conrolled release dose",
+    "Description": "Total daily dose of Controlled Release Levodopa in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_ldopa_duo": {
+    "LongName": "Duodopa dose",
+    "Description": "Total daily dose of Levodopa infusion (Duodopa) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_edag_lisur": {
+    "LongName": "Lisuride dose",
+    "Description": "Total daily dose of Lisuride (Ergot Derived Dopamine Agonist) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_edag_pergo": {
+    "LongName": "Pergolide dose",
+    "Description": "Total daily dose of Pergolide (Ergot Derived Dopamine Agonist) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_nedag_perib": {
+    "LongName": "Piribedil dose",
+    "Description": "Total daily dose of Piribedil (Non-Ergot Derived Dopamine Agonist) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_nedag_pram": {
+    "LongName": "Pramipexole dose",
+    "Description": "Total daily dose of Pramipexole (Non-Ergot Derived Dopamine Agonist) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_comt_opi": {
+    "LongName": "Opicapone dose",
+    "Description": "Total daily dose of Opicapone (COMT inhibitor) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_maob_resag": {
+    "LongName": "Resagaline dose",
+    "Description": "Total daily dose of Resagaline (MAO-B inhibitor) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_nedag_ropin": {
+    "LongName": "Ropinerole dose",
+    "Description": "Total daily dose of Ropinerole (Non-Ergot Derived Dopamine Agonist) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_nedag_rotig": {
+    "LongName": "Rotigatine dose",
+    "Description": "Total daily dose of Rotigatine (Non-Ergot Derived Dopamine Agonist) in milligrams"
+  },
+  "pdmed_maob_sel_po": {
+    "LongName": "Oral Selegiline dose",
+    "Description": "Total daily dose of Oral Selegiline (MAOB Inhibitor) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_maob_sel_sl": {
+    "LongName": "Sublingual Selegiline dose",
+    "Description": "Total daily dose of Sublingual Selegiline (MAOB Inhibitor) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_comt_tol": {
+    "LongName": "Tolcapone dose",
+    "Description": "Total daily dose of Tolcapone (COMT Inhibitor) in milligrams",
+    "Units": "milligrams"
+  },
+  "pdmed_ld_total": {
+    "LongName": "TOTAL LEVODOPA DOSE (LD)",
+    "Description": "sum([pdmed_ldopa],(0.75*[pdmed_ldopa_cr]),(1.11*[pdmed_ldopa_duo])",
+    "Units": "milligrams"
+  },
+  "pdmed_nedag_total": {
+    "LongName": "NON-ERGOT DERIVED DOPAMINE AGONIST LD",
+    "Description": "sum([pdmed_nedag_perib],(20*[pdmed_nedag_ropin]),(100*[pdmed_nedag_pram]),(30*[pdmed_nedag_rotig],(10*[pdmed_other_apo]))",
+    "Units": "milligrams"
+  },
+  "pdmed_edag_total": {
+    "LongName": "ERGOT DERIVED DOPAMINE AGONIST LD",
+    "Description": "sum((10*[pdmed_edag_bromo]),(66.67*[pdmed_edag_caberg]),(5*[pdmed_edag_dhec]),(100*[pdmed_edag_lisur]))",
+    "Units": "milligrams"
+  },
+  "pdmed_maob_total": {
+    "LongName": "MAOB INHIBITOR LD",
+    "Description": "sum((100*[pdmed_maob_rasag])+(10*[pdmed_maob_sel_po])+(80*[pdmed_maob_sel_sl])",
+    "Units": "milligrams"
+  },
+  "pdmed_other_total": {
+    "LongName": "OTHER LD",
+    "Description": "[pdmed_other_aman]",
+    "Units": "milligrams"
+  },
+  "pdmed_comt_total": {
+    "LongName": "COMT INHIBITOR TOTAL DOSE",
+    "Description": "sum([pdmed_comt_ent],[pdmed_comt_tol],[pdmed_comt_opi])",
+    "Units": "milligrams"
+  },
+  "pdmed_comt_multiplier": {
+    "LongName": "COMT LEVODOPA MULTIPLIER",
+    "Description": "No COMT = 1, otherwise use the following multiplier on total levodopa dose: [pdmed_comt_ent]=1.33,[pdmed_comt_tol]=1.5,[pdmed_comt_opi]=1.5",
+    "Units": "milligrams"
+  },
+  "pdmed_ledd_total": {
+    "LongName": "TOTAL LEVODOPA EQUIVALENT DAILY DOSE (LEDD)",
+    "Description": "sum([pdmed_ld_total]*[pdmed_comt_multiplier]),[pdmed_nedag_ld_total],[pdmed_edag_ld_total],[pdmed_maob_ld_total],[pdmed_other_ld_total]"
+  }
+}

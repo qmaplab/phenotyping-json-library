@@ -1,0 +1,358 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "MRC Muscle Scale",
+    "TermURL": "https://mrc.ukri.org/research/facilities-and-resources-for-researchers/mrc-scales/mrc-muscle-scale/"
+  },
+  "mrc_ul_sab_right": {
+    "LongName": "Right Upper Limb: Shoulder Abduction",
+    "Description": "Power grading of right shoulder abduction",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_sab_left": {
+    "LongName": "Left Upper Limb: Shoulder Abduction",
+    "Description": "Power grading of left shoulder abduction",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_ef_right": {
+    "LongName": "Right Upper Limb: Elbow flexion",
+    "Description": "Power grading of right elbow flexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_ef_left": {
+    "LongName": "Left Upper Limb: Elbow flexion",
+    "Description": "Power grading of left elbow flexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_ee_right": {
+    "LongName": "Right Upper Limb: Elbow extension",
+    "Description": "Power grading of right elbow extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_ee_left": {
+    "LongName": "Left Upper Limb: Elbow extension",
+    "Description": "Power grading of left elbow extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_we_right": {
+    "LongName": "Right Upper Limb: Wrist extension",
+    "Description": "Power grading of right wrist extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_we_left": {
+    "LongName": "Left Upper Limb: Wrist extension",
+    "Description": "Power grading of left wrist extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_fe_right": {
+    "LongName": "Right Upper Limb: Finger extension",
+    "Description": "Power grading of right finger extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_fe_left": {
+    "LongName": "Left Upper Limb: Finger extension",
+    "Description": "Power grading of left finger extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_doi1_right": {
+    "LongName": "Right Upper Limb: First dorsal interosseoi",
+    "Description": "Power grading of right first dorsal interosseoi",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_doi1_left": {
+    "LongName": "Left Upper Limb: First dorsal interosseoi",
+    "Description": "Power grading of left first dorsal interosseoi",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_apb_right": {
+    "LongName": "Right Upper Limb: Abductor pollicis brevis",
+    "Description": "Power grading of right abductor pollicis brevis",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_apb_left": {
+    "LongName": "Left Upper Limb: Abductor pollicis brevis",
+    "Description": "Power grading of left abductor pollicis brevis",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_adm_right": {
+    "LongName": "Right Upper Limb: Abductor digiti minimi",
+    "Description": "Power grading of right abductor digiti minimi",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ul_adm_left": {
+    "LongName": "Left Upper Limb: Abductor digiti minimi",
+    "Description": "Power grading of left abductor digiti minimi",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_hf_right": {
+    "LongName": "Right Lower Limb: Hip flexion",
+    "Description": "Power grading of right hip flexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_hf_left": {
+    "LongName": "Left Lower Limb: Hip flexion",
+    "Description": "Power grading of left hip flexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_he_right": {
+    "LongName": "Right Lower Limb: Hip extension",
+    "Description": "Power grading of right hip extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_he_left": {
+    "LongName": "Left Lower Limb: Hip extension",
+    "Description": "Power grading of left hip extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_kf_right": {
+    "LongName": "Right Lower Limb: Knee flexion",
+    "Description": "Power grading of right knee flexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_kf_left": {
+    "LongName": "Left Lower Limb: Knee flexion",
+    "Description": "Power grading of left knee flexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_ke_right": {
+    "LongName": "Right Lower Limb: Knee extension",
+    "Description": "Power grading of right knee extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_ke_left": {
+    "LongName": "Left Lower Limb: Knee extension",
+    "Description": "Power grading of left knee extension",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_apf_right": {
+    "LongName": "Right Lower Limb: Ankle plantarflexion",
+    "Description": "Power grading of right ankle plantarflexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_apf_left": {
+    "LongName": "Left Lower Limb: Ankle plantarflexion",
+    "Description": "Power grading of left ankle plantarflexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_adf_right": {
+    "LongName": "Right Lower Limb: Ankle dorsiflexion",
+    "Description": "Power grading of right ankle dorsiflexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_adf_left": {
+    "LongName": "Left Lower Limb: Ankle dorsiflexion",
+    "Description": "Power grading of left ankle dorsiflexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_tpf_right": {
+    "LongName": "Right Lower Limb: Great toe plantarflexion",
+    "Description": "Power grading of right great toe plantarflexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_tpf_left": {
+    "LongName": "Left Lower Limb: Great toe plantarflexion",
+    "Description": "Power grading of left great toe plantarflexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_tdf_right": {
+    "LongName": "Right Lower Limb: Great toe dorsiflexion",
+    "Description": "Power grading of right great toe dorsiflexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  },
+  "mrc_ll_tdf_left": {
+    "LongName": "Left Lower Limb: Great toe dorsiflexion",
+    "Description": "Power grading of left great toe dorsiflexion",
+    "Levels": {
+      "00": "No contraction",
+      "01": "Flicker or trace of contraction",
+      "02": "Active movement",
+      "03": "Active movement against gravity",
+      "05": "Normal"
+    }
+  }
+}

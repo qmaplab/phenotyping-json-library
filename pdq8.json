@@ -1,0 +1,98 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Parkinson`s Disease Questionnaire-8",
+    "TermURL": "https://www.tandfonline.com/doi/abs/10.1080/08870449708406741"
+  },
+  "pdq8_01": {
+    "LongName": "PDQ8 Q01: Had difficulty getting around in public?",
+    "Description": "Due to having Parkinson?s disease, how often during the last month have you experienced this problem",
+    "Levels": {
+      "0": "Never",
+      "1": "Occasionally",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Always, or cannot do at all"
+    }
+  },
+  "pdq8_02": {
+    "LongName": "PDQ8 Q02: Had difficulty dressing yourself?",
+    "Description": "Due to having Parkinson?s disease, how often during the last month have you experienced this problem",
+    "Levels": {
+      "0": "Never",
+      "1": "Occasionally",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Always, or cannot do at all"
+    }
+  },
+  "pdq8_03": {
+    "LongName": "PDQ8 Q03: Felt depressed?",
+    "Description": "Due to having Parkinson?s disease, how often during the last month have you experienced this problem",
+    "Levels": {
+      "0": "Never",
+      "1": "Occasionally",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Always, or cannot do at all"
+    }
+  },
+  "pdq8_04": {
+    "LongName": "PDQ8 Q04: Had problems with your close personal relationships?",
+    "Description": "Due to having Parkinson?s disease, how often during the last month have you experienced this problem",
+    "Levels": {
+      "0": "Never",
+      "1": "Occasionally",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Always, or cannot do at all"
+    }
+  },
+  "pdq8_05": {
+    "LongName": "PDQ8 Q05: Had problems with your concentration, e.g. when reading or watching TV?",
+    "Description": "Due to having Parkinson?s disease, how often during the last month have you experienced this problem",
+    "Levels": {
+      "0": "Never",
+      "1": "Occasionally",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Always, or cannot do at all"
+    }
+  },
+  "pdq8_06": {
+    "LongName": "PDQ8 Q06: Felt unable to communicate with people properly?",
+    "Description": "Due to having Parkinson?s disease, how often during the last month have you experienced this problem",
+    "Levels": {
+      "0": "Never",
+      "1": "Occasionally",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Always, or cannot do at all"
+    }
+  },
+  "pdq8_07": {
+    "LongName": "PDQ8 Q07: Had painful muscle cramps or spasms?",
+    "Description": "Due to having Parkinson?s disease, how often during the last month have you experienced this problem",
+    "Levels": {
+      "0": "Never",
+      "1": "Occasionally",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Always, or cannot do at all"
+    }
+  },
+  "pdq8_08": {
+    "LongName": "PDQ8 Q08: Felt embarrassed in public due to having Parkinson?s disease?",
+    "Description": "Due to having Parkinson?s disease, how often during the last month have you experienced this problem",
+    "Levels": {
+      "0": "Never",
+      "1": "Occasionally",
+      "2": "Sometimes",
+      "3": "Often",
+      "4": "Always, or cannot do at all"
+    }
+  },
+  "pdq8_score_total": {
+    "LongName": "PDQ8: Total Score",
+    "Description": "PDQ8 Total score (sum pdq_01:pdq_08)"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Geriatric Depression Scale (GDS)",
+    "TermURL": "https://pubmed.ncbi.nlm.nih.gov/7183759/"
+  },
+  "gds_01": {
+    "LongName": "GDS Q01",
+    "Description": "Are you basically satisfied with your life?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_02": {
+    "LongName": "GDS Q02",
+    "Description": "Have you dropped many of your activities and interests?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_03": {
+    "LongName": "GDS Q03",
+    "Description": "Do you feel that your life is empty?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_04": {
+    "LongName": "GDS Q04",
+    "Description": "Do you often get bored?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_05": {
+    "LongName": "GDS Q05",
+    "Description": "Are you in good spirits most of the time?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_06": {
+    "LongName": "GDS Q06",
+    "Description": "Are you afraid that something bad is going to happen to you?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_07": {
+    "LongName": "GDS Q07",
+    "Description": "Do you feel happy most of the time?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_08": {
+    "LongName": "GDS Q08",
+    "Description": "Do you often feel helpless?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_09": {
+    "LongName": "GDS Q09",
+    "Description": "Do you prefer to stay at home, rather than going out and doing new things?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_10": {
+    "LongName": "GDS Q10",
+    "Description": "Do you feel you have more problems with memory than most?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_11": {
+    "LongName": "GDS Q11",
+    "Description": "Do you think it is wonderful to be alive now?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_12": {
+    "LongName": "GDS Q12",
+    "Description": "Do you feel pretty worthless the way you are now?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_13": {
+    "LongName": "GDS Q13",
+    "Description": "Do you feel full of energy?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_14": {
+    "LongName": "GDS Q14",
+    "Description": "Do you feel that your situation is hopeless?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_15": {
+    "LongName": "GDS Q15",
+    "Description": "Do you think that most people are better off than you are?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "gds_score_total": {
+    "LongName": "GDS: Total Score",
+    "Description": "Summative score (scores 1): Q1(N)+Q2(Y)+Q3(Y)+Q4(Y)+Q5(N)+Q6(Y)+Q7(N)+Q8(N)+Q9(Y)+Q10(Y)+Q11(N)+Q12(Y)+Q13(N)+Q14(Y)+Q15(Y)"
+  }
+}

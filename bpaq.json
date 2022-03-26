@@ -1,0 +1,316 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Buss Perry Aggression Questionniare (BPAQ)",
+    "TermURL": "https://en.wikipedia.org/wiki/Buss-Perry_Aggression_Questionniare"
+  },
+  "aggression_01": {
+    "LongName": "Q01: Some of my friends think I am a hothead",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_02": {
+    "LongName": "Q02: If I have to resort to violence to protect my rights, I will.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_03": {
+    "LongName": "Q03: When people are especially nice to me, I wonder what they want.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_04": {
+    "LongName": "Q04: I tell my friends openly when I disagree with them.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_05": {
+    "LongName": "Q05: I have become so mad that I have broken things.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_06": {
+    "LongName": "Q06: I cant help getting into arguments when people disagree with me.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_07": {
+    "LongName": "Q07: I wonder why sometimes I feel so bitter about things.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_08": {
+    "LongName": "Q08: Once in a while, I cant control the urge to strike another person.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_09": {
+    "LongName": "Q09: I am an even-tempered person.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_10": {
+    "LongName": "Q10: I am suspicious of overly friendly strangers.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_11": {
+    "LongName": "Q11: I have threatened people I know.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_12": {
+    "LongName": "Q12: I flare up quickly but get over it quickly.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_13": {
+    "LongName": "Q13: Given enough provocation, I may hit another person.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_14": {
+    "LongName": "Q14: When people annoy me, I may tell them what I think of them.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_15": {
+    "LongName": "Q15: I am sometimes eaten up with jealousy.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_16": {
+    "LongName": "Q16: I can think of no good reason for ever hitting a person.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_17": {
+    "LongName": "Q17: At times I feel I have gotten a raw deal out of life.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_18": {
+    "LongName": "Q18: I have trouble controlling my temper.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_19": {
+    "LongName": "Q19: When frustrated, I let my irritation show.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_20": {
+    "LongName": "Q20: I sometimes feel that people are laughing at me behind my back.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_21": {
+    "LongName": "Q21: I often find myself disagreeing with people.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_22": {
+    "LongName": "Q22: If somebody hits me, I hit back.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_23": {
+    "LongName": "Q23: I sometimes feel like a powder keg ready to explode.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_24": {
+    "LongName": "Q24: Other people always seem to get the breaks.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_25": {
+    "LongName": "Q25: There are people who pushed me so far that we came to blows.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_26": {
+    "LongName": "Q26: I know that friends talk about me behind my back.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_27": {
+    "LongName": "Q27: My friends say that I am somewhat argumentative.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_28": {
+    "LongName": "Q28: Sometimes I fly off the handle for no good reason.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_29": {
+    "LongName": "Q29: I get into fights a little more than the average person.",
+    "Description": "How well do you feel the statements below describe you?",
+    "Levels": {
+      "1": "Disagree strongly",
+      "2": "Disagree a little",
+      "4": "Agree a little",
+      "5": "Agree strongly"
+    }
+  },
+  "aggression_anger_total": {
+    "LongName": "Aggression: Anger total",
+    "Description": "Buss-Perry Aggression Questionnaire - Anger: sum(Q1,Q9,Q12,Q18,Q19,Q23,Q28)"
+  },
+  "aggression_physical_total": {
+    "LongName": "Aggression: Physical aggression total",
+    "Description": "Buss-Perry Aggression Questionnaire - Physical aggression: sum(Q2,Q5,Q8,Q11,Q13,Q16,Q22,Q25,Q29)"
+  },
+  "aggression_hostility_total": {
+    "LongName": "Aggression: Hostility total",
+    "Description": "Buss-Perry Aggression Questionnaire - Hostility: sum(Q3,Q7,Q10,Q15,Q17,Q20,Q24,Q26)"
+  },
+  "aggression_verbal_total": {
+    "LongName": "Aggression: Verbal aggression total",
+    "Description": "Buss-Perry Aggression Questionnaire - Verbal aggression: sum(Q4,Q6,Q14,Q21,Q27)"
+  },
+  "aggression_score_total": {
+    "LongName": "Aggression: Total score",
+    "Description": "Buss-Perry Aggression Questionnaire - Total"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Mini-International Neuropsychiatric Interview - Part O: Other conditions",
+    "TermURL": "https://eprovide.mapi-trust.org/instruments/mini-international-neuropsychiatric-interview"
+  },
+  "mini_o_diagnosis": {
+    "LongName": "M.I.N.I: Section O",
+    "Description": "Mini-International Neuropsychiatric Interview: O - Any MINI section diagnostic?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_o1a": {
+    "LongName": "M.I.N.I: Question O1a",
+    "Description": "Mini-International Neuropsychiatric Interview:  O1a - Were you taking drugs/medications or withdrawing from any of these?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_o1b": {
+    "LongName": "M.I.N.I: Question O1b",
+    "Description": "Mini-International Neuropsychiatric Interview:  O1b - Medical illness?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_o2": {
+    "LongName": "M.I.N.I: Question O2",
+    "Description": "Mini-International Neuropsychiatric Interview:  O2 - In physicians opinion, does illness account for anxiety?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  },
+  "mini_o2summary": {
+    "LongName": "M.I.N.I: Question O2 - Summary",
+    "Description": "Mini-International Neuropsychiatric Interview:  O2 - Has an alternate cause been ruled out?",
+    "Levels": {
+      "01": "Yes",
+      "02": "No"
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Scales for Outcomes in Parkinsons Disease - Autonomic Dysfunction",
+    "TermURL": "https://www.movementdisorders.org/MDS/MDS-Rating-Scales/Scales-for-Outcomes-in-Parkinsons-disease---Autonomic-Dysfunction.htm"
+  },
+  "scopa_01": {
+    "LongName": "SCOPA-AUT Q01: Dysphagia",
+    "Description": "In the past month, have you had difficulty swallowing or have you choked?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_02": {
+    "LongName": "SCOPA-AUT Q02: Siallorhoea",
+    "Description": "In the past month, has saliva dribbled out of your mouth?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_03": {
+    "LongName": "SCOPA-AUT Q03: Swallow",
+    "Description": "In the past month, has food ever become stuck in your throat?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_04": {
+    "LongName": "SCOPA-AUT Q04: Gastric fullness",
+    "Description": "In the past month, did you ever have the feeling during a meal that you were full very quickly?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_05": {
+    "LongName": "SCOPA-AUT Q05: Constipation",
+    "Description": "In the past month, have you had problems with constipation?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_06": {
+    "LongName": "SCOPA-AUT Q06: Straining",
+    "Description": "In the past month, did you have to strain hard to pass stools?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_07": {
+    "LongName": "SCOPA-AUT Q07: Urine retention",
+    "Description": "In the past month, have you had difficulty retaining urine?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_14": {
+    "LongName": "SCOPA-AUT Q14: Orthstatic hypotension",
+    "Description": "In the past month, when standing up have you had the feeling of either becoming lightheaded, or no longer being able to see properly, or no longer being able to think clearly?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often",
+      "4": "NA"
+    }
+  },
+  "scopa_15": {
+    "LongName": "SCOPA-AUT Q15: Prolonged standing hypotension",
+    "Description": "In the past month, did you become light-headed after standing for some time?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_16": {
+    "LongName": "SCOPA-AUT Q16: Fainting",
+    "Description": "Have you fainted in the past 6 months?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_17": {
+    "LongName": "SCOPA-AUT Q17: Daytime sweating",
+    "Description": "In the past month, have you ever perspired excessively during the day?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_18": {
+    "LongName": "SCOPA-AUT Q18: Nighttime sweating",
+    "Description": "In the past month, have you ever perspired excessively during the night?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_19": {
+    "LongName": "SCOPA-AUT Q19: Photosensitivity",
+    "Description": "In the past month, have your eyes ever been over-sensitive to bright light?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_20": {
+    "LongName": "SCOPA-AUT Q20: Cold sensitivity",
+    "Description": "In the past month, how often have you had trouble tolerating cold?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_21": {
+    "LongName": "SCOPA-AUT Q21: Heat sensitivity",
+    "Description": "In the past month, how often have you had trouble tolerating heat?",
+    "Levels": {
+      "0": "Never",
+      "1": "Sometimes",
+      "2": "Regular",
+      "3": "Often"
+    }
+  },
+  "scopa_26a": {
+    "LongName": "SCOPA-AUT Q26a: Constipation medication",
+    "Description": "In the past month, have you used medication for constipation?",
+    "Levels": {
+      "1": "No",
+      "2": "Regular",
+      "3": "Often",
+      "4": "NA"
+    }
+  },
+  "scopa_26b": {
+    "LongName": "SCOPA-AUT Q26b: Medication for urinary problems",
+    "Description": "In the past month, have you used medication for urinary problems?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "scopa_26c": {
+    "LongName": "SCOPA-AUT Q26a: Blood pressure medication",
+    "Description": "In the past month, have you used medication for blood-pressure?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "scopa_26d": {
+    "LongName": "SCOPA-AUT Q26d: Other medication",
+    "Description": "In the past month, have you used medication for other symptoms?",
+    "Levels": {
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "scopa_score_gi": {
+    "LongName": "SCOPA-AUT: GI domain score",
+    "Description": "SCOPA-AUT: Gastrointestinal functioning domain score (Q1-7)"
+  },
+  "scopa_score_urine": {
+    "LongName": "SCOPA-AUT: Urine domain score",
+    "Description": "SCOPA-AUT: Urinary functioning domain score (Q8-13)"
+  },
+  "scopa_score_cvs": {
+    "LongName": "SCOPA-AUT: CVS domain score",
+    "Description": "SCOPA-AUT: Cardiovascular functioning domain score (Q14-16)"
+  },
+  "scopa_score_pupillomotor": {
+    "LongName": "SCOPA-AUT: Pupillomotor domain score",
+    "Description": "SCOPA-AUT: Pupillomotor functioning domain score (Q19)"
+  },
+  "scopa_score_thermoregulatory": {
+    "LongName": "SCOPA-AUT: Thermoregulatory domain score",
+    "Description": "SCOPA-AUT: Thermoregulatory functioning domain score (Q17-18,Q20-21)"
+  },
+  "scopa_score_sexual": {
+    "LongName": "SCOPA-AUT: Sexual domain score",
+    "Description": "SCOPA-AUT: Sexual functioning domain score (Q22-25)"
+  },
+  "scopa_score_total": {
+    "LongName": "SCOPA-AUT: Total Score",
+    "Description": "SCOPA-AUT: Summative score"
+  }
+}

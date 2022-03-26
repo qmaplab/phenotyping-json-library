@@ -1,0 +1,413 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "The National Adult Reading Test (NART)",
+    "TermURL": "https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-79948-3_1467"
+  },
+  "nart_dyslexia": {
+    "LongName": "Dyslexia?",
+    "Levels": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "nart_list_01": {
+    "LongName": "NART Q01",
+    "Description": "CHORD",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_02": {
+    "LongName": "NART Q02",
+    "Description": "ACHE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_03": {
+    "LongName": "NART Q03",
+    "Description": "DEPOT",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_04": {
+    "LongName": "NART Q04",
+    "Description": "AISLE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_05": {
+    "LongName": "NART Q05",
+    "Description": "BOUQUET",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_06": {
+    "LongName": "NART Q06",
+    "Description": "PSALM",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_07": {
+    "LongName": "NART Q07",
+    "Description": "CAPON",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_08": {
+    "LongName": "NART Q08",
+    "Description": "DENY",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_09": {
+    "LongName": "NART Q09",
+    "Description": "NAUSEA",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_10": {
+    "LongName": "NART Q10",
+    "Description": "DEBT",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_11": {
+    "LongName": "NART Q11",
+    "Description": "COURTEOUS",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_12": {
+    "LongName": "NART Q12",
+    "Description": "RAREFY",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_13": {
+    "LongName": "NART Q13",
+    "Description": "EQUIVOCAL",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_14": {
+    "LongName": "NART Q14",
+    "Description": "NAIVE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_15": {
+    "LongName": "NART Q15",
+    "Description": "CATACOMB",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_16": {
+    "LongName": "NART Q16",
+    "Description": "GAOLED",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_17": {
+    "LongName": "NART Q17",
+    "Description": "THYME",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_18": {
+    "LongName": "NART Q18",
+    "Description": "HEIR",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_19": {
+    "LongName": "NART Q19",
+    "Description": "RADIX",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_20": {
+    "LongName": "NART Q20",
+    "Description": "ASSIGNATE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_21": {
+    "LongName": "NART Q21",
+    "Description": "HIATUS",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_22": {
+    "LongName": "NART Q22",
+    "Description": "SUBTLE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_23": {
+    "LongName": "NART Q23",
+    "Description": "PROCREATE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_24": {
+    "LongName": "NART Q24",
+    "Description": "GIST",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_25": {
+    "LongName": "NART Q25",
+    "Description": "GOUGE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_26": {
+    "LongName": "NART Q26",
+    "Description": "SUPERFLUOUS",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_27": {
+    "LongName": "NART Q27",
+    "Description": "SIMILE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_28": {
+    "LongName": "NART Q26",
+    "Description": "BANAL",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_29": {
+    "LongName": "NART Q29",
+    "Description": "QUADRUPLED",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_30": {
+    "LongName": "NART Q30",
+    "Description": "CELLIST",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_31": {
+    "LongName": "NART Q31",
+    "Description": "FACADE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_32": {
+    "LongName": "NART Q32",
+    "Description": "ZEALOT",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_33": {
+    "LongName": "NART Q33",
+    "Description": "DRACHM",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_34": {
+    "LongName": "NART Q34",
+    "Description": "AEON",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_35": {
+    "LongName": "NART Q35",
+    "Description": "PLACEBO",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_36": {
+    "LongName": "NART Q36",
+    "Description": "ABSTEMIOUS",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_37": {
+    "LongName": "NART Q37",
+    "Description": "DETENTE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_38": {
+    "LongName": "NART Q38",
+    "Description": "IDYLL",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_39": {
+    "LongName": "NART Q39",
+    "Description": "PUERPERAL",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_40": {
+    "LongName": "NART Q40",
+    "Description": "AVER",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_41": {
+    "LongName": "NART Q41",
+    "Description": "GAUCHE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_42": {
+    "LongName": "NART Q42",
+    "Description": "TOPIARY",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_43": {
+    "LongName": "NART Q43",
+    "Description": "LEVIATHAN",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_44": {
+    "LongName": "NART Q44",
+    "Description": "BEATIFY",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_45": {
+    "LongName": "NART Q45",
+    "Description": "PRELATE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_46": {
+    "LongName": "NART Q46",
+    "Description": "SIDEREAL",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_47": {
+    "LongName": "NART Q47",
+    "Description": "DEMESNE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_48": {
+    "LongName": "NART Q48",
+    "Description": "SYNCOPE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_49": {
+    "LongName": "NART Q49",
+    "Description": "LABILE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  },
+  "nart_list_50": {
+    "LongName": "NART Q50",
+    "Description": "CAMPANILE",
+    "Levels": {
+      "0": "Incorrect",
+      "1": "Correct"
+    }
+  }
+}

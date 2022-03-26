@@ -1,0 +1,372 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Modified Bradykinesia Rating Scale (MBRS)",
+    "TermURL": "https://www.movementdisorders.org/MDS/MDS-Rating-Scales/Modified-Bradykinesia-Rating-Scale-MBRS-.htm"
+  },
+  "mbrs_r_finger_speed": {
+    "LongName": "MBRS: Right finger speed",
+    "Description": "Modified bradykinesia rating scale: Right finger tapping speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_finger_amp": {
+    "LongName": "MBRS: Right finger amplitude",
+    "Description": "Modified bradykinesia rating scale: Right finger tapping amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_finger_rhythm": {
+    "LongName": "MBRS: Right finger rhythm",
+    "Description": "Modified bradykinesia rating scale: Right finger tapping rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_finger_speed": {
+    "LongName": "MBRS: Left finger speed",
+    "Description": "Modified bradykinesia rating scale: Left finger tapping speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_finger_amp": {
+    "LongName": "MBRS: Left finger amplitude",
+    "Description": "Modified bradykinesia rating scale: Left finger tapping amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_finger_rhythm": {
+    "LongName": "MBRS: Left finger rhythm",
+    "Description": "Modified bradykinesia rating scale: Left finger tapping rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_hand_speed": {
+    "LongName": "MBRS: Right hand speed",
+    "Description": "Modified bradykinesia rating scale: Right hand speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_hand_amp": {
+    "LongName": "MBRS: Right hand amplitude",
+    "Description": "Modified bradykinesia rating scale: Right hand amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_hand_rhythm": {
+    "LongName": "MBRS: Right hand rhythm",
+    "Description": "Modified bradykinesia rating scale: Right hand rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_hand_speed": {
+    "LongName": "MBRS: Left hand speed",
+    "Description": "Modified bradykinesia rating scale: Left hand speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_hand_amp": {
+    "LongName": "MBRS: Left hand amplitude",
+    "Description": "Modified bradykinesia rating scale: Left hand amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_hand_rhythm": {
+    "LongName": "MBRS: Left hand rhythm",
+    "Description": "Modified bradykinesia rating scale: Left hand rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_pronation_speed": {
+    "LongName": "MBRS: Right pronation speed",
+    "Description": "Modified bradykinesia rating scale: Right pronation speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_pronation_amp": {
+    "LongName": "MBRS: Right pronation amplitude",
+    "Description": "Modified bradykinesia rating scale: Right pronation amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_pronation_rhythm": {
+    "LongName": "MBRS: Right pronation rhythm",
+    "Description": "Modified bradykinesia rating scale: Right pronation rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_pronation_speed": {
+    "LongName": "MBRS: Left pronation speed",
+    "Description": "Modified bradykinesia rating scale: Left pronation speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_pronation_amp": {
+    "LongName": "MBRS: Left pronation amplitude",
+    "Description": "Modified bradykinesia rating scale: Left pronation amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_pronation_rhythm": {
+    "LongName": "MBRS: Left pronation rhythm",
+    "Description": "Modified bradykinesia rating scale: Left pronation rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_foot_speed": {
+    "LongName": "MBRS: Right foot speed",
+    "Description": "Modified bradykinesia rating scale: Right foot tapping speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_foot_amp": {
+    "LongName": "MBRS: Right foot amplitude",
+    "Description": "Modified bradykinesia rating scale: Right foot tapping amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_foot_rhythm": {
+    "LongName": "MBRS: Right foot rhythm",
+    "Description": "Modified bradykinesia rating scale: Right foot tapping rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_foot_speed": {
+    "LongName": "MBRS: Left foot speed",
+    "Description": "Modified bradykinesia rating scale: Left foot tapping speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_foot_amp": {
+    "LongName": "MBRS: Left foot amplitude",
+    "Description": "Modified bradykinesia rating scale: Left foot tapping amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_foot_rhythm": {
+    "LongName": "MBRS: Left foot rhythm",
+    "Description": "Modified bradykinesia rating scale: Left foot tapping rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_leg_speed": {
+    "LongName": "MBRS: Right leg speed",
+    "Description": "Modified bradykinesia rating scale: Right leg speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_leg_amp": {
+    "LongName": "MBRS: Right leg amplitude",
+    "Description": "Modified bradykinesia rating scale: Right leg amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_leg_rhythm": {
+    "LongName": "MBRS: Right leg rhythm",
+    "Description": "Modified bradykinesia rating scale: Right leg rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_leg_speed": {
+    "LongName": "MBRS: Left leg speed",
+    "Description": "Modified bradykinesia rating scale: Left leg speed",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild slowing",
+      "02": "Moderate slowing",
+      "03": "Severe slowing",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_leg_amp": {
+    "LongName": "MBRS: Left leg amplitude",
+    "Description": "Modified bradykinesia rating scale: Left leg amplitude",
+    "Levels": {
+      "00": "Normal",
+      "01": "Mild reduction in amplitude in later performance, most movements close to normal",
+      "02": "Moderate, reduction in amplitude visible early in performance but continues to maintain 50% amplitude through most of the tasks",
+      "03": "Severe, less than 50% amplitude through most of the task",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_l_leg_rhythm": {
+    "LongName": "MBRS: Left leg rhythm",
+    "Description": "Modified bradykinesia rating scale: Left leg rhythm",
+    "Levels": {
+      "00": "Regular, no arrests or pauses in ongoing movement",
+      "01": "Mild impairment, up to two brief arrests in the 10 seconds, none lasting > 1 second",
+      "02": "Moderate, 3 to 4 arrests in 10 seconds; OR 1or 2 lasting > 1second",
+      "03": "Severe, 5 or more arrests/10 seconds; OR more than 2 lasting > 1 second",
+      "04": "Can barely perform task"
+    }
+  },
+  "mbrs_r_speed": {
+    "LongName": "MBRS: Right speed total",
+    "Description": "Modified bradykinesia rating scale: Right speed total (sum of r_speed)"
+  },
+  "mbrs_l_speed": {
+    "LongName": "MBRS: Left speed total",
+    "Description": "Modified bradykinesia rating scale: Left speed total (sum of l_speed)"
+  },
+  "mbrs_r_amp": {
+    "LongName": "MBRS: Right amplitude total",
+    "Description": "Modified bradykinesia rating scale: Right amplitude total (sum of r_amp)"
+  },
+  "mbrs_l_amp": {
+    "LongName": "MBRS: Left amplitude total",
+    "Description": "Modified bradykinesia rating scale: Left amplitude total (sum of l_amp)"
+  },
+  "mbrs_r_rhythm": {
+    "LongName": "MBRS: Right rhythm total",
+    "Description": "Modified bradykinesia rating scale: Right rhythm total (sum of r_rhythm)"
+  },
+  "mbrs_l_rhythm": {
+    "LongName": "MBRS: Left rhythm total",
+    "Description": "Modified bradykinesia rating scale: Left rhythm total (sum of l_rhythm)"
+  },
+  "mbrs_r_global": {
+    "LongName": "MBRS: Right global total",
+    "Description": "Modified bradykinesia rating scale: Right global total (sum of r_speed + r_amp + r_rhythm)"
+  },
+  "mbrs_l_global": {
+    "LongName": "MBRS: Left global total",
+    "Description": "Modified bradykinesia rating scale: Left global total (sum of l_speed + l_amp + l_rhythm)"
+  },
+  "mbrs_total": {
+    "LongName": "MBRS: Total score",
+    "Description": "Modified bradykinesia rating scale: Total score (sum of r_global + l_global)"
+  }
+}

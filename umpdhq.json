@@ -1,0 +1,247 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "The University of Miami Parkinson?s disease Hallucinations Questionnaire (UM-PDHQ)",
+    "TermURL": "https://bmcneurol.biomedcentral.com/articles/10.1186/1471-2377-8-21"
+  },
+  "umpdhq_severity_01": {
+    "LongName": "UMPDHQ Q01: Do you experience hallucinations?",
+    "Description": "Do you experience hallucinations? (Have you noticed anything unusual about your vision? Have you had any unusual visual experiences? Or ever see/hear/feel/smell/taste things that are not really there or that other people do not see?)",
+    "Levels": {
+      "0": "No hallucinations",
+      "1": "One type only",
+      "2": "Combination"
+    }
+  },
+  "umpdhq_severity_01_types": {
+    "LongName": "UMPDHQ Q01 Types: (if yes) What types hallucinations?",
+    "Description": "Mark all that apply",
+    "Levels": {
+      "0": "No hallucinations",
+      "1": "Visual",
+      "2": "Auditory",
+      "3": "Somatic/Cutaneous",
+      "4": "Gustatory",
+      "5": "Olfactory"
+    }
+  },
+  "umpdhq_severity_01_dominant": {
+    "LongName": "UMPDHQ Q01 Dominant: (if yes) What is the main type hallucinations",
+    "Description": "What is the main type hallucinations (used for scoring the UMPDHQ - Other modalities can be annotated/scored in the notes). Mark one only",
+    "Levels": {
+      "0": "No hallucinations",
+      "1": "Visual",
+      "2": "Auditory",
+      "3": "Somatic/Cutaneous",
+      "4": "Gustatory",
+      "5": "Olfactory"
+    }
+  },
+  "umpdhq_severity_01_previous": {
+    "LongName": "UMPDHQ Q01 Previous: Not within the past month, but it has happened in the past",
+    "Description": "Previous hallucinations, not within the past month, but it has happened in the past",
+    "Levels": {
+      "1": "No hallucinations",
+      "2": "Yes"
+    }
+  },
+  "umpdhq_severity_02": {
+    "LongName": "UMPDHQ Q02: Frequency",
+    "Description": "How often do you experience hallucinations?",
+    "Levels": {
+      "0": "Only a few times",
+      "1": "Occasionally (less than once a week, but continuously)",
+      "2": "Often (about once per week)",
+      "3": "Frequently (several times per week but < than once per day)",
+      "4": "Very frequently (?once per day)"
+    }
+  },
+  "umpdhq_severity_03": {
+    "LongName": "UMPDHQ Q03: Duration",
+    "Description": "On average, how long do the experiences last?",
+    "Levels": {
+      "0": "Short Duration (< 1sec)",
+      "1": "Medium Duration (< 10secs)",
+      "2": "Prolonged Duration (> 10secs)"
+    }
+  },
+  "umpdhq_severity_04": {
+    "LongName": "UMPDHQ Q04: Insight",
+    "Description": "Do you think what you are seeing/experiencing is real?",
+    "Levels": {
+      "0": "Not real",
+      "1": "Sometimes real",
+      "2": "Always real"
+    }
+  },
+  "umpdhq_severity_05": {
+    "LongName": "UMPDHQ Q05: Types",
+    "Description": "How many types of images/sensations do you experience?",
+    "Levels": {
+      "1": "One",
+      "2": "Few (2 or 3)",
+      "3": "Several (more than 3)"
+    }
+  },
+  "umpdhq_severity_06": {
+    "LongName": "UMPDHQ Q06: Distress",
+    "Description": "How severe/emotionally distressing do you find these images/sensations or visions?",
+    "Levels": {
+      "0": "No effect/Friendly",
+      "1": "Mildly ? produce little distress",
+      "2": "Moderately ? produce distress and are disturbing and disruptive",
+      "3": "Severely ? very disturbing (medications may be required)"
+    }
+  },
+  "umpdhq_severity_score_total": {
+    "LongName": "UMPDHQ: Total severity score",
+    "Description": "Total sum of UMPDHQ 2 - 6 (score range 0-14)"
+  },
+  "umpdhq_severity_comments": {
+    "LongName": "UMPDHQ: Severity scoring comments",
+    "Description": "Any notes or comments for severity scoring (could document other hallucination types here)"
+  },
+  "umpdhq_quality_07": {
+    "LongName": "UMPDHQ Q07: Eye disease",
+    "Description": "Have you been diagnosed with any eye disease? (i.e. near or far sight problems, double vision, cataract, glaucoma, retinitis, retinal detachment,diabetic or hypertensive eye disease)",
+    "Levels": {
+      "1": "No",
+      "2": "Yes (please describe)"
+    }
+  },
+  "umpdhq_quality_08": {
+    "LongName": "UMPDHQ Q08: Medications",
+    "Description": "What are your current medications?"
+  },
+  "umpdhq_quality_09": {
+    "LongName": "UMPDHQ Q09: Medication change?",
+    "Description": "Was there a recent change in your treatment? Please describe.",
+    "Levels": {
+      "0": "N/A",
+      "1": "No",
+      "2": "Yes (please describe)"
+    }
+  },
+  "umpdhq_quality_10": {
+    "LongName": "UMPDHQ Q11: Medication impact?",
+    "Description": "Was this change related to the appearance or change in the characteristics of hallucinations?",
+    "Levels": {
+      "0": "N/A",
+      "1": "No",
+      "2": "Yes",
+      "3": "I cannot tell"
+    }
+  },
+  "umpdhq_quality_11": {
+    "LongName": "UMPDHQ Q11: On/Off?",
+    "Description": "Do you experience hallucinations while ?on? or ?off??",
+    "Levels": {
+      "0": "N/A",
+      "1": "On",
+      "2": "Off",
+      "3": "Anytime-not related to on-offs"
+    }
+  },
+  "umpdhq_quality_12_content": {
+    "LongName": "UMPDHQ Q12: Hallucinaion content",
+    "Description": "What do you normally see/feel/hear/smell/taste?",
+    "Levels": {
+      "0": "N/A",
+      "1": "Not formed/cannot describe",
+      "2": "Whole Faces",
+      "3": "Fragmented faces",
+      "4": "Whole people",
+      "5": "Animals",
+      "6": "Insects/reptiles",
+      "7": "Objects",
+      "8": "Other"
+    }
+  },
+  "umpdhq_quality_12_familiar": {
+    "LongName": "UMPDHQ Q12: Hallucinaion familiar",
+    "Description": "Hallucinations are familiar or unfamiliar",
+    "Levels": {
+      "0": "N/A",
+      "1": "Familiar",
+      "2": "Unfamiliar"
+    }
+  },
+  "umpdhq_quality_12_description": {
+    "LongName": "UMPDHQ Q12: Hallucinaions description",
+    "Description": "Description of hallucinations"
+  },
+  "umpdhq_quality_13": {
+    "LongName": "UMPDHQ Q13: Modulate",
+    "Description": "Is there anything you can do to make the images/sensations disappear?",
+    "Levels": {
+      "0": "N/A",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "umpdhq_quality_14": {
+    "LongName": "UMPDHQ Q14: Timing",
+    "Description": "At what time of the day or under which lighting conditions do you experience hallucinations",
+    "Levels": {
+      "0": "N/A",
+      "1": "During the day/Bright",
+      "2": "During the night/Dark",
+      "3": "Dim",
+      "4": "Anytime"
+    }
+  },
+  "umpdhq_quality_15": {
+    "LongName": "UMPDHQ Q15: Noise",
+    "Description": "Do the images ever make any sound or noise (for visual hallucinations)?",
+    "Levels": {
+      "0": "N/A",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "umpdhq_quality_16": {
+    "LongName": "UMPDHQ Q16: Movement",
+    "Description": "Do images move (for visual hallucinations)?",
+    "Levels": {
+      "0": "N/A",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "umpdhq_quality_17": {
+    "LongName": "UMPDHQ Q17: Size",
+    "Description": "Are the images normal size?",
+    "Levels": {
+      "0": "N/A",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "umpdhq_quality_18": {
+    "LongName": "UMPDHQ Q18: Size",
+    "Description": "Are the images normal size?",
+    "Levels": {
+      "0": "N/A",
+      "1": "Transparent",
+      "2": "Solid"
+    }
+  },
+  "umpdhq_quality_19": {
+    "LongName": "UMPDHQ Q19: Colour",
+    "Description": "Are the images colored?",
+    "Levels": {
+      "0": "N/A",
+      "1": "No",
+      "2": "Yes"
+    }
+  },
+  "umpdhq_quality_20": {
+    "LongName": "UMPDHQ Q20: Onset",
+    "Description": " Is the onset of hallucinations gradual or sudden?",
+    "Levels": {
+      "0": "N/A",
+      "1": "Gradual (appear-disappear slowly)",
+      "2": "Sudden (appear-disappear suddenly)",
+      "3": "I cannot tell"
+    }
+  }
+}
